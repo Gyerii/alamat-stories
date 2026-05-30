@@ -1,0 +1,24 @@
+{
+  "id": "underground_river",
+  "region": "Palawan",
+  "category": "likas",
+  "emoji": "🌊",
+  "title_fil": "Alamat ng Underground River",
+  "title_eng": "Legend of the Underground River",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Mundo sa Ilalim ng Lupa",
+      "title_eng": "The World Beneath the Earth",
+      "text_fil": "Sa kanlurang bahagi ng Palawan may isang misteryosong ilog na dumadaloy sa ilalim ng mga bundok at malalim na yungib. Para sa mga Tagbanua ito ay isang sagradong lugar na puno ng mga espiritu ng kanilang mga ninuno na nagbabantay sa bawat bato at agos ng tubig.",
+      "text_eng": "In western Palawan a mysterious river flows beneath the mountains and deep caves. For the Tagbanua people it is a sacred place full of the spirits of their ancestors who watch over every rock and flow of water."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pitong Langit",
+      "title_eng": "The Seven Heavens",
+      "text_fil": "Sinasabi ng mga Tagbanua na ang ilog ay nagdadala sa pitong langit ang pinakamataas na antas ng espirituwal na mundo. Ang mga kaluluwa ng mga namatay ay dumadaan sa ilog na ito patungo sa kanilang huling pahingahan kaya ang underground river ay isang sagradong tulay sa pagitan ng buhay at kamatayan.",
+      "text_eng": "The Tagbanua say the river leads to the seven heavens the highest spiritual realm. The souls of the departed pass through this river on their way to their final resting place making the underground river a sacred bridge between life and death."
+    }
+  ]
+}

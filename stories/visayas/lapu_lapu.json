@@ -1,0 +1,24 @@
+{
+  "id": "lapu_lapu",
+  "region": "Cebu, Visayas",
+  "category": "bayani",
+  "emoji": "🛡️",
+  "title_fil": "Si Lapu-Lapu Ang Unang Bayani",
+  "title_eng": "Lapu-Lapu The First Hero",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Datu ng Mactan",
+      "title_eng": "The Chieftain of Mactan",
+      "text_fil": "Si Lapu-Lapu ay ang datu ng isla ng Mactan sa Cebu. Nang dumating ang mga Espanyol maraming datu ang sumuko ngunit si Lapu-Lapu ay tumayo nang matapang at sinabi hindi kami magpapasakop sa mga dayuhan at handa kaming ipaglaban ang aming kalayaan.",
+      "text_eng": "Lapu-Lapu was the chieftain of the island of Mactan in Cebu. When the Spaniards arrived many chieftains surrendered but Lapu-Lapu bravely stood and said we will not submit to foreigners and we are ready to fight for our freedom."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Tagumpay sa Mactan",
+      "title_eng": "The Victory at Mactan",
+      "text_fil": "Noong Abril dalawamput pito ng taong isang libo limang daan at dalawampu't isa nilabanan ni Lapu-Lapu at ng kanyang mga mandirigma ang mga Espanyol. Kahit outnumbered hindi sila umatras at sa gitna ng labanan napatay si Magellan. Ang tagumpay na ito ay naging simbolo ng kalayaan ng bawat Pilipino.",
+      "text_eng": "On April twenty seventh fifteen twenty one Lapu-Lapu and his warriors fought the Spaniards. Even though outnumbered they did not retreat and in the battle Magellan was killed. This victory became a symbol of freedom for every Filipino."
+    }
+  ]
+}

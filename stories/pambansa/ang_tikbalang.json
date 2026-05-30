@@ -1,0 +1,25 @@
+{
+  "id": "ang_tikbalang",
+  "region": "Pambansa",
+  "category": "nilalang",
+  "emoji": "🐴",
+    "image": "assets/images/covers/ang_tikbalang.png",
+  "title_fil": "Ang Tikbalang",
+  "title_eng": "The Tikbalang",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Nilalang ng Kagubatan",
+      "title_eng": "The Forest Creature",
+      "text_fil": "Sa malalim na kagubatan ng Pilipinas naninirahan ang isang kakaibang nilalang na tinatawag na Tikbalang. Siya ay kalahating tao at kalahating kabayo na napakalaki at ang kanyang mga mata ay kumikinang sa dilim tulad ng apoy.",
+      "text_eng": "In the deep forests of the Philippines lives a strange creature called the Tikbalang. It is half human and half horse very large and its eyes shine in the darkness like fire."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Paano Mapipigilan ang Tikbalang",
+      "title_eng": "How to Stop the Tikbalang",
+      "text_fil": "Kapag naliligaw ka sa kagubatan dahil sa Tikbalang baligtarin ang iyong damit at huwag matakot. Kapag ginanito mawawala ang kanyang kapangyarihan at mahahanap mo ang tamang daan pauwi.",
+      "text_eng": "When you get lost in the forest because of the Tikbalang turn your clothes inside out and do not be afraid. When you do this its power disappears and you will find the right path home."
+    }
+  ]
+}

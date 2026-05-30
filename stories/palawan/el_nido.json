@@ -1,0 +1,17 @@
+{
+  "id": "el_nido",
+  "region": "Palawan",
+  "category": "likas",
+  "emoji": "🏝️",
+  "title_fil": "Alamat ng El Nido",
+  "title_eng": "Legend of El Nido",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pugad ng mga Ibon",
+      "title_eng": "The Birds Nest",
+      "text_fil": "Ang El Nido ay nagmula sa salitang pugad sa wikang Espanyol at ang pangalan ay nanggaling sa mga pugad ng mga balinsasayaw na itinayo sa matarik na mga bato sa dalampasigan ng Palawan na ginagamit sa paggawa ng bird's nest soup na isang mahal na pagkain.",
+      "text_eng": "El Nido comes from the Spanish word for nest and the name came from the nests of swiftlets built on the steep cliffs along the shores of Palawan which are used to make bird nest soup a very expensive delicacy."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "si_lam_ang",
+  "region": "Ilocos",
+  "category": "bayani",
+  "emoji": "⚔️",
+    "image": "assets/images/covers/si_lam_ang.png",
+  "title_fil": "Si Lam-ang Bayani ng Ilocos",
+  "title_eng": "Lam-ang Hero of Ilocos",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Kahanga-hangang Kapanganakan",
+      "title_eng": "The Miraculous Birth",
+      "text_fil": "Nang ipanganak si Lam-ang kaagad siyang nagsalita at nagpili ng kanyang sariling pangalan. Ako ay Lam-ang kanyang sinabi at nagulat ang lahat dahil nagsasalita ang sanggol. Ito ang simula ng buhay ng pinakadakilang bayani ng Ilocos.",
+      "text_eng": "When Lam-ang was born he immediately spoke and chose his own name. I am Lam-ang he said and everyone was shocked because the baby was speaking. This was the beginning of the life of the greatest hero of Ilocos."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Ines Kannoyan",
+      "title_eng": "Ines Kannoyan",
+      "text_fil": "Nang dumating si Lam-ang sa bahay ni Ines ipinatugtog ng kanyang tandang ang mahiwagang awit at natumba ang bahay sa lakas ng tunog. Natawa si Ines at napahanga sa kanyang tapang at doon nagsimula ang kanilang pagmamahal na pumalit sa lahat ng mga karibal.",
+      "text_eng": "When Lam-ang arrived at the house of Ines his rooster crowed its magical song and the house collapsed from the sound. Ines laughed and was impressed by his bravery and there their love began replacing all his rivals."
+    }
+  ]
+}

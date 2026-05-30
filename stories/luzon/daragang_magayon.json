@@ -1,0 +1,25 @@
+{
+  "id": "daragang_magayon",
+  "region": "Albay, Bicol",
+  "category": "likas",
+  "emoji": "🌋",
+  "image": "assets/images/covers/daragang_magayon.png",
+  "title_fil": "Alamat ng Daragang Magayon",
+  "title_eng": "Legend of the Beautiful Maiden",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamagandang Dalaga",
+      "title_eng": "The Most Beautiful Maiden",
+      "text_fil": "Sa lupain ng Bicol sa paanan ng isang malaking bundok may nayon na tinatahanan ng isang datu. Ang anak niyang babae ay tinatawag ng lahat na Daragang Magayon at ang kanyang kagandahan ay walang kapantay sa buong lupain.",
+      "text_eng": "In the land of Bicol at the foot of a great mountain there was a village ruled by a chieftain. His daughter was called Daragang Magayon and her beauty was unmatched throughout the entire land."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Trahedya at ang Bundok",
+      "title_eng": "The Tragedy and the Mountain",
+      "text_fil": "Sa gitna ng labanan para iligtas ang kanyang ama isang palaso ang tumama kay Daragang Magayon. Habang namamatay siya hinahawakan ni Panganoron ang kanyang kamay. Inilibing sila nang magkasama at sa lugar na iyon tumaas ang lupa at naging ang Bulkang Mayon na may perpektong hugis bilang alaala ng kanyang kagandahan.",
+      "text_eng": "In the middle of a battle to save her father an arrow struck Daragang Magayon. As she was dying Panganoron held her hand. They were buried together and in that place the earth rose to become Mayon Volcano with its perfect shape as a memory of her beauty."
+    }
+  ]
+}

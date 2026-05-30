@@ -1,0 +1,18 @@
+{
+  "id": "si_manuyog",
+  "region": "Palawan",
+  "category": "nilalang",
+  "emoji": "🐊",
+    "image": "assets/images/covers/si_manuyog.png",
+  "title_fil": "Si Manuyog at ang Buwaya",
+  "title_eng": "Manuyog and the Crocodile",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Kasunduan ng Tao at Buwaya",
+      "title_eng": "The Agreement Between Man and Crocodile",
+      "text_fil": "Sa mga ilog ng Palawan may isang espiritu na nagbabago ng anyo minsan tao minsan buwaya na tinatawag na Manuyog. Siya ang tagapangalaga ng ilog at gumawa ng kasunduan sa pagitan ng mga tao at mga buwaya na hindi sila mag-aatake sa isa't isa habang sinusunod ang kasunduan.",
+      "text_eng": "In the rivers of Palawan lives a shape-shifting spirit sometimes human sometimes crocodile called Manuyog. He is the guardian of the river and made an agreement between the people and the crocodiles that they would not attack each other as long as the agreement is honored."
+    }
+  ]
+}

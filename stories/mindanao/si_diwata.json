@@ -1,0 +1,18 @@
+{
+  "id": "si_diwata",
+  "region": "Mindanao",
+  "category": "nilalang",
+  "emoji": "🧚",
+  "image": "assets/images/covers/si_diwata.png",
+  "title_fil": "Ang Diwata ng Kagubatan",
+  "title_eng": "The Forest Fairy",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Tagapangalaga ng Kagubatan",
+      "title_eng": "The Forest Guardian",
+      "text_fil": "Sa malalim na kagubatan ng Mindanao naninirahan ang mga Diwata na mga espiritung may magandang anyo at makapangyarihang kakayahan. Sila ang tagapangalaga ng mga puno ilog at mga hayop at kapag ginalang ng mga tao ang kalikasan pinagpapala sila ng mga Diwata ng masaganang buhay.",
+      "text_eng": "In the deep forests of Mindanao live the Diwata, spirits with beautiful forms and powerful abilities. They guard the trees rivers and animals and when people respect nature the Diwata bless them with an abundant life."
+    }
+  ]
+}

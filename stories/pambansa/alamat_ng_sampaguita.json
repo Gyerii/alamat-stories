@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_sampaguita",
+  "region": "Pambansa",
+  "category": "likas",
+  "emoji": "🌸",
+    "image": "assets/images/covers/alamat_ng_sampaguita.png",
+  "title_fil": "Alamat ng Sampaguita",
+  "title_eng": "Legend of the Sampaguita",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Dalawang Magkasintahan",
+      "title_eng": "The Two Lovers",
+      "text_fil": "Noong sinaunang panahon may dalawang magkasintahang lubos na nagmamahal sa isa't isa. Ang lalaki ay isang matapang na mandirigma at ang babae ay isang magandang dalaga na kilala ng buong nayon.",
+      "text_eng": "In ancient times there were two lovers who deeply loved each other. The man was a brave warrior and the woman was a beautiful maiden known throughout the village."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pangako",
+      "title_eng": "The Promise",
+      "text_fil": "Hindi na bumalik ang mandirigma mula sa digmaan. Araw-araw pumupunta ang dalaga sa lugar kung saan sila nagkita at binibitiwan ang salitang sumampalataya ako. Isang umaga lumitaw ang maputing bulaklak na sampaguita sa lugar na iyon bilang simbolo ng kanyang katapatan.",
+      "text_eng": "The warrior never returned from war. Every day the maiden went to the place where they last met and whispered I promise you faithfulness. One morning white sampaguita flowers appeared there as a symbol of her loyalty."
+    }
+  ]
+}

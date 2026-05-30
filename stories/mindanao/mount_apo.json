@@ -1,0 +1,17 @@
+{
+  "id": "mount_apo",
+  "region": "Davao, Mindanao",
+  "category": "likas",
+  "emoji": "🏔️",
+  "title_fil": "Alamat ng Bundok Apo",
+  "title_eng": "Legend of Mount Apo",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Hari ng mga Bundok",
+      "title_eng": "The King of Mountains",
+      "text_fil": "Ang Bundok Apo ay ang pinakamataas na bundok sa Pilipinas na may taas na dalawang libo siyam na raan at limampung apat na metro. Para sa mga katutubo ng Mindanao ito ay tahanan ng makapangyarihang diyos na si Apo Sandawa na tagapangalaga ng lahat ng nilalang sa bundok.",
+      "text_eng": "Mount Apo is the highest mountain in the Philippines standing two thousand nine hundred fifty four meters tall. For the indigenous peoples of Mindanao it is the home of the powerful god Apo Sandawa who guards all creatures on the mountain."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "si_bathala",
+  "region": "Pambansa",
+  "category": "diyos",
+  "emoji": "⚡",
+   "image": "assets/images/covers/si_bathala.png",
+  "title_fil": "Bathala at ang Paglikha",
+  "title_eng": "Bathala and the Creation",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamataas na Diyos",
+      "title_eng": "The Supreme God",
+      "text_fil": "Sa simula pa ng lahat si Bathala na ang nandoon. Siya ang Maykapal na lumikha ng lahat ng bagay. Naninirahan siya sa kaitaasan ng langit sa lugar na tinatawag na Kaluwalhatian.",
+      "text_eng": "From the very beginning Bathala already existed. He was the Creator the maker of all things. He lived in the highest heaven in a place called Kaluwalhatian."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Paglikha ng Tao",
+      "title_eng": "The Creation of Man",
+      "text_fil": "Kinuha ni Bathala ang lupa mula sa lupa ang hininga mula sa hangin at ang init mula sa araw. Hinalo niya ang lahat at ginawa ang unang tao. Hiningahan niya ito ng kanyang espiritu at nabuhay ang tao.",
+      "text_eng": "Bathala took earth from the ground breath from the wind and warmth from the sun. He mixed them all and made the first person. He breathed his spirit into it and the person came to life."
+    }
+  ]
+}

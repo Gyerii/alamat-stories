@@ -1,0 +1,18 @@
+{
+  "id": "alamat_ng_baguio",
+  "region": "Benguet, Luzon",
+  "category": "likas",
+  "emoji": "🌲",
+  "image": "assets/images/covers/alamat_ng_baguio.png",
+  "title_fil": "Alamat ng Lungsod ng Baguio",
+  "title_eng": "Legend of Baguio City",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lupain ng Igorot",
+      "title_eng": "Land of the Igorot",
+      "text_fil": "Sa mataas na kabundukan ng Cordillera naninirahan ang mga Igorot na may malalim na koneksyon sa lupa at kalikasan. Ang lugar na tinatawag nilang Kafagway ay isang malamig na kapatagan sa gitna ng mga bundok na puno ng pino at ulap na sagrado sa kanila.",
+      "text_eng": "In the high mountains of the Cordillera the Igorot people lived in deep connection with the earth and nature. The place they called Kafagway was a cool plateau among mountains full of pines and clouds sacred to them."
+    }
+  ]
+}

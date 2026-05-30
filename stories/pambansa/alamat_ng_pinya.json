@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_pinya",
+  "region": "Pambansa",
+  "category": "likas",
+  "emoji": "🍍",
+  "image": "assets/images/covers/alamat_ng_pinya.png",
+  "title_fil": "Alamat ng Pinya",
+  "title_eng": "Legend of the Pineapple",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Batang Tamad",
+      "title_eng": "The Lazy Child",
+      "text_fil": "Noong unang panahon, may isang biyuda na may isang anak na babae. Siya ay napaka-tamad at hindi tumutulong sa kanyang ina kahit kailan. Tuwing hihingi ng tulong ang kanyang ina, palagi siyang may dahilan para hindi gumawa ng trabaho.",
+      "text_eng": "Long ago there was a widow with one daughter. She was very lazy and never helped her mother. Whenever her mother asked for help she always had an excuse not to work."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Sumpa ng Ina",
+      "title_eng": "The Mothers Curse",
+      "text_fil": "Isang araw nagkasakit ang ina at hiniling sa anak na tumulong ngunit tumanggi ang bata. Lumuha ang ina at sinabi sana magkaroon ka ng maraming mata. Kinabukasan naging pinya na ang anak na puno ng mga mata sa buong katawan.",
+      "text_eng": "One day the mother got sick and asked her child for help but the child refused. The mother cried and said I wish you had many eyes. The next morning the child became a pineapple covered with eyes all over its body."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "alamat_ng_taal",
+  "region": "Batangas, Luzon",
+  "category": "likas",
+  "emoji": "🌊",
+  "image": "assets/images/covers/alamat_ng_taal.png",
+  "title_fil": "Alamat ng Lawa ng Taal",
+  "title_eng": "Legend of Taal Lake",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Nayon na Nalunod",
+      "title_eng": "The Sunken Village",
+      "text_fil": "Noong unang panahon sa lugar kung saan naroon ngayon ang Lawa ng Taal may isang masayang nayon. Naging mayabang ang mga tao at isang gabi nagpadala ang mga diyos ng malaking baha. Ang buong nayon ay nalunod at naging lawa ang lugar at ang bulkan sa gitna ay ang galit ng mga espiritu.",
+      "text_eng": "Long ago where Taal Lake now lies there was a happy village. The people became arrogant and one night the gods sent a great flood. The entire village was submerged and became the lake and the volcano in the middle is the anger of the spirits."
+    }
+  ]
+}
