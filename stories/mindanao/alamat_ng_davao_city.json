@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_davao_city",
+  "region": "Davao City, Mindanao",
+  "category": "lunsod",
+  "emoji": "🌆",
+  "title_fil": "Alamat ng Davao City",
+  "title_eng": "Legend of Davao City",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lungsod sa Ilog Davao",
+      "title_eng": "The City by the Davao River",
+      "text_fil": "Bago maging isang makulay na lungsod, ang Davao ay isang tahimik na lupain sa dalampasigan ng Ilog Davao. Dito ay naninirahan ang mga Bagobo at Manobo na namumuhay nang payapa sa ilalim ng pangangalaga ng kanilang mga espiritu. Ang pangalang Davao ay nagmula sa salitang Daba-daba na nangangahulugang sunog na mga dahon dahil sa ritwal ng pagsusunugan ng mga katutubo.",
+      "text_eng": "Before becoming a vibrant city, Davao was a quiet land along the banks of the Davao River. Here the Bagobo and Manobo peoples lived peacefully under the protection of their spirits. The name Davao came from the word Daba-daba meaning burning leaves referring to the burning rituals of the indigenous peoples."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_sarangani",
+  "region": "Sarangani, Mindanao",
+  "category": "lalawigan",
+  "emoji": "🐟",
+  "title_fil": "Alamat ng Sarangani",
+  "title_eng": "Legend of Sarangani",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Dagat ng mga Isda",
+      "title_eng": "The Sea of Fish",
+      "text_fil": "Ang Sarangani ay kilala sa kanyang mga magandang karagatan na puno ng iba-ibang uri ng isda. Ayon sa alamat, isang matandang mangingisda na nagngangalang Saran ang unang natuklasan ang lugar na ito. Nakita niya na ang tubig ay kasing linaw ng salamin at ang ilalim ng dagat ay puno ng gintong isda na parang mga bituin ng karagatan.",
+      "text_eng": "Sarangani is known for its beautiful seas filled with various kinds of fish. According to legend, an old fisherman named Saran was the first to discover this place. He saw that the water was as clear as glass and the seabed was full of golden fish like stars of the ocean."
+    }
+  ]
+}

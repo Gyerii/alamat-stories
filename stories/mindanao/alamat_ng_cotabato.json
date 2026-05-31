@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_cotabato",
+  "region": "Cotabato, Mindanao",
+  "category": "lunsod",
+  "emoji": "🏛️",
+  "title_fil": "Alamat ng Cotabato",
+  "title_eng": "Legend of Cotabato",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Kutang Bato",
+      "title_eng": "The Stone Fort",
+      "text_fil": "Ang salitang Cotabato ay nagmula sa Maguindanaong salitang Kutang Bato na nangangahulugang kuta na gawa sa bato. Matagal na panahon bago dumating ang mga Kastila, ang mga Maguindanao ay nagtayo na ng matibay na kutang bato sa tabi ng Ilog Rio Grande de Mindanao upang pangalagaan ang kanilang komunidad mula sa mga kaaway.",
+      "text_eng": "The word Cotabato came from the Maguindanao word Kutang Bato meaning fort made of stone. Long before the Spanish arrived, the Maguindanao had already built a strong stone fort beside the Rio Grande de Mindanao River to protect their community from enemies."
+    }
+  ]
+}

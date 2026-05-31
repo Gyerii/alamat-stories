@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_zamboanga",
+  "region": "Zamboanga, Mindanao",
+  "category": "lunsod",
+  "emoji": "🌸",
+  "title_fil": "Alamat ng Zamboanga",
+  "title_eng": "Legend of Zamboanga",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lungsod ng mga Bulaklak",
+      "title_eng": "The City of Flowers",
+      "text_fil": "Matagal nang tinatawag ng mga Yakan at Subanen ang lugar na ito bilang Jambangan na nangangahulugang lugar ng mga bulaklak. Ang lugar ay puno ng iba-ibang uri ng halaman at bulaklak na hindi makikita kahit saan pa. Ayon sa alamat, ang isang prinsesa ng mga Subanen ay nagtanim ng daan-daang uri ng bulaklak upang ipakita ang kanyang pagmamahal sa kanyang lupang sinilangan.",
+      "text_eng": "The Yakan and Subanen people have long called this place Jambangan meaning place of flowers. The area was filled with various plants and flowers found nowhere else. According to legend, a Subanen princess planted hundreds of varieties of flowers to express her love for her homeland."
+    }
+  ]
+}

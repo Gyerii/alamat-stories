@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_misamis_oriental",
+  "region": "Misamis Oriental, Mindanao",
+  "category": "lalawigan",
+  "emoji": "🏔️",
+  "title_fil": "Alamat ng Misamis Oriental",
+  "title_eng": "Legend of Misamis Oriental",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Bundok at ang Dagat",
+      "title_eng": "The Mountain and the Sea",
+      "text_fil": "Ang Misamis Oriental ay isang lalawigan na kung saan nagtatagpo ang bundok at dagat. Ang mga Higaonon na naninirahan sa bundok at ang mga mangingisda sa baybayin ay may magkaparehong alamat tungkol sa isang higanteng nilalang na nagpuputol sa lupain. Ang kaliwa niyang kamay ay naging bundok at ang kanan ay naging dagat upang bigyan ng kinabuhayan ang lahat.",
+      "text_eng": "Misamis Oriental is a province where mountain and sea meet. The Higaonon living in the mountains and the fisherfolk on the coast share a common legend about a giant being who split the land. His left hand became the mountains and his right became the sea to provide livelihoods for all people."
+    }
+  ]
+}

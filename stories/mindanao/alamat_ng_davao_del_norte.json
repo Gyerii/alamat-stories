@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_davao_del_norte",
+  "region": "Davao del Norte, Mindanao",
+  "category": "lalawigan",
+  "emoji": "🌴",
+  "title_fil": "Alamat ng Davao del Norte",
+  "title_eng": "Legend of Davao del Norte",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Hilagang Hardin",
+      "title_eng": "The Northern Garden",
+      "text_fil": "Ang Davao del Norte ay isang lalawigan na puno ng masaganang kalikasan at magagandang bundok. Ang mga Ata Manobo na unang nanirahan dito ay naniniwala na ang kanilang lupain ay isang hardin na itinayo ng mga diyos bago pa man lumitaw ang mga tao. Bawat puno at halaman ay may sariling espiritu na nagbabantay sa kagubatan at nagbibigay ng pagpapala sa mga respetong manlalakbay.",
+      "text_eng": "Davao del Norte is a province full of abundant nature and beautiful mountains. The Ata Manobo who first lived here believe that their land is a garden built by the gods before humans even appeared. Every tree and plant has its own spirit that guards the forest and gives blessings to respectful travelers."
+    }
+  ]
+}

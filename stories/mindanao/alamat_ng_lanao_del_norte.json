@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_lanao_del_norte",
+  "region": "Lanao del Norte, Mindanao",
+  "category": "lalawigan",
+  "emoji": "🏞️",
+  "title_fil": "Alamat ng Lanao del Norte",
+  "title_eng": "Legend of Lanao del Norte",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lawa at ang Hilaga",
+      "title_eng": "The Lake and the North",
+      "text_fil": "Ang Lanao del Norte ay nakapaligid sa hilagang bahagi ng dakilang Lawa ng Lanao. Dito ay naninirahan ang mga Maranao na may malalim na ugnayan sa lawa. Ayon sa kanilang pinakamatandang alamat, ang hilagang pampang ng lawa ay pinagpalang lugar dahil doon ay unang lumapag ang mga anghel na nagdala ng kaalaman at sining ng mga Maranao.",
+      "text_eng": "Lanao del Norte surrounds the northern part of the great Lake Lanao. Here live the Maranao people with a deep connection to the lake. According to their oldest legend, the northern shore of the lake is a blessed place because it was there that the angels first landed bringing knowledge and arts to the Maranao."
+    }
+  ]
+}

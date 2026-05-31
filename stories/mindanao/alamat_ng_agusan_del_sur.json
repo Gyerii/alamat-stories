@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_agusan_del_sur",
+  "region": "Caraga, Mindanao",
+  "category": "lalawigan",
+  "emoji": "🐊",
+  "title_fil": "Alamat ng Agusan del Sur",
+  "title_eng": "Legend of Agusan del Sur",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lawa ng mga Buwaya",
+      "title_eng": "The Lake of Crocodiles",
+      "text_fil": "Sa kaibuturan ng Agusan del Sur ay matatagpuan ang Agusan Marsh ang pinakamalaking wetland sa Pilipinas. Ang mga Manobo ay naniniwala na ang mga buwaya sa marsh ay hindi mga karaniwang hayop kundi mga tagapangalaga na nagbabantay sa mga kaluluwa ng mga namatay. Ang sinumang makapanakit sa isang buwaya nang walang sapat na dahilan ay sasangkapan ng sumpa ng mga ninuno.",
+      "text_eng": "In the heart of Agusan del Sur lies the Agusan Marsh the largest wetland in the Philippines. The Manobo believe that the crocodiles in the marsh are not ordinary animals but guardians who watch over the souls of the departed. Anyone who harms a crocodile without sufficient reason will be afflicted with the curse of the ancestors."
+    }
+  ]
+}

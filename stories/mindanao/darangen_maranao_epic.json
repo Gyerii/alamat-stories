@@ -1,0 +1,17 @@
+{
+  "id": "darangen_maranao_epic",
+  "region": "Lanao, Mindanao",
+  "category": "epiko",
+  "emoji": "🌙",
+  "title_fil": "Ang Darangen (Maranao Epic)",
+  "title_eng": "Darangen (Maranao Epic)",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Awit ng mga Maranao",
+      "title_eng": "The Song of the Maranao",
+      "text_fil": "Ang Darangen ay isang mahabang awit-epiko ng mga Maranao sa paligid ng Danaw a Ranao o Lake Lanao. Ito ay isinasalaysay sa pamamagitan ng indayog na pag-awit at sumasaklaw sa mga kwento ng bayaning si Bantugan at ng kanyang magkakapatid na prinsipe. Ito ay itinuturing na isa sa pinaka-kumplikadong oral na literatura sa buong Asya.",
+      "text_eng": "The Darangen is a long epic song of the Maranao people around Danaw a Ranao or Lake Lanao. It is narrated through rhythmic chanting and covers the stories of the hero Bantugan and his princely brothers. It is considered one of the most complex oral literatures in all of Asia."
+    }
+  ]
+}

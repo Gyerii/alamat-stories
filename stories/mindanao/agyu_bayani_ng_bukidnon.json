@@ -1,0 +1,17 @@
+{
+  "id": "agyu_bayani_ng_bukidnon",
+  "region": "Bukidnon, Mindanao",
+  "category": "bayani",
+  "emoji": "🦅",
+  "title_fil": "Ang Agyu, Bayani ng Bukidnon",
+  "title_eng": "Agyu, Hero of Bukidnon",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Piniling Bayani",
+      "title_eng": "The Chosen Hero",
+      "text_fil": "Sa mga bundok ng Bukidnon, ipinanganak si Agyu sa isang mahirap na pamilya. Mula pagkabata, makikita na ang kanyang natatanging lakas at karunungan. Pinili siya ng mga diwata ng bundok upang maging tagapagtanggol ng kanyang bayan laban sa mga masamang espiritu na nagnanais na sirain ang kapayapaan ng mga Lumad.",
+      "text_eng": "In the mountains of Bukidnon, Agyu was born into a humble family. From childhood, his exceptional strength and wisdom were already evident. He was chosen by the mountain spirits to become the defender of his people against the evil spirits that wished to destroy the peace of the Lumad."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_basilan",
+  "region": "Basilan, BARMM, Mindanao",
+  "category": "lalawigan",
+  "emoji": "🌿",
+  "title_fil": "Alamat ng Basilan",
+  "title_eng": "Legend of Basilan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Isla ng mga Yakan",
+      "title_eng": "The Island of the Yakan",
+      "text_fil": "Ang Basilan ay isang isla sa timog-kanluran ng Mindanao na tahanan ng mga Yakan at Tausug. Ayon sa alamat ng mga Yakan, ang kanilang isla ay ipinanganak nang ang isang prinsesa ng karagatan ay nahulog mula sa langit. Ang kanyang katawan ay naging ang lupa ng Basilan at ang kanyang mga alahas ay naging ang mga coral reef sa paligid ng isla.",
+      "text_eng": "Basilan is an island southwest of Mindanao that is home to the Yakan and Tausug peoples. According to the legend of the Yakan, their island was born when a princess of the sea fell from the sky. Her body became the land of Basilan and her jewels became the coral reefs surrounding the island."
+    }
+  ]
+}

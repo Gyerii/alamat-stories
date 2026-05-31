@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_mindanao",
+  "region": "Mindanao",
+  "category": "heograpiya",
+  "emoji": "🌊",
+  "title_fil": "Alamat ng Mindanao",
+  "title_eng": "Legend of Mindanao",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Kapanganakan ng Dakong Isla",
+      "title_eng": "The Birth of the Great Island",
+      "text_fil": "Noong unang panahon, walang lupain sa timog. Ang lahat ay tubig lamang, malawak at walang katapusan. Ngunit sa ilalim ng karagatan, natutulog ang isang higanteng halimaw na tinatawag na Mindaw. Sa isang araw, nagising si Mindaw at lumukso siya nang napakalakas kaya ang kanyang katawan ay naging malaking lupain na ngayon ay tinatawag na Mindanao.",
+      "text_eng": "In ancient times, there was no land in the south. Everything was only water, vast and endless. But beneath the ocean, a giant creature called Mindaw was sleeping. One day, Mindaw awoke and leapt with such great force that his body became the great land now called Mindanao."
+    }
+  ]
+}

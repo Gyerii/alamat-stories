@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_davao_del_sur",
+  "region": "Davao del Sur, Mindanao",
+  "category": "lalawigan",
+  "emoji": "🦅",
+  "title_fil": "Alamat ng Davao del Sur",
+  "title_eng": "Legend of Davao del Sur",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Bahagi ng Agila",
+      "title_eng": "The Land of the Eagle",
+      "text_fil": "Ang Davao del Sur ay lupain ng Philippine Eagle ang pinaka-makapangyarihang ibon ng Pilipinas. Para sa mga Bagobo at Matigsalog na naninirahan dito, ang agila ay hindi lamang isang ibon kundi isang sagrado na mensahero ng mga diyos. Naniniwala sila na ang sinumang makapanakit sa agila ay tatanggap ng sumpa mula sa mga ninuno.",
+      "text_eng": "Davao del Sur is the land of the Philippine Eagle the most powerful bird in the Philippines. For the Bagobo and Matigsalog who live here, the eagle is not merely a bird but a sacred messenger of the gods. They believe that anyone who harms the eagle will receive a curse from the ancestors."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_camiguin",
+  "region": "Camiguin, Mindanao",
+  "category": "lalawigan",
+  "emoji": "🌋",
+  "title_fil": "Alamat ng Camiguin",
+  "title_eng": "Legend of Camiguin",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Isla ng Apoy",
+      "title_eng": "The Island of Fire",
+      "text_fil": "Ang Camiguin ay isang maliit na isla na may maraming bulkan na nag-uusok. Ayon sa alamat ng mga katutubo, ang isla ay ipinanganak nang isang dakilang dragon na nagtatago sa ilalim ng karagatan ay sumabog sa galit. Ang kanyang pagtaas mula sa tubig ay lumikha ng mga bundok ng Camiguin at ang kanyang hininga ng apoy ay naging mga bulkan na nagbibigay init at enerhiya sa lupa.",
+      "text_eng": "Camiguin is a small island with many smoking volcanoes. According to the legend of the indigenous people, the island was born when a great dragon hiding under the sea erupted in rage. Its rising from the water created the mountains of Camiguin and its fiery breath became the volcanoes that give heat and energy to the land."
+    }
+  ]
+}

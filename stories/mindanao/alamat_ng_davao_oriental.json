@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_davao_oriental",
+  "region": "Davao Oriental, Mindanao",
+  "category": "lalawigan",
+  "emoji": "🌅",
+  "title_fil": "Alamat ng Davao Oriental",
+  "title_eng": "Legend of Davao Oriental",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Unang Sinag ng Araw",
+      "title_eng": "The First Rays of the Sun",
+      "text_fil": "Ang Davao Oriental ay ang pinaka-silangang lalawigan ng Mindanao. Ayon sa mga Mandaya at Mansaka na naninirahan dito, ang kanilang lupain ay pinagpalang dahil ito ang unang tatamaan ng liwanag ng araw sa buong Pilipinas. Ang diyos ng araw ay may espesyal na pagmamahal sa lugar na ito at kaya naman ang lupa ay napaka-masagana at ang mga tao ay may masayang kabuhayan.",
+      "text_eng": "Davao Oriental is the easternmost province of Mindanao. According to the Mandaya and Mansaka who live here, their land is blessed because it is the first to be touched by sunlight in all of the Philippines. The sun god has a special love for this place and that is why the soil is very fertile and the people enjoy a happy livelihood."
+    }
+  ]
+}

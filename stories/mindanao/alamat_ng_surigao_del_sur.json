@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_surigao_del_sur",
+  "region": "Caraga, Mindanao",
+  "category": "lalawigan",
+  "emoji": "🏝️",
+  "title_fil": "Alamat ng Surigao del Sur",
+  "title_eng": "Legend of Surigao del Sur",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Baybaying Pilak",
+      "title_eng": "The Silver Shore",
+      "text_fil": "Ang Surigao del Sur ay nakaharap sa Karagatang Pasipiko at kilala sa magagandang baybayin at mga islang parang mga hiyas. Ang mga Manobo at Mamanwa na naninirahan dito ay may alamat na ang kanilang baybayin ay dating pilak na lupa. Isang diyos ng karagatan ang nagbago ng pilak na ito upang maging maputing buhangin upang matago ang yaman mula sa mga kaaway.",
+      "text_eng": "Surigao del Sur faces the Pacific Ocean and is known for its beautiful shores and islands like jewels. The Manobo and Mamanwa living here have a legend that their shore was once silver earth. A god of the ocean transformed this silver into white sand to hide the wealth from enemies."
+    }
+  ]
+}

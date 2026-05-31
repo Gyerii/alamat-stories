@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_cagayan_de_oro",
+  "region": "Misamis Oriental, Mindanao",
+  "category": "lunsod",
+  "emoji": "🏙️",
+  "title_fil": "Alamat ng Cagayan de Oro",
+  "title_eng": "Legend of Cagayan de Oro",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Ginto sa Ilog Cagayan",
+      "title_eng": "The Gold in Cagayan River",
+      "text_fil": "Sa hilagang baybayin ng Mindanao ay dumadaloy ang Ilog Cagayan de Oro. Ang mga katutubo ng Higaonon ay naniniwala na ang ilog na ito ay puno ng ginto na inilagay ng kanilang mga ninuno. Ang pangalang Cagayan de Oro ay nagpapakita ng katotohanang ito: Cagayan na nangangahulugang ilog at de Oro na nangangahulugang ginto sa wikang Kastila.",
+      "text_eng": "On the northern coast of Mindanao flows the Cagayan de Oro River. The Higaonon indigenous people believe this river is full of gold placed by their ancestors. The name Cagayan de Oro reflects this truth: Cagayan meaning river and de Oro meaning of gold in Spanish."
+    }
+  ]
+}

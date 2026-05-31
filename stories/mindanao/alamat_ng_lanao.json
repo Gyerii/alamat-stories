@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_lanao",
+  "region": "Lanao, Mindanao",
+  "category": "likas",
+  "emoji": "🌊",
+  "title_fil": "Alamat ng Lanao",
+  "title_eng": "Legend of Lake Lanao",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinagmulan ng Lawa",
+      "title_eng": "The Origin of the Lake",
+      "text_fil": "Ayon sa pinakamatandang alamat ng mga Maranao, ang Lawa ng Lanao ay hindi likas na nabuo kundi ito ay ginawa ng mga anghel. Nang unang dumating ang mga Maranao sa Mindanao, ang lugar kung saan ngayon ay may lawa ay isang malawak na kapatagan. Ang mga anghel ay nagtipon ng tubig mula sa langit at pinunan ang kapatagan upang lumikha ng pinakamagandang lawa sa buong mundo.",
+      "text_eng": "According to the oldest legend of the Maranao, Lake Lanao was not naturally formed but was made by angels. When the Maranao first came to Mindanao, the place where the lake now is was a wide plain. The angels gathered water from the heavens and filled the plain to create the most beautiful lake in the whole world."
+    }
+  ]
+}

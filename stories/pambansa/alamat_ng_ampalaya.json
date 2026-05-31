@@ -1,0 +1,14 @@
+{
+  "id": "alamat_ng_ampalaya",
+  "region": "Pilipinas",
+  "category": "halaman",
+  "emoji": "🥬",
+  "title_fil": "Alamat ng Ampalaya",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Mapait na Pag-ibig",
+      "text_fil": "May isang babae na nagmahal nang lubos sa isang lalaki ngunit ang lalaki ay nagpalit ng iba. Ang sakit ng kanyang puso ay walang katulad. Umiyak siya nang umiyak sa tabi ng kanilang halamanan at ang kanyang mga luha ay bumagsak sa lupa. Sa sumunod na araw ay may tumubo na isang bagong halaman na may matitinik na dahon at mapait na bunga katulad ng kanyang puso. Ito ang naging ampalaya na hanggang ngayon ay mapait pa rin ngunit puno ng sustansya katulad ng pagmamahal na kahit masakit ay nagbibigay ng lakas."
+    }
+  ]
+}

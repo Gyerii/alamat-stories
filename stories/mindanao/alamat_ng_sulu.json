@@ -1,0 +1,17 @@
+{
+  "id": "alamat_ng_sulu",
+  "region": "Sulu, BARMM, Mindanao",
+  "category": "lalawigan",
+  "emoji": "⚓",
+  "title_fil": "Alamat ng Sulu",
+  "title_eng": "Legend of Sulu",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Kaharian sa Dagat",
+      "title_eng": "The Kingdom on the Sea",
+      "text_fil": "Ang Sulu ay isa sa pinakamakapangyarihang kaharian sa kasaysayan ng Pilipinas. Ang Sultanate of Sulu ay naging sentro ng kalakalan at kultura sa buong Timog Silangang Asya. Ayon sa alamat ng mga Tausug, ang kanilang kaharian ay itinayo ng isang dakilang sultan na pinili ng mga bituin. Sa gabi na ipinanganak siya, ang lahat ng bituin sa langit ay nagliwanag nang dobleng liwanag bilang tanda ng kanyang kadakilaan.",
+      "text_eng": "Sulu is one of the most powerful kingdoms in the history of the Philippines. The Sultanate of Sulu became a center of trade and culture throughout Southeast Asia. According to the legend of the Tausug, their kingdom was built by a great sultan chosen by the stars. On the night he was born, all the stars in the sky shone with double brightness as a sign of his greatness."
+    }
+  ]
+}
