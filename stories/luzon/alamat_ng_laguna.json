@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_laguna",
+  "region": "Laguna",
+  "category": "lalawigan",
+  "emoji": "🌊",
+  "title_fil": "Alamat ng Laguna",
+  "image": "alamat_ng_laguna.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lawa at Ang Lupain",
+      "text_fil": "Ang Laguna ay kilala sa pinakamalaking lawa sa Pilipinas — ang Laguna de Bay. Ayon sa alamat, ang lawa ay nilikha ng isang makapangyarihang diwata na nais bigyan ng salamin ang kalangitan. Tinanggal ng diwata ang isang malaking piraso ng lupa at pinalitan ng tubig, upang ang mga bituin sa gabi ay makita rin mula sa ibaba. Mula noon, ang Laguna de Bay ay naging salamin ng langit sa lupa."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pook ng mga Bayani at Manunulat",
+      "text_fil": "Ang Laguna ay laging mahalaga sa kasaysayan ng Pilipinas. Dito ipinanganak ang ating pambansang bayani na si Dr. Jose Rizal sa bayan ng Calamba. Ang mga tula at nobela ni Rizal ay puno ng mga larawan ng kalikasan at kabuhayan ng Laguna — ang mga puno, ang lawa, at ang mga bundok na kanyang minahal. Ang Laguna ay hindi lamang isang lalawigan — ito ang pugad ng kaisipan na nagsilbing sandata para sa kalayaan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Yaman ng Laguna",
+      "text_fil": "Ang Laguna ay kilala rin sa parisaw at puto bumbong — mga tradisyonal na pagkain na gawa sa kanin at niyog. Ang bawat bayan ng Laguna ay may sariling espesyalidad: ang Paete sa wood carving, ang Pakil sa makulay na prusisyon ng Itim na Nazareno, at ang Los Baños sa mga mainit na bukal. Ang Laguna ay isang lalawigan na puno ng sining, kasaysayan, at kagandahang-loob."
+    }
+  ]
+}

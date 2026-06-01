@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_siquijor",
+  "region": "Siquijor",
+  "category": "nilalang",
+  "emoji": "🔮",
+  "title_fil": "Alamat ng Siquijor",
+  "image": "alamat_ng_siquijor.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Isla ng Apoy",
+      "text_fil": "Ang Siquijor ay kilala sa buong Pilipinas bilang \"Island of Fire\" — isang misteriyosong pulo na puno ng mga kwento ng mahika, mangkukulam, at mga engkanto. Ayon sa mga sinaunang manlalayag, nang unang makita nila ang pulo sa gabi, ito ay parang nagliliyab sa liwanag — dahil sa daan-daang libas na puno sa dalampasigan na nagliwanag ng sabay. Mula noon, ang pulo ay tinawag na Isla ng Apoy."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Mananambal at Ang Gamot",
+      "text_fil": "Ang Siquijor ay kilala sa mga mananambal — mga manggagamot na gumagamit ng halaman, ritwal, at espirituwal na kapangyarihan upang magpagaling ng sakit. Ang kanilang kaalaman ay ipinasa sa loob ng maraming henerasyon at itinuturing na regalo ng mga espiritu ng pulo. Tuwing Biyernes Santo, ang mga mananambal ay nag-titipon upang gumawa ng kanilang gamot — isang tradisyon na pinagsama ang Kristiyanismo at mga sinaunang paniniwala ng pulo."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Tunay na Siquijor",
+      "text_fil": "Sa kabila ng reputasyon ng Siquijor bilang pulo ng mahika, ang mga nakakakilala rito ay natutuklasan ang isang pulo ng hindi kapani-paniwalang kagandahan — malinaw na tubig, makulay na coral reefs, at mapayapang pamumuhay. Ang mga taga-Siquijor ay simpleng tao na may malalim na koneksyon sa kalikasan at sa kanilang mga ninuno. Ang \"mahika\" ng Siquijor ay hindi lamang tungkol sa kulam — ito ay tungkol sa malalim na karunungan ng mga taong namuhay kasama ang kalikasan sa loob ng maraming siglo."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_leyte",
+  "region": "Leyte",
+  "category": "kasaysayan",
+  "emoji": "⚔️",
+  "title_fil": "Alamat ng Leyte",
+  "image": "alamat_ng_leyte.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Isla ng Pagbabalik",
+      "text_fil": "Ang Leyte ay kilala sa buong mundo bilang lugar ng isa sa pinakamahalagang kaganapan sa Ikalawang Digmaang Pandaigdig — ang pagbabalik ni General Douglas MacArthur. Noong Oktubre 20, 1944, lumapag si MacArthur sa Red Beach ng Leyte at sinabi ang kanyang sikat na linya: \"I have returned.\" Para sa mga Pilipino, ang paglapag na ito ay simula ng wakas ng Hapon na pananakop at muling pagsilang ng kalayaan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Warays ng Leyte",
+      "text_fil": "Ang mga katutubo ng Leyte ay ang mga Waray — isang liping kilala sa kanilang tapang at katapatan. Sinasabing ang mga Waray ay hindi natakot sa kahit sinong kaaway. Ang salitang \"waray\" ay nangangahulugang \"wala\" sa kanilang wika — \"Waray hadlok\" (walang takot) ang palasak nilang sabihin bilang pagyayabang sa kanilang lakas. Ang tapang ng mga Waray ay napatunayan sa maraming labanan sa kasaysayan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kagandahan ng Leyte",
+      "text_fil": "Higit sa kasaysayan ng digmaan, ang Leyte ay isang pulo na puno ng kagandahan — ang Sohoton Natural Bridge National Park, ang mga waterfall sa Mahagnao, at ang malalim na kagubatan ng Leyte ay nagpapatunay ng yaman ng kalikasan ng isla. Ang Leyte ay tumatayog muli mula sa lahat ng sakuna — mula sa digmaan hanggang sa Bagyo Haiyan noong 2013 — patunay ng di-masasalakay na espiritu ng mga Waray."
+    }
+  ]
+}

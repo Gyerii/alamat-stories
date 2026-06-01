@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_negros",
+  "region": "Negros",
+  "category": "lalawigan",
+  "emoji": "🍬",
+  "title_fil": "Alamat ng Negros",
+  "image": "alamat_ng_negros.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Islang Asukal",
+      "text_fil": "Ang Negros ay tinatawag na \"Sugar Bowl of the Philippines\" — ang pulo na nagbibigay ng malaking bahagi ng asukal ng bansa. Ayon sa kasaysayan, ang asukal ay naging pundasyon ng ekonomiya ng Negros sa loob ng daan-daang taon. Ang mga hacienda at mills ay nagtatayo mula sa ibabaw ng Negros Occidental at Negros Oriental, at ang buhay ng mga Negrense ay malalim na nauugnay sa ikot ng panahon ng pagtatanim at pag-aani ng tubo."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang MassKara Festival",
+      "text_fil": "Ang pinakasikat na pagdiriwang ng Negros ay ang MassKara Festival ng Bacolod — isang makulay na selebrasyon ng ngiti at kasiyahan na ipinanganak sa isang masakit na panahon. Noong 1980, maraming tao mula Negros ang namatay sa isang trahedya, at ang mga taga-Bacolod ay nagpasya na harapin ang kalungkutan sa pamamagitan ng ngiti. Ang MassKara ay sagisag ng tapang at kagalakan ng mga Negrense sa harap ng pagsubok."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kagubatan ng Negros",
+      "text_fil": "Ang Negros ay hindi lamang asukal — ito ay isang pulo na may mayamang biodiversity. Ang Negros ay tahanan ng maraming endemic na species ng hayop at halaman na matatagpuan lamang sa isla. Ang mga bundok ng Negros — tulad ng Mount Kanlaon, ang aktibong bulkan — ay nagsisilbing sanctuary para sa mga nanganganib na hayop. Ang mga Negrense ay may malalim na pagmamahal sa kanilang kalikasan kasabay ng kanilang pagmamahal sa asukal at kultura."
+    }
+  ]
+}

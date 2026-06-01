@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bohol",
+  "region": "Bohol",
+  "category": "likas",
+  "emoji": "🍫",
+  "title_fil": "Alamat ng Bohol",
+  "image": "alamat_ng_bohol.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Chocolate Hills",
+      "text_fil": "Ang Bohol ay kilala sa buong mundo dahil sa Chocolate Hills — mga 1,200 na bilog na burol na nag-iiba ng kulay mula berde tungong kayumanggi tuwing tag-araw, parang tsokolate na nakalagay sa lupa. Ayon sa alamat, ang mga burol ay luha ng isang higante na nagngangalang Arogo na nahulog dahil sa pag-ibig sa isang mortal na babae. Nang mamatay ang babae, hindi mapigilan ni Arogo ang kanyang kalungkutan at ang kanyang mga luha ay naging mga burol."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Tarsier at Ang Kagubatan",
+      "text_fil": "Ang Bohol ay tahanan ng tarsier — isa sa pinakamaliit na primate sa mundo. Ang tarsier ay may malaking mata na kayang lumiko ng 180 degrees, at ang mga ninuno ng Bohol ay naniniwala na ang tarsier ay mensahero ng mga espiritu ng kagubatan. Ang sinumang mananakit sa tarsier ay darating ang masamang kapalaran, kaya ang mga Boholano ay palaging nagpoprotekta sa maliit na hayop mula pa sa sinaunang panahon."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kasunduan ng Sandugo",
+      "text_fil": "Ang Bohol ay may natatanging lugar sa kasaysayan ng Pilipinas — dito ginawa ang unang kasunduan ng pagkakaibigan sa pagitan ng isang Pilipino at isang dayuhan. Noong 1565, ang datu ng Bohol na si Sikatuna at ang Espanyol na si Miguel Lopez de Legazpi ay nag-sandugo — nagpalitan ng dugo bilang tanda ng pagkakapatiran. Ang Sandugo ay naging simbolo ng dignidad at pagiging pantay-pantay ng mga Pilipino sa harap ng dayuhan."
+    }
+  ]
+}

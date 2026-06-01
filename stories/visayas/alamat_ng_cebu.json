@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_cebu",
+  "region": "Cebu",
+  "category": "lunsod",
+  "emoji": "⛪",
+  "title_fil": "Alamat ng Cebu",
+  "image": "alamat_ng_cebu.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Puso ng Pilipinas",
+      "text_fil": "Ang Cebu ay tinatawag na \"Queen City of the South\" at isa sa mga pinakamahalaga at pinaka-makasaysayang lugar sa Pilipinas. Dito unang dumating ang Islam at Kristiyanismo sa ating bansa. Ang mga sinaunang Cebuano ay mga mangangalakal at manlalayag na kilala sa buong Asya — ang kanilang mga barko ay naglayag mula Tsina hanggang Borneo bago pa man dumating ang mga Espanyol."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Lapu-Lapu at ang Labanan sa Mactan",
+      "text_fil": "Ang pinakasikat na kabanata ng kasaysayan ng Cebu ay ang labanan sa Mactan noong 1521, kung saan pinatay ni Datu Lapu-Lapu si Ferdinand Magellan. Ang Lapu-Lapu, datu ng Mactan, ay tumanggi sa awtoridad ng mga Espanyol at nagpakita na ang mga Pilipino ay hindi basta-basta maaaring sakupin. Siya ay ang unang bayaning Filipino at ang kanyang tapang ay nagbibigay inspirasyon sa mga Pilipino hanggang ngayon."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Santo Niño at Ang Sinulog",
+      "text_fil": "Ang Cebu ay puso ng debosyon sa Santo Niño — ang imahe ng Batang Hesus na ibinigay ni Magellan kay Reyna Juana. Tuwing Enero, ang Cebu ay nagdiriwang ng Sinulog Festival — isa sa pinakamalaking pagdiriwang sa Pilipinas na puno ng sayaw, musika, at debosyon. Ang hiyaw na \"Pit Señor!\" ay maririnig sa buong lungsod bilang tanda ng malalim na pananampalataya at pagmamahal ng mga Cebuano."
+    }
+  ]
+}

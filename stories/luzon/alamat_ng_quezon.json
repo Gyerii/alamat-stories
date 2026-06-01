@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_quezon",
+  "region": "Quezon",
+  "category": "lalawigan",
+  "emoji": "🥥",
+  "title_fil": "Alamat ng Quezon",
+  "image": "alamat_ng_quezon.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lalawigan ng Niyog",
+      "text_fil": "Ang Quezon ay isa sa pinakamalaking lalawigan sa Pilipinas at kilala bilang \"Coconut Province\" — ang pangunahing tagapagluwas ng niyog sa buong bansa. Ayon sa alamat, isang matandang babaylan ang nagtanim ng unang niyog sa lupa ng Quezon bilang pasasalamat sa mga diyos. Mula sa isang punong-niyog ay lumago ang isang kagubatan na nagbigay ng pagkain, bubong, at kabuhayan sa mga tao."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Kagandahan ng Tayabas",
+      "text_fil": "Ang Quezon, na dati ay tinatawag na Tayabas, ay puno ng mga natural na kagandahan — mula sa Bulkang Banahaw sa hilaga hanggang sa mga puting buhangin ng Bondoc Peninsula sa timog. Ang mga unang Pilipino sa Quezon ay namuhay sa karagatan at kagubatan, may malalim na kaalaman sa kalikasan na ipinasa ng mga ninuno. Ang bawat bundok at dagat ng Quezon ay may sariling kuwento ng tapang at pag-ibig."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Yema at Pahiyas",
+      "text_fil": "Ang Quezon ay sikat sa Pahiyas Festival sa Lucban — isang makulay na pagdiriwang ng pagpapasalamat sa ani na ginagawa taon-taon. Ang mga bahay ay dinedekorasyunan ng mga kiping, prutas, at gulay bilang pasasalamat sa kasaganaan. Ang yema, puto, at tikoy ng Quezon ay kilala sa buong Pilipinas. Ang lalawigan ay patuloy na pinapahalagahan ang mga tradisyon ng kanilang mga ninuno bilang pundasyon ng kanilang kasalukuyang buhay."
+    }
+  ]
+}

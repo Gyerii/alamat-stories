@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_samar",
+  "region": "Samar",
+  "category": "lalawigan",
+  "emoji": "🌿",
+  "title_fil": "Alamat ng Samar",
+  "image": "alamat_ng_samar.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pulo ng Kagubatan",
+      "text_fil": "Ang Samar ay isa sa mga pinaka-mabundok at pinaka-maginaw na pulo sa Visayas. Kilala ang Samar sa Philippine Eagle, sa mga espeleolohikal na yungib, at sa malalim na rainforest na sagana sa buhay. Ang mga sinaunang Waray ng Samar ay nanirahan sa kagubatan at karagatan, may malalim na kaalaman sa kalikasan na itinuturing nilang banal at dapat pangalagaan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Sohoton at Mga Banal na Yungib",
+      "text_fil": "Ang Sohoton Natural Bridge sa Samar ay isa sa mga pinakamagandang natural na kayamanan ng Pilipinas — isang tulay na yari sa likas na bato na napalibutan ng mga stalactite at stalagmite. Ayon sa alamat, ang mga yungib ng Samar ay tirahan ng mga engkanto at espiritu ng kalikasan. Ang sinumang papasok sa mga yungib nang walang pahintulot ng mga espiritu ay maaaring mawala o maligaw magpakailanman."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Tapang ng mga Waray",
+      "text_fil": "Ang Samar ay kilala rin sa kasaysayan ng resistensya — ang Balangiga Massacre noong 1901 ay isa sa mga pinaka-makabuluhang kaganapan ng Digmaang Pilipino-Amerikano. Ang mga Waray ng Samar ay nagpakita ng pambihirang tapang sa paglaban sa mga mananakop. Ang kanilang kuwento ay patunay na ang liit ng katawan ay hindi sukatan ng lakas ng kalooban. Ang Samar ay puno ng mga kwentong tapang na dapat malaman ng bawat Pilipino."
+    }
+  ]
+}

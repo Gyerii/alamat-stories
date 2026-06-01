@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bulacan",
+  "region": "Bulacan",
+  "category": "lalawigan",
+  "emoji": "🎭",
+  "title_fil": "Alamat ng Bulacan",
+  "image": "alamat_ng_bulacan.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lalawigan ng mga Bayani",
+      "text_fil": "Ang Bulacan ay kilala bilang \"Lalawigan ng mga Bayani\" — dito ipinanganak ang maraming dakilang Pilipino tulad ni Francisco Balagtas, si Marcelo H. del Pilar, at si Emilio Aguinaldo. Ang lupain ng Bulacan ay natatangi sapagkat mula sa maayos na patak ng Ilog Angat hanggang sa mga bunton-araw na bukid, ang bawat sulok ng lalawigan ay naglalaman ng kasaysayan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Balagtas at Ang Florante",
+      "text_fil": "Ang pinaka-kilalang anak ng Bulacan ay si Francisco \"Balagtas\" Baltazar, ang manunulat ng Florante at Laura. Sinasabing sumulat siya ng sikat na akdang ito habang nakabilanggo, at ang bawat taludtod ay nagdadala ng mensahe ng pag-ibig, kalayaan, at katarungan. Ang Bulacan ay ipinagmamalaki ang kanyang anak na pumalit sa dilim ng pananakop sa pamamagitan ng liwanag ng salita."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Yaman ng Bulacan",
+      "text_fil": "Higit sa kasaysayan, ang Bulacan ay mayaman din sa kultura at kabuhayan. Ang Bulacan ay kilala sa paggawa ng atsara, minatamis, at iba pang pagkain na nagpapakita ng husay ng mga mananahi at mga magsasaka. Ang bulaklakin ng sampaguita — pambansang bulaklak ng Pilipinas — ay pinakamaraming natanim at pinalaki sa Bulacan, na nagbibigay ng matamis na amoy sa buong lalawigan."
+    }
+  ]
+}

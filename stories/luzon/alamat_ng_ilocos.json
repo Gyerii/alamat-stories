@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_ilocos",
+  "region": "Ilocos",
+  "category": "lalawigan",
+  "emoji": "🏺",
+  "title_fil": "Alamat ng Ilocos",
+  "image": "alamat_ng_ilocos.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Rehiyon ng mga Ilocano",
+      "text_fil": "Ang Ilocos ay isang makitid na lajain sa kanlurang dalampasigan ng Luzon na nahaharap sa Dagat Tsina. Ang mga Ilocano ay kilala sa kanilang pagiging matipid, masipag, at matatag na karakter — katangian na hinubog ng mahirap na kalikasan ng kanilang lupain. Ang lupa ng Ilocos ay bato at magaspang, ngunit sa pamamagitan ng sipag at diskarte, ginawa ng mga Ilocano ang kanilang rehiyon na isang sentro ng kultura at kalakalan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Sining at Tradisyon",
+      "text_fil": "Ang Ilocos ay sikat sa abel Iloco — ang tradisyonal na tela na tinalian ng mga manghahabi sa Vigan at Paoay sa loob ng daan-daang taon. Ang bawat disenyo ng abel ay may kahulugan — ang mga kulay at pattern ay nagkukuwento ng buhay, pag-ibig, at kalikasan. Bilang karagdagan, ang Ilocos ay kilala sa empanada, bagnet, at pinakbet — mga pagkaing puno ng lasa ng tradisyon."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pamana ng Ilocos",
+      "text_fil": "Ang Vigan, ang kabisera ng Ilocos Sur, ay isa sa mga pinaka-maayos na napanatiling kolonyal na lungsod sa Asya at isang UNESCO World Heritage Site. Ang mga cobblestone na kalsada at antikong bahay na bato ay nagpapaalaala sa dakilang nakaraan ng Ilocos. Ang rehiyon ay nagbigay sa Pilipinas ng maraming lider at isang pangunahing pangulo — patunay ng henyo at tapang ng mga tao ng Ilocos."
+    }
+  ]
+}

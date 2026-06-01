@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_pangasinan",
+  "region": "Pangasinan",
+  "category": "lalawigan",
+  "emoji": "🐟",
+  "title_fil": "Alamat ng Pangasinan",
+  "image": "alamat_ng_pangasinan.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lupain ng Asin",
+      "text_fil": "Ang \"Pangasinan\" ay nagmula sa salitang \"asin\" sa wikang Ilocano — \"lugar ng asin\" — dahil ang rehiyon ay kilala sa paggawa ng asin mula pa sa sinaunang panahon. Ang mga magsasaka ng asin sa Pangasinan ay ginamit ang tubig dagat at araw upang lumikha ng puting asin na ipinagpapalit sa iba pang produkto sa buong Luzon. Ang asin ng Pangasinan ay simbolo ng kabuhayan at kasaganaan ng kanilang lupa."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Urduja, ang Prinsesa-Mandirigma",
+      "text_fil": "Ang pinakasikat na bayani ng Pangasinan ay si Prinsesa Urduja — isang babae na namuno ng hukbo at hindi natalo sa labanan. Ayon sa kasaysayan at alamat, si Urduja ay isang makapangyarihang prinsesa na nag-angkin ng kapangyarihan sa pamamagitan ng kanyang katalinuhan at lakas. Naniniwala ang mga Pangasinense na ang tapang ni Urduja ay sumakop sa kanilang dugo at nagbibigay sa kanila ng lakas tuwing may pagsubok."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Hundred Islands at Bangus",
+      "text_fil": "Ang Pangasinan ay may dalawang simbolo ng kagandahan at kasaganaan: ang Hundred Islands National Park at ang bangus. Ang Hundred Islands ay isang grupo ng mga maliit na pulo sa Lingayen Gulf na sumasalamin sa kagandahan ng kalikasan. Samantala, ang Pangasinan ay pinaka-kilala sa buong Pilipinas bilang pinaka-malaking producer ng bangus — ang piling isda ng mga Pilipino na walang kapantay sa sarap."
+    }
+  ]
+}

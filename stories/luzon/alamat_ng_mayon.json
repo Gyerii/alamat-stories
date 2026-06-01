@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_mayon",
+  "region": "Albay",
+  "category": "likas",
+  "emoji": "🌋",
+  "title_fil": "Alamat ng Bulkang Mayon",
+  "image": "alamat_ng_mayon.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamagandang Bulkan",
+      "text_fil": "Ang Bulkang Mayon ay kilala sa buong mundo bilang pinaka-perpektong kono na bulkan. Ang kanyang anyo ay simetrikal at dalisay — mula sa base hanggang sa tuktok ay walang pagkakamali. Ayon sa mga sinaunang Bikolano, ang Mayon ay hindi nilikha ng kalikasan lamang — ito ay pinaghandaan ng mga diyos bilang kanilang trono sa mundo, isang lugar na nagsasalamin ng kagandahan ng kalangitan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Daragang Magayon at si Panganoron",
+      "text_fil": "Ang pinakasikat na alamat ng Mayon ay ang kwento ni Daragang Magayon — ang pinakamagandang dalaga sa Bicol — at ni Panganoron, ang kanyang pinakamahalagang pag-ibig. Nang mapatay si Panganoron ng isang karibal, si Daragang Magayon ay nagtapon ng sarili sa katawan ng kanyang minamahal. Ang kanilang pag-ibig ay naging apoy — ang bundok na lumitaw sa kanilang hukay ay ang Bulkang Mayon, na pana-panahong nagngangalit na parang nagbubulwak na pag-ibig."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Bulkan Ngayon",
+      "text_fil": "Ang Bulkang Mayon ay isa sa mga pinakaaktibong bulkan sa Pilipinas — madalas itong sumabog at nagbibigay ng babala sa mga tao sa paligid. Ngunit sa kabila ng panganib, ang mga Bikolano ay hindi tumitigil sa pagmamahal sa kanilang bulkan. Para sa kanila, ang bawat pagsingaw ng Mayon ay paalala ng pag-ibig ni Daragang Magayon — isang pag-ibig na walang katapusan at hindi malilimutan."
+    }
+  ]
+}

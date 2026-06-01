@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_batangas",
+  "region": "Batangas",
+  "category": "lalawigan",
+  "emoji": "⚓",
+  "title_fil": "Alamat ng Batangas",
+  "image": "alamat_ng_batangas.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lupain ng mga Tagalog",
+      "text_fil": "Ang Batangas ay isa sa mga pinaka-makulay na lalawigan sa Luzon. Ayon sa kasaysayan, ang ngalang \"Batangas\" ay nagmula sa salitang \"batang\" — isang uri ng palayok o tapayan na ginagamit ng mga sinaunang mananahi at mangangalakal sa lugar. Ang mga unang mananahan dito ay mga Tagalog na kilala sa kanilang husay sa pagmamangka at kalakal."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Bayani ng Batangas",
+      "text_fil": "Kilala ang Batangas bilang lupain ng mga bayani. Dito ipinanganak si Apolinario Mabini, ang \"Sublime Paralytic\" na naging utak ng Rebolusyong Pilipino. Ayon sa mga matatanda, ang dugo ng mga Batangueño ay puno ng tapang at talino — katangian na minana mula sa kanilang mga ninuno na walang sawang lumaban para sa kalayaan ng bansa."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kape at Ang Taal",
+      "text_fil": "Hindi mapaghihiwalay ang Batangas sa kape at sa Bulkang Taal. Ang kape ng Batangas ay kilala sa buong Asya dahil sa kakaibang lasa nito na hinubog ng volcanic soil ng rehiyon. Samantala, ang Taal — ang pinakamaliit na bulkan sa mundo na nasa loob ng lawa na nasa loob ng lawa — ay simbolo ng lakas at kagandahan ng Batangas na hanggang ngayon ay pinagtatakhan ng mundo."
+    }
+  ]
+}

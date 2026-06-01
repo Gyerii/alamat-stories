@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_cagayan_valley",
+  "region": "Cagayan Valley",
+  "category": "lalawigan",
+  "emoji": "🌾",
+  "title_fil": "Alamat ng Cagayan Valley",
+  "image": "alamat_ng_cagayan_valley.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lambak ng Ilog Cagayan",
+      "text_fil": "Ang Cagayan Valley ay isang malawak na lambak sa hilaga ng Luzon na tinabasan ng pinakamahaba at pinaka-malawak na ilog sa Pilipinas — ang Ilog Cagayan. Ayon sa mga ninuno, ang ilog ay nilikha ng isang diyos na nais bigyan ng buhay ang tuyong lupain. Itinuro ng diyos ang kanyang kamay at sa pagdaan ng kanyang mga daliri sa lupa, lumitaw ang mga sanga-sangang ilog."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Sinaunang Tao ng Cagayan",
+      "text_fil": "Bago dumating ang mga Espanyol, ang Cagayan Valley ay tirahan ng mga Ibanag, Itawis, Gaddang, at iba pang grupong etniko. Ang bawat tribo ay may sariling wika, kultura, at tradisyon. Ang mga Ibanag, na nakatira malapit sa ilog, ay kilala sa kanilang husay sa pangingisda at pagsasaka — ang kanilang kaalaman sa panahon at sa ilog ay ipinasa mula sa ama hanggang sa anak sa loob ng maraming henerasyon."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kabayan ng Mais at Tabako",
+      "text_fil": "Hanggang ngayon, ang Cagayan Valley ay isa sa pinaka-produktibong rehiyon sa Pilipinas — kilala bilang granary ng hilaga. Ang mais, tabako, at palay ay pangunahing ani na nagpapakain sa milyun-milyong Pilipino. Ang tabako ng Cagayan ay kilala sa buong mundo sa kalidad nito, na nagpapatunay na ang lupa na binubuhay ng Ilog Cagayan ay tunay na pagpala mula sa mga diyos ng Cagayan."
+    }
+  ]
+}

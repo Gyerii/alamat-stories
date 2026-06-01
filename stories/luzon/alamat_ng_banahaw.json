@@ -1,0 +1,24 @@
+{
+  "id": "alamat_ng_banahaw",
+  "region": "Quezon",
+  "category": "likas",
+  "emoji": "🌋",
+  "title_fil": "Alamat ng Bundok Banahaw",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Banal na Bundok",
+      "text_fil": "Ang Bundok Banahaw ay isang sunog na bulkan na matatagpuan sa hangganan ng Quezon at Laguna. Itinuring ito ng mga sinaunang Pilipino bilang isang banal na lugar — tirahan ng mga espiritu at diyos ng kalikasan. Naniniwala ang mga tao na ang bundok ay pinagpalang lugar na nagbibigay ng kapangyarihan sa lahat ng papalapit nang may puri at galang."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Tubig na Nagpapagaling",
+      "text_fil": "Ayon sa alamat, may mga bukal sa Banahaw na nagtataglay ng kapangyarihang magpagaling ng sakit. Ang mga peregrino mula sa iba't ibang bahagi ng Pilipinas ay pumupunta sa bundok upang maligo sa mga banal na bukal. Sinasabing ang tubig ay pinagpala ng mga anito at ng Diyos, kaya naman maraming naniwalang gumaling sa pamamagitan ng mapagpalayang tubig ng Banahaw."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Bundok Bilang Tagapangalaga",
+      "text_fil": "Hanggang ngayon, ang Bundok Banahaw ay itinuturing na isa sa mga pinakabanal na lugar sa Pilipinas. Tuwing Semana Santa, daan-daang mga deboto ang umaakyat sa bundok upang magpanata at magdasal. Ang bundok ay patuloy na nagsisilbing tagapangalaga ng kaluluwa at katawan ng mga Pilipinong naghahanap ng espirituwal na lakas at kapayapaan."
+    }
+  ]
+}

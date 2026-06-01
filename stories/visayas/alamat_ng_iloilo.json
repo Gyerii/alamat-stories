@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_iloilo",
+  "region": "Iloilo",
+  "category": "lunsod",
+  "emoji": "🎪",
+  "title_fil": "Alamat ng Iloilo",
+  "image": "alamat_ng_iloilo.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lungsod ng Pag-ibig",
+      "text_fil": "Ang Iloilo ay kilala bilang \"City of Love\" — isang lungsod na puno ng kasaysayan, kultura, at init ng pagpapahalaga sa kapwa. Ang mga sinaunang Ilonggo ay mga mangangalakal at artisano na kilala sa kanilang paghahabi ng piña at jusi — mga tela na manipis at malambot na ginagamit sa mga baro at damit pangkasalan. Ang Iloilo ay naging sentro ng kalakalan sa Visayas sa loob ng maraming siglo."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Dinagyang at Ang Ati-Atihan",
+      "text_fil": "Ang pinakasikat na pagdiriwang ng Iloilo ay ang Dinagyang Festival — isang makulay na sayawan bilang pagdiriwang kay Santo Niño at bilang pagkilala sa mga katutubo ng Panay, ang mga Ati. Ang mga Ati ay ang mga unang tao ng Panay bago dumating ang mga Malay. Ayon sa kasaysayan, ang mga Ati ay nagbenta ng lupain sa mga Malay kapalit ng alahas at mga gintong palawit, at ang kasunduang ito ay isinasalaysay tuwing Dinagyang."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Lasa ng Iloilo",
+      "text_fil": "Ang Iloilo ay kilala rin sa pagkain — ang La Paz Batchoy ay isang masarap na sopas na gawa sa miki noodles, utak, at atay ng baboy na lumitaw sa La Paz market noong unang bahagi ng ika-20 siglo. Ang KBL (Kadios-Baboy-Langka) ay isa pang sikat na putahe na nagpapakita ng pagiging malikhain ng mga Ilonggo sa pagluluto. Ang pagkain ng Iloilo ay isang tugtugan ng kasaysayan, kultura, at pagmamahal."
+    }
+  ]
+}

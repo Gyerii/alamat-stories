@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bicol",
+  "region": "Bicol",
+  "category": "lalawigan",
+  "emoji": "🌶️",
+  "title_fil": "Alamat ng Rehiyon ng Bicol",
+  "image": "alamat_ng_bicol.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lupain ng Bulkan at Dagat",
+      "text_fil": "Ang Bicol ay isang rehiyon sa timog-silangang bahagi ng Luzon, kilala sa kagandahan ng Bulkang Mayon at sa singsing na katubigan ng Lagonoy Gulf. Ayon sa mga ninuno, ang Bicol ay nilikha ng mga diyos bilang isang regalo sa mga taong matapang at matiisin — isang lugar na halos palaging tinatamaan ng bagyo ngunit palaging bumabangon na mas malakas."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Sili at Ang Gata",
+      "text_fil": "Ang pagkain ng Bicol ay kilala sa buong Pilipinas — ang bicol express, pinangat, at kinunot ay mga pagkaing ginagawa mula sa sili at gata ng niyog. Ayon sa alamat, isang matandang babaylan ang nagturo sa mga Bikolano kung paano gamitin ang apoy ng sili upang bigyan ng init ang kanilang puso sa gitna ng malamig na ulan at bagyo. Mula noon, ang sili ay naging simbolo ng lakas ng loob ng mga Bikolano."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Puso ng Bikolano",
+      "text_fil": "Sa kabila ng lahat ng pagsubok — bagyo, bulkan, at lindol — ang mga Bikolano ay kilala sa kanilang katatagan at maayang ugali. Ang kanilang wika, ang Bikol, ay puno ng malambot at makathaing salita na nagpapakita ng kanilang malalim na pag-unawa sa kalikasan at sa isa't isa. Ang Bicol ay hindi lamang isang lugar — ito ay isang puso na patuloy na tumitibok para sa pamilya, komunidad, at bayan."
+    }
+  ]
+}

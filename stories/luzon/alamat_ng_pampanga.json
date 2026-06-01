@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_pampanga",
+  "region": "Pampanga",
+  "category": "lalawigan",
+  "emoji": "🍽️",
+  "title_fil": "Alamat ng Pampanga",
+  "image": "alamat_ng_pampanga.png",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Kusina ng Pilipinas",
+      "text_fil": "Ang Pampanga ay tinatawag na \"Culinary Capital of the Philippines\" — ang rehiyon na nagbigay sa mundo ng adobo, kare-kare, at sisig. Ayon sa mga matatanda, ang sining ng pagluluto ay regalo ng mga diyos sa mga Kapampangan. Noong unang panahon, may isang diwata ang bumaba mula sa langit at nagturo sa mga babae ng Pampanga kung paano gawing masarap ang mga simpleng pagkain mula sa kalikasan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Kultura ng Kapampangan",
+      "text_fil": "Ang mga Kapampangan ay kilala sa kanilang mataas na kultura, sining, at pagiging mapagmahal sa sariling wika — ang Kapampangan. Ang wika ay isa sa mga pinaka-sinaunang wika sa Pilipinas at pinananatili ng mga Kapampangan sa pamamagitan ng tula, awit, at teatro. Ang mga Kapampangan ay mahal ang kanilang kultura at ipinagmamalaki ito sa bawat pagkakataon."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Puso ng Luzon",
+      "text_fil": "Sa heograpiya, ang Pampanga ay matatagpuan sa gitna ng Luzon — talagang puso ng isla. Malapit sa Maynila ngunit may sariling pagkakakilanlan, ang Pampanga ay nagsilbing daan ng kalakalan at kultura sa loob ng daan-daang taon. Ang Mount Pinatubo, na sumabog noong 1991, ay isa sa pinaka-makapangyarihang kaganapan sa kasaysayan ng Pampanga — isang babala ng kalikasan na naging pagkakataon din para maipakita ng mga Kapampangan ang kanilang tapang at kakayahang bumangon muli."
+    }
+  ]
+}
