@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_mindoro",
+  "region": "Mindoro",
+  "category": "lalawigan",
+  "emoji": "🌴",
+  "image": "alamat_ng_mindoro.png",
+  "title_fil": "Alamat ng Mindoro",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Puso ng Pilipinas",
+      "text_fil": "Ang Mindoro ay tinatawag na 'Puso ng Pilipinas' — isang malaking pulo sa timog ng Luzon na may mayamang kalikasan at kultura. Ang Mindoro ay tahanan ng mga Mangyan — isang pangkat ng mga katutubo na naninirahan sa mga bundok ng pulo at kilala sa kanilang sining at poetry."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Mangyan",
+      "text_fil": "Ang mga Mangyan ay may sariling sistema ng pagsulat na tinatawag na 'Hanunuo' — isang sinaunang script na ginagamit pa nila hanggang ngayon. Ang kanilang mga tula, tinatawag na 'ambahan,' ay isinusulat sa mga kawayan at nagpapahayag ng kanilang mga damdamin, pag-ibig, at pilosopiya sa buhay. Ang Hanunuo ay kinikilala ng UNESCO."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Tubbataha ng Mindoro",
+      "text_fil": "Ang Mindoro ay kilala rin sa Apo Reef — isa sa pinakamalaking coral reef sa buong mundo, tahanan ng libu-libong species ng isda at coral. Para sa mga lokal, ang Apo Reef ay sagrado — tahanan ng mga espiritu ng dagat na nagpoprotekta sa mga mangingisda. Hindi sila kumukuha ng isda sa bakal na lugar — isang sinaunang tradisyon ng pangangalaga ng kalikasan."
+    }
+  ]
+}

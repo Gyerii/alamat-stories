@@ -1,0 +1,25 @@
+{
+  "id": "ang_multo_sa_bahay",
+  "region": "Pambansa",
+  "category": "nilalang",
+  "emoji": "👻",
+  "image": "ang_multo_sa_bahay.png",
+  "title_fil": "Ang Multo sa Bahay",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Paniniwala sa mga Multo",
+      "text_fil": "Ang paniniwala sa mga multo ay malalim na naka-ugat sa kulturang Pilipino. Ang multo ay hindi katulad ng mga Western na ghost — ito ay karaniwang kaluluwa ng isang minamahal na taong hindi pa handang umalis. Maaaring naayos pa ang ilang bagay sa buhay, may bilin na hindi nasabi, o hindi pa tinanggap ang kamatayan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pagkakataon ng Pagpapahinga",
+      "text_fil": "Sinasabing ang mga multo ay nagpapakita sa kanilang pamilya upang makausap ang mga taong mahal nila. Ang mga pamilyang nakakaranas ng ganitong pagpapakit ay hindi dapat matakot — dapat nilang pakinggan ang mensahe, tumupad ng mga natirang pananagutan, at tulungan ang kaluluwa na makapagpahinga nang may kapayapaan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang mga Ritwal ng Pagpapalayo",
+      "text_fil": "Kung ayaw na ng isang pamilya na patuloy na mabisita ng kaluluwa, may mga ritwal na ginagawa. Ang paglalagay ng asin sa mga pintuan, ang pagsusunog ng kamangyan, ang pagbibigay ng pagkain at inumin para sa kaluluwa. Ang mga ritwal na ito ay hindi agresibo — sila ay mabuting pagtanggap at maingat na pagtataboy — pagpapakita ng respeto kahit sa pagtatapos."
+    }
+  ]
+}

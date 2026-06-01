@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bundok_banahaw",
+  "region": "Quezon/Laguna",
+  "category": "likas",
+  "emoji": "⛰️",
+  "image": "alamat_ng_bundok_banahaw.png",
+  "title_fil": "Alamat ng Bundok Banahaw",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Banal na Bundok",
+      "text_fil": "Ang Bundok Banahaw ay mataas at misteryoso, nakatayo sa hangganan ng Quezon at Laguna. Ayon sa mga sinaunang taga-Laguna, ang bundok na ito ay tahanan ng isang makapangyarihang diwata na nagngangalang Banahaw — isang babae na may damit na gawa sa ulap at buhok na puno ng mga bituin."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pinagmulan ng Pangalan",
+      "text_fil": "Sinasabing noong unang panahon, dumalaw ang mga manlalakbay sa bundok at narinig nila ang isang malakas na tinig na humihiyaw mula sa itaas: 'Bana! Haw!' — na nangangahulugang 'Asawa! Narito!' sa wikang sinaunang Tagalog. Ang diwata ay naghihintay sa kanyang asawang diyos na nagpunta sa ibang lupain. Sa kanyang paghihintay, lumago ang mga halaman at dumami ang mga ilog."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Bundok ng Panalangin",
+      "text_fil": "Hanggang ngayon, ang Bundok Banahaw ay pinaniniwalaan ng marami na banal na lugar — isang portal sa pagitan ng mundo ng tao at mundo ng espiritu. Ang mga pilgrim ay umaangkat ng tubig mula sa mga bukal nito, naniniwala na may kapangyarihang pangpagaling. At sa bawat liwanag ng bukang-liwayway, naririnig pa rin ng ilan ang tinig ng diwata — naghihintay, umaasa, at nagmamahal."
+    }
+  ]
+}

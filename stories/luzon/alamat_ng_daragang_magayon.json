@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_daragang_magayon",
+  "region": "Albay",
+  "category": "bayani",
+  "emoji": "🌋",
+  "image": "alamat_ng_daragang_magayon.png",
+  "title_fil": "Alamat ng Daragang Magayon",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamagandang Dalaga",
+      "text_fil": "Si Daragang Magayon — Daragang nangangahulugang 'dalaga' at Magayon ay nangangahulugang 'maganda' — ay isang prinsesang Bikolana na kilala sa kanyang di-kapani-paniwalang kagandahan. Ang lahat ng lalaki sa Bicol ay nagnanais sa kanya ngunit walang tinatanggap siya. Masaya siya sa kanyang sarili, masaya sa kanyang ama, at masaya sa kanilang bayan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pag-ibig na Puno ng Sakripisyo",
+      "text_fil": "Dumating si Panganoron — isang binata mula sa hilaga na may puso ng bayani at ngiting mapagkakatiwalaan. Nahulog sa pagmamahal si Magayon at tinanggap ang kanyang ligaw. Ngunit ang mapanghimagsik na si Pagtuga ay inagaw ang ama ni Magayon at sinabing: 'Kung hindi mo ako pakakasalan, papatayin ko ang iyong ama.' Pumayag si Magayon upang iligtas ang kanyang ama."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Huling Paghihintay",
+      "text_fil": "Dumating si Panganoron upang iligtas siya ngunit sa gitna ng labanan, nasugatan si Magayon at namatay sa bisig ng kanyang minamahal. Namatay din si Panganoron sa kalungkutan. Inilibing sila ng magkasama at lumitaw ang pinakamagandang bundok sa Pilipinas sa kanilang libingan — ang Mayon. Hanggang ngayon, ang Mayon ay isa sa pinakamagandang bulkan sa mundo — regalo ng pag-ibig na hindi natapos."
+    }
+  ]
+}

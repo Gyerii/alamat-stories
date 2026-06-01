@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_cavite",
+  "region": "Cavite",
+  "category": "lalawigan",
+  "emoji": "⚓",
+  "image": "alamat_ng_cavite.png",
+  "title_fil": "Alamat ng Cavite",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lungsod ng Rebolusyon",
+      "text_fil": "Ang Cavite ay kilala sa kasaysayan bilang 'Cradle of the Philippine Revolution' — ang lugar kung saan nagsimula ang Rebolusyong Pilipino noong 1896. Ngunit bago pa ang panahon ng Kastila, ang Cavite ay isang mahalaga at estratehikong lugar ng kalakalan at pangingisda."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pangalan ng Cavite",
+      "text_fil": "May dalawang teorya tungkol sa pangalan ng Cavite. Ang isa ay nagsasabi na nagmula ito sa salitang Tagalog na 'kawit' — isang uri ng bitag o kawil na ginagamit ng mga mangingisda. Ang iba ay nagsasabi na nagmula ito sa 'Cawit' — ang pangalan ng isang sinaunang baybaying nayon. Sa alinmang pinagmulan, ang Cavite ay laging may ugnayan sa dagat."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Lunas ng Cavite",
+      "text_fil": "Nagbigay ang Cavite ng maraming bayani sa Pilipinas — si Emilio Aguinaldo, si Melchora Aquino (Tandang Sora), at marami pang iba. Ang lupain ng Cavite ay tinubuan ng tapang — isang tapang na nagmumula sa pagmamahal sa kalayaan at sa pagnanais na mabuhay bilang malaya. Ang kanilang rebolusyon ay hindi natapos — ito ay nagpapatuloy sa puso ng bawat Pilipino."
+    }
+  ]
+}

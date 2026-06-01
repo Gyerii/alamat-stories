@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_benguet",
+  "region": "Benguet",
+  "category": "lalawigan",
+  "emoji": "🌸",
+  "image": "alamat_ng_benguet.png",
+  "title_fil": "Alamat ng Benguet",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Hardin ng Luzon",
+      "text_fil": "Ang Benguet ay tinatawag na 'Hardin ng Luzon' — ang probinsya kung saan kinukultiba ang karamihan ng mga gulay at bulaklak na kinakain at ginagamit sa buong Pilipinas. Ang malamig na klima ng Benguet ay perpekto para sa mga gulay na strawberry, repolyo, karot, at iba pang gulay na hindi tumutubo sa mas mainit na lugar."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Kabunian at ang Lupa ng Benguet",
+      "text_fil": "Para sa mga Ibaloi — ang pangunahing grupo ng mga katutubo sa Benguet — ang lupa ay regalo ni Kabunian. Ang bawat bukid ay sagrado, ang bawat pananim ay biyaya. Ang kanilang mga ritwal sa pagtatanim ay puno ng pasasalamat sa diyos at sa lupa. Hindi sila basta nagtatanim — sila ay naglilingkod sa lupa na naglilingkod sa kanila."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Bangenge: Ritwal ng Benguet",
+      "text_fil": "Ang mga Ibaloi ng Benguet ay may natatanging ritwal sa kamatayan — ang patay ay inilalagay sa isang espesyal na upuan at itinatago ng mahabang panahon habang ang pamilya ay nagdiriwang at nag-aalwan. Para sa kanila, ang kamatayan ay hindi paghihiwalay — ito ay isang bagong anyo ng pakikilahok sa buhay ng pamilya."
+    }
+  ]
+}

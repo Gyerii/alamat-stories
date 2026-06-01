@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_cordillera",
+  "region": "Cordillera",
+  "category": "lalawigan",
+  "emoji": "🏔️",
+  "image": "alamat_ng_cordillera.png",
+  "title_fil": "Alamat ng Cordillera",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Kinagisnang Bundok",
+      "text_fil": "Ang Cordillera Central ay ang pinakamataas na hanay ng mga bundok sa Luzon — isang mundo ng mga ulap, malamig na hangin, at matataas na kagubatan. Dito naninirahan ang maraming tribo ng mga Igorot — ang mga Ifugao, Bontoc, Kalinga, Ibaloi, at Kankanaey. Ang bawat tribu ay may sariling wika, kultura, at tradisyon."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Tapang ng mga Igorot",
+      "text_fil": "Kilala ang mga Igorot sa kanilang tapang at pagiging matatag na mandirigma. Kahit ang mga mananakop na Kastila ay hindi lubos na nakapasok sa Cordillera — naprotektahan ng mga bundok at ng lakas ng mga mananakop na nandoon ang kalayaan ng mga Igorot. Sa loob ng tatlong daan at limampung taon ng pananakop, nanatili silang malaya."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kultura ng Cordillera",
+      "text_fil": "Ang Cordillera ay may mayamang kultura — ang Banaue Rice Terraces, ang Hudhud, ang mga tradisyonal na damit na may gintong deko. Ngunit higit sa lahat, ang Cordillera ay tahanan ng mga taong may malalim na paggalang sa kanilang kalikasan at mga ninuno. Ang kanilang kaalaman tungkol sa mga halaman, hayop, at mga pattern ng panahon ay siyensiya na ipinamamana sa bawat henerasyon."
+    }
+  ]
+}

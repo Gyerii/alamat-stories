@@ -1,0 +1,25 @@
+{
+  "id": "ang_wakwak",
+  "region": "Luzon/Visayas",
+  "category": "nilalang",
+  "emoji": "🦅",
+  "image": "ang_wakwak.png",
+  "title_fil": "Ang Wakwak",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Ibon ng Kamatayan",
+      "text_fil": "Sa gabi, kapag narinig mo ang isang malakas at paulit-ulit na tunog — 'wak! wak! wak!' — ito ang babala na ang Wakwak ay malapit. Ang Wakwak ay isang malaking ibon na may mapanganib na kuko at mata na nagliliwanag sa dilim. Sinasabing ito ay kasamahan ng Manananggal o kaya ay isang manggagawa ng masamang kulam."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Tunog na Babala",
+      "text_fil": "Ayon sa mga matatanda, kung malakas ang tunog ng Wakwak, ibig sabihin ay malayo pa ito. Ngunit kung pati-patay ang tunog at halos hindi marinig — nangangahulugang malapit na ito. Kaya kapag narinig ng mga tao ang Wakwak na nagdudumaling tumahimik, agad silang nagpapahina ng ilaw at nagtatago sa kanilang mga bahay."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Simbolismo ng Wakwak",
+      "text_fil": "Tulad ng maraming nilalang sa Filipino folklore, ang Wakwak ay nagsisilbing paalala — ang buhay ay may mga panganib na hindi natin laging nakikita. Ang mga bata ay ituturo ng kanilang mga magulang: 'Huwag kang lumabas sa gabi. Ang Wakwak ay naghahanap.' Ito ay paraan upang protektahan ang mga bata mula sa totoong panganib ng kadiliman."
+    }
+  ]
+}

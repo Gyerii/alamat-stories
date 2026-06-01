@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_dagupan_at_ang_bangus",
+  "region": "Pangasinan",
+  "category": "hayop",
+  "emoji": "🐟",
+  "image": "alamat_ng_dagupan_at_ang_bangus.png",
+  "title_fil": "Alamat ng Dagupan at ang Bangus",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lungsod ng Bangus",
+      "text_fil": "Ang Dagupan ay tinatawag na 'Bangus Capital of the World' — ang lugar kung saan pinaka-masarap ang tilapia at bangus (milkfish) sa buong mundo. Ngunit ayon sa isang alamat, ang bangus ay hindi laging masarap sa Dagupan — may isang kwento kung bakit naging espesyal ang mga isda ng Dagupan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Dalagang Bangus",
+      "text_fil": "Noong unang panahon, may isang magandang dalaga sa Dagupan na nagngangalang Ganda. Araw-araw, pumunta siya sa ilog upang mangisda kasama ang kanyang ama. Isang araw, nahuli nila ang isang napakaliwanag na isda — nagliliwanag tulad ng pilak sa ilalim ng tubig. Binalingan niya ang isda at nakita niyang ito ay umiiyak — mga kristal na luha ang dumadating mula sa mga mata ng isda."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pagpapalaya at ang Kagandahan",
+      "text_fil": "Pinakawalan ni Ganda ang isda dahil naawa siya. Pagkatapos ng isang araw, bumalik ang isda — ngayon ito ay mas malaki, mas maliwanag, at mas maganda. Humabi ito sa paligid ng kanyang mga paa at pagkatapos ay nawala. Mula noon, ang lahat ng bangus na nahuhuli sa Dagupan ay espesyal na malambot at masarap — dahil ang kanilang ninuno ay isang isda na natanggap ng pagmamahal at kinahawakan nang may awa."
+    }
+  ]
+}

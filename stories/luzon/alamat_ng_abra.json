@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_abra",
+  "region": "Abra",
+  "category": "lalawigan",
+  "emoji": "🏔️",
+  "image": "alamat_ng_abra.png",
+  "title_fil": "Alamat ng Abra",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Ilog at ang Probinsya",
+      "text_fil": "Ang Abra ay pinangalanan mula sa Ilog Abra — ang pangunahing ilog ng probinsya na nagmumula sa mga bundok ng Cordillera at nagtatapos sa Ilocos Sur. Ang ilog na ito ay nagbibigay ng buhay sa buong probinsya — tubig para sa mga bukid, isda para sa mga hapag-kainan, at landas para sa kalakalan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Tingguian ng Abra",
+      "text_fil": "Ang pangunahing grupo ng mga katutubo sa Abra ay ang mga Tingguian o Itneg — isang pangkat na kilala sa kanilang sining at kagandahang loob. Ang mga Tingguian ay may sariling tradisyon ng sayaw — ang Tadek — na isinasagawa sa mga espesyal na okasyon. Ang kanilang mga tela at weave ay kilala sa buong Cordillera."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Tabuk at ang mga Pook",
+      "text_fil": "Ang Abra ay may maraming mga pook na may malalim na kasaysayan — ang Bangued, ang Bucay, ang Dolores. Bawat isa ay may sariling kwento, sariling ritwal, at sariling tradisyon na naipasa sa bawat henerasyon. Ang Abra ay isang probinsya na puno ng mga kwentong naghihintay na marinig."
+    }
+  ]
+}

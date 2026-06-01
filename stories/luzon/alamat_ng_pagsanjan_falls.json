@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_pagsanjan_falls",
+  "region": "Laguna",
+  "category": "likas",
+  "emoji": "💧",
+  "image": "alamat_ng_pagsanjan_falls.png",
+  "title_fil": "Alamat ng Pagsanjan Falls",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Dalawang Magkaibigan",
+      "text_fil": "Sa mga kabundukan ng Laguna, may dalawang batang lalaki na magkaibigan mula pagkabata — si Pagsa at si Hanhan. Magkasama silang lumaki, naglaro sa mga ilog, at nangako na palaging magiging magkaibigan. Ngunit dumating ang panahon na nagmahal silang dalawa sa iisang babae — ang magandang Anilaw."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Paghihiwalay",
+      "text_fil": "Hindi nila kayang gawin ang kanilang pagmamahal na sanhi ng pagkawasak ng kanilang pagkakaibigan. Pumunta si Pagsa sa bundok at si Hanhan sa kabila. Naiyak si Anilaw sapagkat nawalan siya ng dalawang mahal sa buhay. Sa kanyang panaghoy, ang kanyang mga luha ay naging daloy ng tubig na bumababa mula sa bundok."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Talon",
+      "text_fil": "Ang daloy ng luha ni Anilaw ay naging ilog at naging talon — malakas, magulong tumutugon sa bato, ngunit maganda. Ang Pagsanjan Falls ay pinangalanan mula sa mga pangalan ng dalawang magkaibigan: Pagsa at Hanhan — Pagsa-Hanhan — Pagsanhan. Ang talon ay simbolo ng pag-ibig na hindi natapos, ng pagkakaibigan na mas malalim pa sa romantikong pagmamahal."
+    }
+  ]
+}

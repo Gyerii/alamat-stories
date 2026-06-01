@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_batac",
+  "region": "Ilocos Norte",
+  "category": "lunsod",
+  "emoji": "💨",
+  "image": "alamat_ng_batac.png",
+  "title_fil": "Alamat ng Batac",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lungsod ng mga Hangin",
+      "text_fil": "Ang Batac sa Ilocos Norte ay kilala sa dalawang bagay: ang mga windmill sa Bangui Bay at ang Malacanang ti Amianan — ang tirahan ng dating Pangulong Ferdinand Marcos. Ngunit bago ang lahat ng ito, ang Batac ay isang simpleng bayan ng mga Ilokano na matapang at mapanlikhain."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Windmill ng Bangui",
+      "text_fil": "Sa baybayin ng Bangui, malapit sa Batac, nakatayo ang libu-libong windmill — gumagamit ng lakas ng hangin ng Luzon Sea upang makagawa ng kuryente. Ayon sa mga lokal, ang lugar na iyon ay palaging may malakas na hangin — mula noong sinaunang panahon, ang hangin ay simbolo ng kalayaan para sa mga Ilokano."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pagpapatuloy ng Batac",
+      "text_fil": "Ang Batac ay isang lungsod na natutunan na mamuhay kasabay ng pagbabago — ang hangin ng kasaysayan, ang hangin ng pulitika, at ang hangin ng kalikasan. Ang mga taga-Batac ay kilala sa kanilang kakayahan na manatiling tapat sa kanilang sarili kahit ano pa ang dumarating."
+    }
+  ]
+}

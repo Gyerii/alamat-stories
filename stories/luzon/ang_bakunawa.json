@@ -1,0 +1,25 @@
+{
+  "id": "ang_bakunawa",
+  "region": "Pambansa",
+  "category": "nilalang",
+  "emoji": "🐍",
+  "image": "ang_bakunawa.png",
+  "title_fil": "Ang Bakunawa",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Malaking Ahas sa Dagat",
+      "text_fil": "Sa sinaunang paniniwala ng mga Pilipino, ang Bakunawa ay isang napakalaking serpyente na naninirahan sa ilalim ng karagatan. Ang kanyang katawan ay kasing laki ng isang bundok at ang kanyang bibig ay malaki pa sa isang bahay. Ayon sa mga ninuno, ang Bakunawa ang dahilan ng eclipses — kapag kinakain niya ang buwan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pagkain ng mga Buwan",
+      "text_fil": "Noong una, pitong buwan ang nasa langit ng Pilipinas — lahat sila ay magaganda at nagbibigay ng liwanag. Ngunit si Bakunawa ay gutom at nagustuhan niya ang mga buwan. Isa-isa niyang kinain ang mga ito — ang unang buwan, ikalawa, ikatlo — hanggang isa na lang ang natira. Nagalit ang mga diyos at itinapon si Bakunawa pabalik sa dagat."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pag-ingay upang Ibalik ang Buwan",
+      "text_fil": "Kapag may lunar eclipse, sinasabi ng mga ninuno na si Bakunawa ay kumakain ng buwan muli. Kaya ang mga tao ay nagtatambol, nagpapalakpak, at nagpapalabas ng ingay — upang takutin si Bakunawa at ipabuga ang buwan. Hanggang ngayon, ang ilan ay nagsasagawa pa ng mga ritwal tuwing may eclipse — paalala ng sinaunang kwento ng ahas at ng liwanag."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_quezon_province",
+  "region": "Quezon",
+  "category": "lalawigan",
+  "emoji": "🌊",
+  "image": "alamat_ng_quezon_province.png",
+  "title_fil": "Alamat ng Quezon",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pahiyas at ang Kasaganaan",
+      "text_fil": "Ang Quezon ay kilala sa Pahiyas Festival — isa sa pinakamakulay na piyesta sa buong Pilipinas. Bawat Mayo, ang mga bahay ng Lucban at Sariaya ay pinagagandang may mga kiping — mga kulay-makulay na bilog na gawa sa bigas — at mga gulay, prutas, at iba pang ani ng kanilang mga taniman."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pinagmulan ng Pahiyas",
+      "text_fil": "Ayon sa alamat, ang Pahiyas ay nagsimula bilang ritwal ng pasasalamat sa patron na si San Isidro Labrador — ang santo ng mga magsasaka. Ang mga magsasaka ng Quezon ay nagpapakita ng kanilang pinaka-magandang ani bilang handog sa santo at pasasalamat sa magandang ani. Sa paglipas ng panahon, ang ritwal ay naging isang piyesta ng kagalakan at komunidad."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Quezon at ang Dagat",
+      "text_fil": "Ang Quezon ay nakaharap sa Lamon Bay sa isang panig at sa South China Sea sa kabilang panig — isang probinsya na niyayakap ng dalawang dagat. Ang mga mangingisda ng Quezon ay kilala sa kanilang tapang — pumupunta sila sa malalim na dagat sa maliliit na bangka at bumabalik na may puno ng mga isda. Ang dagat ng Quezon ay mapagbigay at mapanganib — tulad ng buhay mismo."
+    }
+  ]
+}

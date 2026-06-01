@@ -1,0 +1,25 @@
+{
+  "id": "si_tandang_sora",
+  "region": "Caloocan",
+  "category": "bayani",
+  "emoji": "🌺",
+  "image": "si_tandang_sora.png",
+  "title_fil": "Si Tandang Sora",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Ina ng Bayan",
+      "text_fil": "Si Melchora Aquino, kilala bilang Tandang Sora, ay isa sa mga pinakakilalang bayani ng Rebolusyong Pilipino. Sa edad na mahigit pitumpung taon, naging bahagi siya ng Katipunan at naglingkod bilang isang maalagaang tagapag-alaga ng mga sugatan at mga Katipunero. Ang kanyang tahanan ay naging ospital at kanlungan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Tapang ng Matanda",
+      "text_fil": "Nang mahuli si Tandang Sora ng mga Espanyol, inusig nila siya upang ibigay ang mga pangalan ng mga Katipunero. Ayaw niya — tinanggap niya ang pagdurusa ngunit hindi niya ibinigay ang mga pangalan ng kanyang mga kasamahan. Sa kabila ng kanyang edad, nananatili siyang tapat sa kanyang mga prinsipyo."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pamana ng Ina ng Bayan",
+      "text_fil": "Si Tandang Sora ay simbolo ng tapang ng mga babaeng Pilipino — patunay na ang kalayaan ay hindi lamang laban ng mga lalaki. Ang kanyang sakripisyo ay naaalala araw-araw sa mga pangalan ng mga kalye, mga paaralan, at mga gusali. Ang kanyang espiritu ay nananatili — sa bawat babae na nagsasabing 'hindi' sa kasamaan at 'oo' sa kalayaan."
+    }
+  ]
+}

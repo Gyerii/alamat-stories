@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_pangalan_ng_maynila",
+  "region": "Metro Manila",
+  "category": "lunsod",
+  "emoji": "🌆",
+  "image": "alamat_ng_pangalan_ng_maynila.png",
+  "title_fil": "Alamat ng Pangalan ng Maynila",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Halaman at ang Lungsod",
+      "text_fil": "Bago naging isang maunlad na lungsod ang Maynila, ito ay isang mapayapang lugar sa tabi ng Ilog Pasig at Maynilad — ang Baybay ng Bay. Ayon sa isang popular na alamat, ang pangalang 'Maynila' ay nagmula sa salitang 'may nila' — na nangangahulugang 'may nila,' isang halamang tubig na nagngangalang Nila o Nilad."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Nilad na Halaman",
+      "text_fil": "Ang Nilad ay isang mabangong halaman na tumutubo sa mga palustrina at baybayin. Nang dumating ang mga Kastila at tinanong nila ang mga lokal kung ano ang pangalan ng lugar, ipinunto ng mga lokal ang mga halaman at sinabi: 'May nila!' — nagbibigay ng impormasyon tungkol sa lugar, hindi pangalan nito. Ngunit akala ng mga Kastila na iyon ang pangalan — at naging Maynila."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Lungsod ng Kasaysayan",
+      "text_fil": "Mula sa simpleng lugar ng mga halaman ng Nilad, ang Maynila ay naging isa sa mga pinakamahalaga at pinaka-kanais-nais na lungsod sa Asya. Ang kasaysayan nito ay puno ng pagbabago — mula sa pamumuno ng mga datu, sa pananakop ng Kastila, sa rebolusyon, at sa modernong panahon. Sa bawat pagbabago, nananatili ang isip ng orihinal na lugar: may nila, may buhay, may pag-asa."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_leyte_island",
+  "region": "Visayas",
+  "category": "kasaysayan",
+  "emoji": "🌺",
+  "image": "alamat_ng_leyte_island.png",
+  "title_fil": "Alamat ng Leyte",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lungsod ng mga Ilaw",
+      "text_fil": "Ang Leyte ay nagmula sa salitang 'leite' o 'liti' — nangangahulugang 'ilaw' sa lumang Waray. Ayon sa alamat, noong unang araw ng paglikha, inilagay ng mga diyos ang isang espesyal na liwanag sa gitna ng Leyte Gulf na gumagabay sa mga manlalayag pauwi. Ang liwanag na ito ay hindi galing sa buwan o mga bituin — ito ay galing sa mabuting puso ng mga taong naninirahan sa baybayin na laging nagbibigay ng kandila at apoy para gabayan ang mga naliligaw sa dagat."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pagbabalik ni MacArthur",
+      "text_fil": "Sa Red Beach ng Leyte, noong Oktubre 20, 1944, lumakad sa tubig si General Douglas MacArthur at tinupad ang kanyang pangako: 'I shall return.' Ang saglit na iyon ay naging isa sa pinakakilalang sandali sa kasaysayan ng Pilipinas. Ngunit bago pa dumating ang mga Amerikano, ang mga Waray ay matagal nang lumalaban — sa kabundukan, sa mga ilog, sa mga bundok ng Leyte. Ang tagumpay ay hindi ng isa — ito ay ng lahat ng nagbuwis ng buhay para sa kalayaan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Balon ng Kasaysayan",
+      "text_fil": "Sa Leyte ay matatagpuan ang isa sa pinaka-mahalagang arkeolohikal na lugar sa Pilipinas — ang mga lunsod na dati ay nagtatago sa ilalim ng lupa. Natuklasan ng mga mananaliksik ang mga gintong alahas, mga palayok, at mga kasangkapan mula sa sinaunang kabihasnan na napatunayang ang Leyte ay may mayamang sibilisasyon bago pa man dumating ang mga dayuhan. Ang lupain ng Leyte ay parang isang makapal na aklat — bawat layer ng lupa ay isang kabanata ng kasaysayan."
+    }
+  ]
+}

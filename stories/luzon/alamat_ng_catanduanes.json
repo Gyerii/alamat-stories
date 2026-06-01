@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_catanduanes",
+  "region": "Catanduanes",
+  "category": "lalawigan",
+  "emoji": "🌊",
+  "image": "alamat_ng_catanduanes.png",
+  "title_fil": "Alamat ng Catanduanes",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pulo ng Bagyo",
+      "text_fil": "Ang Catanduanes ay tinatawag na 'Land of the Howling Winds' — isa sa mga lalawigan na madalas na tinatamaan ng mga bagyo sa buong Pilipinas. Dahil sa lokasyon nito sa silangang bahagi ng Bicol, ito ay unang tumatalab sa landfall ng mga bagyo mula sa Pacific. Ngunit ang mga taga-Catanduanes ay hindi lumikas — natuto silang mamuhay kasabay ng hangin."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Puraran at ang Makapowerful na Mga Alon",
+      "text_fil": "Ang Puraran Beach sa Catanduanes ay kilala sa mundo ng surfing — ang mga alon doon ay kabilang sa mga pinakamaganda at pinakamakapangyarihan sa buong Pilipinas. Ang mga surfer mula sa buong mundo ay pumupunta sa Catanduanes upang subukan ang kanilang kakayahan sa mga alon ng Puraran."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Lakas ng mga Taga-Catanduanes",
+      "text_fil": "Ang mga taga-Catanduanes ay kilala sa kanilang lakas at katatagan — katangian na nabuo mula sa maraming henerasyon ng pakikipaglaban sa mga bagyo. Kapag tinamaan ng bagyo ang Catanduanes, ang mga tao ay nagtutulong — nagtatayo muli ng kanilang mga bahay, nagbibigay ng pagkain sa mga nangangailangan, at nagsisimulang muli nang may ngiti. Ang kanilang espiritu ay tulad ng kanilang pulo — hindi madaling matumba."
+    }
+  ]
+}

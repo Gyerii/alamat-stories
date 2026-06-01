@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_cebu_oslob",
+  "region": "Visayas",
+  "category": "hayop",
+  "emoji": "🦈",
+  "image": "alamat_ng_cebu_oslob.png",
+  "title_fil": "Alamat ng Whale Shark ng Oslob",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Higanteng Isda",
+      "text_fil": "Sa Oslob, Cebu, may isang kahanga-hangang bagay na nangyayari araw-araw — ang mga butanding, o whale shark, ay dumarating sa baybayin upang makiugnayan sa mga tao. Ang mga butanding ay pinakamalaking isda sa mundo — makakarating sa 12 metro ang haba — ngunit sila ay maamong nilalang na kumakain lamang ng maliliit na planktong hayop. Ayon sa alamat, ang mga butanding ng Oslob ay mga tagapanggalaga ng dagat na nagpili na lumapit sa mga tao upang ipaalaala sa kanila ang kahalagahan ng karagatan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Mangingisda at ang Butanding",
+      "text_fil": "Noong nakaraan, ang mga mangingisda ng Oslob ay itinuturing ang butanding bilang isang sagabal — ang malalaking isda ay nagpapatibag ng kanilang mga lambat. Ngunit isang gabi, may isang matandang mangingisda na nagpapahinga sa kanyang bangka nang lumabas ang isang malaking butanding sa tabi niya. Hindi siya natakot. Sa halip, hinawakan niya ang kanyang kamay sa tubig at nilagyan ng maliit na pagkain ang malaking isda. Nagtataka ang butanding — at bumalik kinabukasan. At kinabukasan pa. At araw-araw."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pakikipagtulungan",
+      "text_fil": "Ang pag-ugnayan ng mga taga-Oslob at ng mga butanding ay naging isa sa mga pinaka-kilalang tourist attraction sa Pilipinas. Ngunit may debate din — may mga nagsasabing ang pagpapakain sa mga butanding ay nagbabago sa kanilang natural na gawi. Para sa mga mangingisda ng Oslob, ang butanding ay nagbigay sa kanila ng bagong kabuhayan at bagong pagmamahal sa karagatan. Ang aral ay malinaw: kapag may respeto at pagmamahal ang tao sa kalikasan, ang kalikasan ay sumasalubong sa kanila nang may mga kababalaghang walang katulad."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_aklan",
+  "region": "Visayas",
+  "category": "tribo",
+  "emoji": "🥁",
+  "image": "alamat_ng_aklan.png",
+  "title_fil": "Alamat ng Aklan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Ati-Atihan",
+      "text_fil": "Ang Aklan ay pinakakilala sa Ati-Atihan Festival — isa sa pinakamasaya at pinakamakulay na festival sa buong Pilipinas. Ayon sa kasaysayan, ang festival ay nagsimula bilang paggunita sa pagdating ng mga Malay na datu mula Borneo at ng kanilang mapayapang kasunduan sa mga Ati. Ang mga Malay ay nagpinta ng kanilang mga mukha nang itim upang maging katulad ng mga Ati — bilang tanda ng respeto at pagkakaisa. Ito ay parangal, hindi panggagaya."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Boracay",
+      "text_fil": "Ang Boracay — ang pinakasikat na beach sa Pilipinas at isa sa pinakamaganda sa mundo — ay nasa Aklan. Ang puting buhangin ng Boracay ay itinuturing ng mga turista bilang obra maestra ng kalikasan. Ngunit para sa mga sinaunang Ati ng Boracay, ang pulo ay hindi tourist destination — ito ay kanilang tahanan, ang lupaing kanilang pinaglakhan at pinaglumaan. Ang kanilang lahi ay nagtalo para sa karapatang manatili sa kanilang lupain kahit nang maging sikat ang Boracay sa buong mundo."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Tubig at Lupa",
+      "text_fil": "Ang Aklan River ay nagbibigay ng buhay sa buong probinsya — ito ay pinagkukunan ng tubig, ng isda, at ng kalakalan. Ang mga sinaunang taga-Aklan ay naniniwala na ang ilog ay may sariling espiritu — si Aklan, ang diwata ng ilog na nagbabantay sa lahat ng naninirahan sa pampang. Sa bawat pagsapit ng bagyo, hinihiling ng mga taga-Aklan sa diwata na pigilan ang mga baha. At sa bawat anibersaryo ng Ati-Atihan, nagpapasalamat sila sa lahat ng biyaya ng kanilang lupain."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_western_samar",
+  "region": "Visayas",
+  "category": "likas",
+  "emoji": "🌿",
+  "image": "alamat_ng_western_samar.png",
+  "title_fil": "Alamat ng Western Samar",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Kabisayaan ng Kanlurang Samar",
+      "text_fil": "Ang Western Samar, na tinatawag ding Samar Province, ay ang pinakamalaki sa tatlong probinsya ng Samar Island. Ito ay nakaharap sa San Juanico Strait — ang kita ng Leyte at Samar na sinasaklaw ng pinakamahabang tulay sa Pilipinas. Ang San Juanico Bridge ay hindi lang isang tulay ng kongkreto — ito ay simbolo ng pagkakaisa ng dalawang probinsya na bagamat magkahiwalay ay magkasamang lumalago."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Calbayog",
+      "text_fil": "Ang Calbayog City, ang pinakamalaking lungsod ng Western Samar, ay bantog sa mga falls nito. Ang Bangon Falls, Calbiga Caves, at ang Malajog Falls ay ilan sa mga kahanga-hangang likas na yaman ng lungsod. Ayon sa alamat, ang bawat falls ng Calbayog ay may sariling diwata — at ang mga diwatang ito ay nagtitipon bawat tag-ulan upang magdesisyon kung gaano kalakas ang kanilang pagdaloy, para hindi masyadong bumaha ang mga nayon sa ibaba."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Katahimikan ng Samar",
+      "text_fil": "Ang Western Samar ay kilala rin sa malawak na kagubatan ng Samar Island — isa sa mga pinakamalaking natitira pang kagubatan sa Pilipinas. Ang mga kagubatan ng Samar ay tahanan ng mga natatanging hayop at halaman na hindi makikita sa ibang lugar sa mundo. Sinasabi ng mga environmentalist na ang pagprotekta sa kagubatan ng Samar ay hindi lang para sa Samar — ito ay para sa buong Pilipinas at sa buong mundo. Ang kagubatan ay baga ng mundo — at ang Samar ay may responsibilidad na ingatan ito para sa lahat."
+    }
+  ]
+}

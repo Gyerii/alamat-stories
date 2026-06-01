@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_guimaras",
+  "region": "Visayas",
+  "category": "halaman",
+  "emoji": "🥭",
+  "image": "alamat_ng_guimaras.png",
+  "title_fil": "Alamat ng Guimaras",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamatamis na Mangga",
+      "text_fil": "Ang Guimaras ay bantog sa buong mundo dahil sa pinaka-matamis na mangga sa Pilipinas — at maraming nagsasabi na sa buong mundo. Ang lupa ng Guimaras ay may espesyal na komposisyon na nagbibigay sa mangga ng natatanging tamis at lasa. Ayon sa alamat, ang lupang ito ay biniyayaan ng isang diwata na nagmahal sa isang mangga tree — at ang kanyang pagmamahal ay naging tamis ng lahat ng mangga sa pulo magpahanggang ngayon."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Manggahan Festival",
+      "text_fil": "Bawat taon, ipinagdiriwang ng Guimaras ang Manggahan Festival — isang pagdiriwang ng pinaka-paborito nilang prutas. Ang mga magsasaka ay nagdadala ng kanilang pinakamagandang mga mangga, nagtatalo ng pinaka-malaki, pinaka-matamis, at pinaka-magandang mangga. Ang festival na ito ay hindi lang tungkol sa pagkain — ito ay pagpapasalamat sa lupa na nagbibigay ng kanilang kabuhayan at pagmamahal sa tradisyon ng pagsasaka na ipinasa mula henerasyon hanggang henerasyon."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Oil Spill at ang Pagbabangon",
+      "text_fil": "Noong 2006, ang Guimaras ay nakaranas ng pinaka-malaking oil spill sa kasaysayan ng Pilipinas. Ang itim na langis ay sumaklob sa kanilang mga dalampasigan at nagsimulang patayin ang mga hayop at halaman. Malungkot ang lahat — pakiramdam ay katapusan ng kanilang kabuhayan. Ngunit nagtipon ang mga taga-Guimaras at nagsimulang linisin ang kanilang pulo — balde't balde, kamay-kamay. Taon ang lumipas, ngunit sa wakas, nagbangon ang Guimaras. Ang mangga ay muling lumago, ang karagatan ay muling naging malinaw. Ang tapang ng Guimaras ay hindi nasusubok sa magandang panahon — ito ay nasusubok sa panahon ng krisis."
+    }
+  ]
+}

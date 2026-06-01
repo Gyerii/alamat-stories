@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_eastern_samar",
+  "region": "Visayas",
+  "category": "likas",
+  "emoji": "🏔️",
+  "image": "alamat_ng_eastern_samar.png",
+  "title_fil": "Alamat ng Eastern Samar",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamatalim na Dalampasigan",
+      "text_fil": "Ang Eastern Samar ay katapat ng Pasipikong Karagatan — ang pinakamalaking karagatan sa mundo. Dito, ang mga alon ay nagsisimula sa malayo at lumalaki habang lumalapit sa baybayin, at nagtatapos bilang mga malalaking alon na dinadagsa ang mahabang dalampasigan ng Eastern Samar. Ayon sa mga matatanda, ang mga alon ng Eastern Samar ay may memorya — bawat alon ay nagdadala ng mga mensahe mula sa mga kaluluwa ng mga manlalayag na nawala sa karagatan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Bugsukan Falls",
+      "text_fil": "Sa bundok ng Eastern Samar, maraming mga falls na nagtatalon mula sa mataas na bato patungo sa malalalim na pool. Ang pinakakilala ay ang Bugsukan Falls — ayon sa alamat, ito ay luha ng isang diwata na nagmahal sa isang mortal. Hindi nila maaaring masama ang kanilang pagmamahal, kaya naman ang diwata ay naging falls — laging dumarating, laging dumadapo sa lupa, ngunit hindi kailanman manatili."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang mga Taga-Eastern Samar",
+      "text_fil": "Ang mga taga-Eastern Samar ay mga taong sanay sa hirap. Madalas silang tinamaan ng bagyo, madalas silang nasalanta ng mga alon, ngunit lagi silang nagbabangon. Sinasabi ng isang matandang babae ng Eastern Samar: 'Ang dagat ay hindi kaaway namin. Siya ay pamilya. Paminsan-minsan ay galit siya, paminsan-minsan ay maamo. Tulad ng pamilya — tinatanggap mo siya sa lahat ng kanyang anyo, at nananatili kang tapat kahit sa panahon ng bagyo.'"
+    }
+  ]
+}

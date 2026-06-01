@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_hundred_islands",
+  "region": "Pangasinan",
+  "category": "likas",
+  "emoji": "🏝️",
+  "image": "alamat_ng_hundred_islands.png",
+  "title_fil": "Alamat ng Hundred Islands",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Isang Daan at Isang Pulo",
+      "text_fil": "Ang Hundred Islands National Park sa Alaminos, Pangasinan ay may 123 pulo — hindi eksaktong isang daan, ngunit ang pangalan ay nagpatuloy. Ayon sa mga matatanda ng Pangasinan, ang mga pulitong ito ay hindi gawa ng kalikasan lamang — may mas malalim na kwento sa bawat isa."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Bato ng mga Higante",
+      "text_fil": "Noong unang panahon, ang Pangasinan ay tirahan ng mga higante — mga napakalaking nilalang na nagtatayo ng mga bundok at naglalagay ng mga bato sa karagatan upang lumakad. Nang mamatay ang mga higante, ang kanilang mga bato ay naiwan sa dagat — at unti-unting lumago at naging mga pulo. Bawat pulo ay bato mula sa mga paa ng isang higante."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kwento ng mga Mangingisda",
+      "text_fil": "Para sa mga mangingisda ng Pangasinan, ang Hundred Islands ay hindi lang isang lugar ng kagandahan — ito ay kanilang kabuhayan at bahay. Sa bawat sulok ng mga pulo, may kwento ng isang mangingisda na nahuli ng malaking isda, ng isang mag-asawang nagpakasal sa dalampasigan, ng isang bata na natuklasan ang kanyang unang takipsilim. Ang mga pulo ay buhay — bawat isa may puso, may kasaysayan."
+    }
+  ]
+}

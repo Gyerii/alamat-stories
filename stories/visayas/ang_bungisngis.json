@@ -1,0 +1,25 @@
+{
+  "id": "ang_bungisngis",
+  "region": "Visayas",
+  "category": "nilalang",
+  "emoji": "😈",
+  "image": "ang_bungisngis.png",
+  "title_fil": "Ang Bungisngis",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Nakakatakot na Nilalang",
+      "text_fil": "Sa buong Pilipinas, kilala ang Bungisngis — ang higanteng nilalang na palaging tumatawa. Ang salitang 'bungisngis' ay nagmula sa ugaling ito: palaging ngumingiti at tumatawa, kahit sa harap ng panganib. Siya ay malaki, malakas, at kadalasan ay walang ngipin — ngunit ang kanyang tawa ay nakakakilig at nakakatakot sa lahat. Sa Visayas, ang Bungisngis ay may espesyal na lugar sa mga kwento ng kabataan bilang isang paalala na huwag maging tamad at pabaya."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Matandang Babae at ang Bungisngis",
+      "text_fil": "May isang kwento ng isang matandang babae na natuklasan ang tahanan ng Bungisngis sa kagubatan. Nang makita siya ng Bungisngis, nagtawa ito nang malakas at sinabi: 'Ikaw ay maliit! Kakainin kita!' Ngunit ang matanda ay hindi natakot. Nagsimula siyang magtayo ng apoy at nagluto ng lugaw. Nang amoy ng Bungisngis ang lugaw, lumalapit ito at tanong: 'Para saan ang lugaw?' Sumagot ang matanda: 'Para sa aking mga apo na darating. Gusto mo ring kumain?' Nagtawa ang Bungisngis at umupo. Kumain sila nang magkasama, at naging magkaibigan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Aral ng Tawa",
+      "text_fil": "Ang Bungisngis, sa kabila ng nakakakilig na anyo, ay nagtuturo ng isang importanteng aral: ang tawa ay maaaring sandata. Ang taong natutuwang harapin ang buhay — kahit mahirap, kahit nakakatakot — ay mas malakas kaysa sa taong palaging seryoso at natatakot. Sinasabi ng mga matatanda ng Visayas: 'Ang taong tumatawa sa harap ng Bungisngis ay hindi matutukuban — dahil ang Bungisngis ay nakikipaglaro lang sa mga taong nalulunod sa takot.' Ang kalayaan ay nasa mga natutuwa sa buhay."
+    }
+  ]
+}

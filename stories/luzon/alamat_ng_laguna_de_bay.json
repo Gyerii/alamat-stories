@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_laguna_de_bay",
+  "region": "Laguna",
+  "category": "likas",
+  "emoji": "🌊",
+  "image": "alamat_ng_laguna_de_bay.png",
+  "title_fil": "Alamat ng Laguna de Bay",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Luntiang Kapatagan",
+      "text_fil": "Noong una, ang lugar na tinatawag nating Laguna de Bay ay isang malawak na kapatagan — puno ng mga palay, bulaklak, at ilog. Doon naninirahan ang isang maamo at masayang bayan ng mga Tagalog, pinamumunuan ng isang datu na nagngangalang Bay — mabait, matino, at minamahal ng lahat."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Malaking Lindol",
+      "text_fil": "Isang gabi, nagalit ang mga diyos dahil sa isang malaking kasalanan: ang mga tao ay naging tamad at hindi na nagpapasalamat sa kanilang mga pagpapala. Nagpadala ang mga diyos ng malaking lindol at ang kapatagan ay bumukas — lumubog ang lupa at pumasok ang tubig ng karagatan. Nagsimulang tumaas ang tubig, nalunod ang mga bukid."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Lawa ng Bay",
+      "text_fil": "Ang mga natirang tao ay tumakas sa mga kabundukan at mula roon ay tumingin sa ibaba — nakita nila ang isang malawak at tahimik na lawa na umaalon sa hangin. Pinangalanan nila ito sa kanilang dating datu na nagngangalang Bay. 'Ito ang lawa ng ating datu,' sabi nila. At mula noon, ang lawa ay tinatawag na Laguna de Bay — ang lawa ni Bay — paalala na ang kapabayaan ay may kahihinatnan."
+    }
+  ]
+}

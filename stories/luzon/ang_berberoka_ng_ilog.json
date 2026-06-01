@@ -1,0 +1,25 @@
+{
+  "id": "ang_berberoka_ng_ilog",
+  "region": "Luzon",
+  "category": "nilalang",
+  "emoji": "🌊",
+  "image": "ang_berberoka_ng_ilog.png",
+  "title_fil": "Ang Berberoka ng Ilog",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Nilalang ng Tubig",
+      "text_fil": "Sa mga ilog ng Luzon, naninirahan ang mga Berberoka — mga nilalang na may kakayahang lumaki at lumingo ng tubig upang mahuli ang mga mangingisda. Sa araw, mukhang malalaking bato sila sa gitna ng ilog. Ngunit kapag may mangingisda na lumalapit, bigla silang bubukas at sasalunin ang tubig pati ang mangingisda."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pakana ng Berberoka",
+      "text_fil": "Sinasabing ang Berberoka ay gumagamit ng kanyang kakayahang salunin ang tubig upang lumitaw ang mga isda sa tuyo. Kapag nakita ng mga mangingisda ang maraming isda sa tuyo, sila ay papalapiting kumukuha ng isda — at doon sila mahuhulog sa bitag ng Berberoka. Ang pakana niya ay ang paggamit ng magandang bagay upang mahipo ang mga taong walang ingat."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Aral ng Berberoka",
+      "text_fil": "Para sa mga sinaunang Pilipino, ang Berberoka ay babala laban sa pagmamanasa — ang pagnanais na kumuha ng marami nang walang ingat. Kapag nakakita ka ng masyadong magandang pagkakataon, isipin muna — maaaring bitag iyon. Ang kaalaman ay mas mahalaga kaysa sa kagalakan sa sandaling ito."
+    }
+  ]
+}

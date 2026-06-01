@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_ilog_cagayan",
+  "region": "Cagayan Valley",
+  "category": "likas",
+  "emoji": "🌊",
+  "image": "alamat_ng_ilog_cagayan.png",
+  "title_fil": "Alamat ng Ilog Cagayan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamahabang Ilog",
+      "text_fil": "Ang Ilog Cagayan ay ang pinakamahabang ilog sa Pilipinas — 505 kilometro ang haba, dumadaan sa kabundukan ng Sierra Madre at nagtatapos sa Cagayan de Oro. Ayon sa mga matatanda ng Cagayan Valley, ang ilog na ito ay hindi basta tubig — ito ay buhay, may kaluluwa, at alagang nilalang ng mga diyos."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Diwata ng Ilog",
+      "text_fil": "Sinasabing naninirahan sa ilalim ng Ilog Cagayan ang isang diwata na nagngangalang Caga — isang babae na may buhok na gawa sa halaman at mga mata na kulay ng malalalim na tubig. Binibigyan niya ng isda ang mga mangingisda na may puso ng awa, at pinoprotektahan niya ang mga nanonobya sa kanyang mga baybayin. Ngunit kapag nilason ang kanyang tubig o pinatay ang kanyang mga isda nang walang kahihiyan, nagagalit siya at nagpapabaha."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kabuhayan ng Cagayan",
+      "text_fil": "Ang Ilog Cagayan ay pinaka-mahalagang pinagkukunan ng kabuhayan ng mga taga-Cagayan Valley. Nagbibigay ito ng tubig para sa mga bukid, isda para sa mga hapag-kainan, at daan para sa kalakalan. Kinikilala ng mga tao ang biyaya ng ilog sa pamamagitan ng mga taunang pistahan — pasalamat sa Diwata Caga at sa lahat ng kanyang nagbibigay."
+    }
+  ]
+}

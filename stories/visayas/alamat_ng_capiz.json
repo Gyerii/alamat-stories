@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_capiz",
+  "region": "Visayas",
+  "category": "nilalang",
+  "emoji": "🐚",
+  "image": "alamat_ng_capiz.png",
+  "title_fil": "Alamat ng Capiz",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Seafood Capital",
+      "text_fil": "Ang Capiz ay tinatawag na 'Seafood Capital of the Philippines' dahil sa kayamanan ng kanyang mga karagatan at ilog. Ang mga talaba, hipon, alimasag, at iba't ibang pagkaing-dagat na nagmumula sa Capiz ay nagpapakain sa buong Pilipinas. Ayon sa alamat, ang kagandahang ito ng karagatan ay regalo ng isang diwata ng dagat na nagpasalamat sa mga taga-Capiz dahil sa kanilang pagiging mapagbigay at mapagpatuloy sa mga dayuhan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Capiz Shell at ang Manananggal",
+      "text_fil": "Ang Capiz ay kilala rin sa ibang bagay — ito ang probinsya na kadalasang binabanggit sa mga kwento ng manananggal. Ang Roxas City ng Capiz ay may reputasyon bilang 'aswang capital' ng Pilipinas — ngunit ang mga taga-Capiz mismo ay tumatawa sa reputasyong ito. Sinasabi nila: 'Hindi kami mga aswang. Kami ay mga taong mabuting mag-alaga ng kanilang kultura at tradisyon. Ang mga kuwento ng aswang ay paraan ng aming mga ninuno upang itakot ang mga bata na lumayo sa kagubatan sa gabi.'"
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Capiz Shell",
+      "text_fil": "Ang pinakakilalang produkto ng Capiz ay ang capiz shell — ang transparent na kabibi na ginagamit sa mga palamuti, lampshade, at dekorasyon. Ang capiz shell ay kinukunan sa mga karagatan ng probinsya at ipinadala sa buong mundo. Kapag hawak mo ang capiz shell at tiningnan mo sa liwanag, makikita mo ang pagmamahal ng dagat — ang bawat shell ay isa sa milyun-milyong nagtatanong sa lahat ng manonood: 'Nararamdaman mo ba ang kagandahan ng simpleng bagay?'"
+    }
+  ]
+}

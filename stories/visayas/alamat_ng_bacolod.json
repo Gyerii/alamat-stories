@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bacolod",
+  "region": "Visayas",
+  "category": "lunsod",
+  "emoji": "😊",
+  "image": "alamat_ng_bacolod.png",
+  "title_fil": "Alamat ng Bacolod",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lupain ng Tubó",
+      "text_fil": "Sa puso ng Negros Occidental, may isang lupain na dating puno ng mga tubuhan hanggang sa abot-tanaw. Ang mga unang naninirahan dito — mga Ati at Negrense — ay tinawag ang lugar na 'Bakolod,' mula sa salitang 'bakolod' na nangangahulugang mataas na lupa o burol. Sa itaas ng mataas na lupa na ito, may isang datu na nagtatayo ng kanyang tahanan, at dito nagsimula ang kasaysayan ng isang lungsod na hahantong sa pagiging 'City of Smiles.'"
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Masang Tao",
+      "text_fil": "Ang mga tao ng Bacolod ay kilala sa kanilang pagiging masaya at mainit ang pagtatanggap. Ayon sa isang kwento, isang beses ay dumating ang isang mahirap na manlalakbay sa lungsod — pagod, gutom, at walang pera. Sa bawat pintuan na kinatok niya, may nagbukas at nag-alok ng pagkain at tirahan. 'Bakit ganito ang inyong kabaitan?' tanong ng manlalakbay. 'Kasi kayong lahat ay masaya.' Ngumiti ang isang matanda: 'Hindi kami masaya dahil mayroon kaming marami. Mayroon kaming marami dahil masaya kami.'"
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang MassKara",
+      "text_fil": "Noong panahon ng malaking trahedya — ang pagkalubog ng barko at ang pagbagsak ng asukal — nagsama-sama ang mga tao ng Bacolod upang harapin ang kalungkutan. Gumawa sila ng maskara na may ngiti, at nagsayaw sila sa kalye. Hindi ito kahinaan — ito ay kalakasan. Sinasabi ng mga matatanda: 'Ang totoong lakas ng isang tao ay hindi sa pag-iyak siya sa hirap, kundi sa pagharap sa hirap nang nakangiti.' Kaya naman, ang MassKara Festival ng Bacolod — ang festival ng mga maskara — ay isang pagdiriwang ng tapang ng puso."
+    }
+  ]
+}

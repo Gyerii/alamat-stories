@@ -1,0 +1,25 @@
+{
+  "id": "ang_minokawa",
+  "region": "Luzon",
+  "category": "nilalang",
+  "emoji": "🦅",
+  "image": "ang_minokawa.png",
+  "title_fil": "Ang Minokawa",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Higanteng Ibon",
+      "text_fil": "Ang Minokawa ay isang nakakatakot na nilalang sa Filipino mythology — isang higanteng ibon na kasing laki ng isang pulo. Ang kanyang mga pakpak ay sumasaklaw ng langit, ang kanyang mga mata ay nagliliwanag tulad ng mga salamin, at ang kanyang beak ay kasing tigas ng bakal. Sa kanyang balat ay may libu-libong maliliit na espada na nakadikit."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Labanan ng Minokawa at ng Araw",
+      "text_fil": "Sinasabing si Minokawa ay isang beses na lumaban sa Araw — nagpunta siya sa langit upang kainin ang Araw at ibaon sa kadiliman ang buong mundo. Ngunit ang Araw ay nagpadala ng kanyang init at liwanag at napigilan si Minokawa. Sa labanan, nabali ang mga pakpak ni Minokawa at bumagsak siya sa dagat kung saan siya namalagi sa kailaliman."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Simbolo ng Minokawa",
+      "text_fil": "Para sa mga sinaunang Pilipino, ang Minokawa ay simbolo ng lahat ng puwersa na gustong pigilan ang liwanag at pag-unlad. Ang Araw na nanalo sa kanya ay simbolo ng determinasyon ng tao na hanapin ang liwanag kahit sa gitna ng pinakamadilim na kalagayan. Ang labanan nila ay walang katapusan — bawat umaga na sumisinag ay isang tagumpay ng Araw laban sa Minokawa."
+    }
+  ]
+}

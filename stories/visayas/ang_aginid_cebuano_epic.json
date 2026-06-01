@@ -1,0 +1,25 @@
+{
+  "id": "ang_aginid_cebuano_epic",
+  "region": "Visayas",
+  "category": "epiko",
+  "emoji": "📜",
+  "image": "ang_aginid_cebuano_epic.png",
+  "title_fil": "Ang Aginid: Cebuano Epic",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Kasaysayan ng Sugbo",
+      "text_fil": "Ang Aginid ay isang sinaunang kronikang Cebuano na naglalaman ng kasaysayan ng Sugbo — ang lumang Cebu — bago pa man dumating ang mga Espanyol. Isinulat ito mula sa alaala ng mga matatanda at mga tradisyong inilipat mula henerasyon hanggang henerasyon. Ang Aginid ay nangangahulugang 'kumikinang' o 'nagliliwanag' — tulad ng kasaysayan na dapat magbigay liwanag sa susunod na henerasyon. Sa loob nito ay makikita ang mga pangalan ng mga datu, mga digmaan, at mga kasunduang humubog sa Cebu."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Sri Lumay at ang Kanyang mga Anak",
+      "text_fil": "Ayon sa Aginid, ang isa sa mga unang pinuno ng Sugbo ay si Sri Lumay, isang prinsipe mula Sumatra na nagpapalayad at natagpuan ang Cebu. Nagkaroon siya ng tatlong anak na naging maimpluwensyang datu: si Sri Alho, Sri Ukob, at Rajah Parang. Ang bawat anak ay namuno sa ibat-ibang bahagi ng Cebu at nagtatag ng kanilang sariling mga pamayanan. Puno ng pakikidigma, kasunduan, at pag-ibig ang kwento ng tatlong kapatid na ito."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pamana",
+      "text_fil": "Ang Aginid ay nagpapatunay na ang Cebu ay may mayamang sibilisasyon bago pa dumating ang mga dayuhan. May mga batas, may kultura ng kalakalan, may sining, at may pananampalataya ang mga sinaunang Cebuano. Ang epikong ito ay natuklasan muli ng mga iskolar at binibigyan ng bagong buhay sa pamamagitan ng mga pagtatanghal at pagtuturo. Para sa mga Cebuano, ang Aginid ay patunay na ang kanilang lahi ay hindi nagsimula sa kolonyalismo — ito ay nagsimula sa kanilang sariling kahusayan at kagalingan."
+    }
+  ]
+}

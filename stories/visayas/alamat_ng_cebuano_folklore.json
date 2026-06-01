@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_cebuano_folklore",
+  "region": "Visayas",
+  "category": "nilalang",
+  "emoji": "👻",
+  "image": "alamat_ng_cebuano_folklore.png",
+  "title_fil": "Alamat ng Cebuano Folklore",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang mga Nilalang ng Gabi",
+      "text_fil": "Ang mga Cebuano ay may mayamang koleksyon ng mga kwento ng mga nilalang na nagtatago sa gabi. Ang Sigbin — isang nilalang na parang kambing na lumalakad paatras at nagpapalabas ng mabahong amoy — ay pinakakilala sa Cebu. Sinasabi na ang mga Sigbin ay may mga amo — mga taong nagtatago ng Sigbin sa mga palayok at ginagamit ang kanilang kapangyarihan para sa kayamanan. Ang mga Cebuano ay nagtuturo sa kanilang mga anak na mag-ingat kung may nakitang malaking palayok sa bahay ng isang estranghero."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Wakwak at Ang Manananggal",
+      "text_fil": "Ang Cebu ay may sariling bersyon ng Manananggal — na dito ay tinatawag na Wakwak. Ang Wakwak ay isang nilalang na humiwalay ang katawan sa kalahating bahagi ng gabi, at ang tuktok ng katawan ay lumilipad upang maghanap ng pagkain. Ang tunog na 'wak-wak' sa gabi ay pahiwatig na malapit na ang nilalang. Ngunit ang mga matatandang Cebuano ay nagsasabi: 'Ang Wakwak ay hindi basta-bastang dumarating. Siya ay dumarating sa mga taong nakalimot na magmahal sa kanilang pamilya.'"
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kagalingan ng Paniniwala",
+      "text_fil": "Para sa mga Cebuano, ang mga kwentong ito ng mga nilalang ay hindi simpleng pamahiin — ito ay may layunin. Ang bawat nilalang ay nagtuturo ng isang aral: ang Sigbin ay nagtaturo na ang kayamanan na nakuha sa masama ay may presyo. Ang Wakwak ay nagtaturo ng kahalagahan ng pamilya. Ang mga engkanto ng kagubatan ay nagtaturo ng respeto sa kalikasan. Ang folklore ay ang paaralan ng mga sinaunang tao — at ang mga kwento nila ay nagsasalita ng mas malalim na katotohanan kaysa sa anumang textbook."
+    }
+  ]
+}

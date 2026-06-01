@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_samar_island",
+  "region": "Visayas",
+  "category": "likas",
+  "emoji": "🌊",
+  "image": "alamat_ng_samar_island.png",
+  "title_fil": "Alamat ng Samar Island",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lupain ng Ulan",
+      "text_fil": "Ang Samar ay isa sa mga lugar sa Pilipinas na pinaka-madalas tinamaan ng bagyo. Ayon sa mga matatanda, ito ay dahil ang Samar ay itinakda ng mga diyos bilang tagapagsalang ng lahat ng bagyo — protektahan ang mas malalim na panloob na Pilipinas. Ang Samar ay parang isang makapangyarihang kalasag na nakatayo sa harapan ng Pilipinas, tinatanggap ang lahat ng unos para hindi matamaan ng ganoon kahirap ang mga taong nasa likod nito."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Sohoton Cave",
+      "text_fil": "Sa gitna ng Samar ay ang Sohoton Natural Bridge at ang mga yungib nito — isa sa pinaka-kahanga-hangang likas na yaman ng Pilipinas. Ayon sa alamat, ang mga yungib na ito ay tahanan ng mga engkanto na nagbabantay sa mga ilog. Kapag pumunta roon ang mga tao nang may galang at panalangin, pinagpapala sila ng mga engkanto ng maayos na paglalakbay. Ngunit ang sinumang walang respeto ay naliligaw sa laberinto ng mga yungib at hindi na makababalik."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Tapang ng Waray ng Samar",
+      "text_fil": "Ang mga taga-Samar — mga Waray — ay kilala sa buong Pilipinas bilang mga taong hindi sumusuko. Sa kasaysayan ng Pilipinas, ang Samar ay isa sa mga lugar na pinakamatagal lumaban sa kolonyalismo. Ang mga digmaang gerilya, ang paglaban sa mga mananakop — lahat ay sumasalamin sa diwa ng Waray: matibay, matatag, at hindi basta-bastang yuyukod kahit sa pinaka-makapangyarihang kaaway. Ang Samar ay hindi lang lupain — ito ay simbolo ng Pilipinong kalayaan."
+    }
+  ]
+}

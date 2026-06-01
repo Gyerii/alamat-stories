@@ -1,0 +1,25 @@
+{
+  "id": "ang_tambanokano",
+  "region": "Visayas",
+  "category": "nilalang",
+  "emoji": "🦀",
+  "image": "ang_tambanokano.png",
+  "title_fil": "Ang Tambanokano",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Higanteng Alimango",
+      "text_fil": "Sa ilalim ng karagatan ng Visayas, nakatira ang Tambanokano — isang higanteng alimango na kalaki ng isang bundok. Ang kanyang mga sipit ay kayang gupitin ang mga puno, at ang kanyang balat ay mas tigas pa sa bakal. Siya ang tagapanggalaga ng kailaliman ng dagat at pinamamahalaan ang lahat ng nilalang na nakatira sa ilalim ng tubig. Sa bawat bagyo, siya ang humihiling sa mga alon na huwag lumampas sa hangganan ng tao."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pakikipagkaibigan sa Tao",
+      "text_fil": "Minsan, may isang batang mangingisda na nalubog sa gitna ng bagyo. Habang papalubog siya sa kailaliman, naramdaman niya ang isang malaking bagay na humawak sa kanya nang malumanay — ito ay si Tambanokano. Dinala ng higanteng alimango ang bata sa malapit na pulo, pagkatapos ay lumubog muli sa karagatan nang walang salita. Nang umuwi ang bata at isalaysay ang nangyari, walang naniwala sa kanya — maliban sa kanyang lola, na ngumiti at nagsabing kilala niya si Tambanokano."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pangako ng Dagat",
+      "text_fil": "Nang lumaki ang batang mangingisda, palagi siyang nagdadala ng handog sa dagat bago lumabas sa pangisda — isang piraso ng kanin at isang bulaklak. Sinasabi niya: 'Para kay Tambanokano, tagapanggalaga ng karagatan.' Natutunan ng kanyang mga anak at mga apo ang ugaling ito, at kumalat sa lahat ng mangingisda ng Visayas. Hanggang ngayon, may mga mangingisda na nagbibigay ng handog sa dagat bago maglayag — bilang pasasalamat sa nilalang na hindi nakikita ngunit laging nariyan."
+    }
+  ]
+}

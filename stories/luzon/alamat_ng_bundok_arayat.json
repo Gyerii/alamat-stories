@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bundok_arayat",
+  "region": "Pampanga",
+  "category": "likas",
+  "emoji": "⛰️",
+  "image": "alamat_ng_bundok_arayat.png",
+  "title_fil": "Alamat ng Bundok Arayat",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Nag-iisang Bundok",
+      "text_fil": "Sa gitna ng luntiang kapatagan ng Pampanga, may isang natatanging bundok — ang Bundok Arayat. Nag-iisa siya, nakatayo sa gitna ng malawak na parang, parang isang bantay na nagmamasid sa buong lupain. Ayon sa mga Kapampangan, ang Arayat ay hindi basta bundok — ito ay tahanan ng isang diwata na nagngangalang Sinukuan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Sinukuan at ang Kanyang Kapangyarihan",
+      "text_fil": "Si Sinukuan ay isang makapangyarihang babae — mabuti siya sa mga taong gumagalang sa kanya at sa kalikasan, ngunit mapanganib sa mga gumagamit ng kasamaan. Sinasabing ang mga puno sa Arayat ay tumutubo nang mas mabilis kaysa sa ibang lugar dahil sa kanyang biyaya. Ang mga mangingisda at magsasaka sa Pampanga ay palaging may handog para kay Sinukuan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Bundok ng Kapangyarihan",
+      "text_fil": "Ang Bundok Arayat ay tahanan ng maraming kwento — tungkol sa mga engkanto, mga kayamanan na nakatago sa loob, at mga taong pumasok ngunit hindi na lumabas. Ngunit para sa mga Kapampangan, ang Arayat ay higit sa lahat ay simbolo ng kanilang identidad — ang isang bundok na nag-iisa ngunit matatag, tulad ng kanilang lahi."
+    }
+  ]
+}

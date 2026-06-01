@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_probinsya_ng_rizal",
+  "region": "Rizal",
+  "category": "lalawigan",
+  "emoji": "🦅",
+  "image": "alamat_ng_probinsya_ng_rizal.png",
+  "title_fil": "Alamat ng Probinsya ng Rizal",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lupain ng Bayani",
+      "text_fil": "Ang Probinsya ng Rizal ay pinangalanan sa pambansang bayani ng Pilipinas — si Dr. Jose Rizal. Ngunit ang lupain na ito ay may sariling kasaysayan bago pa man dumating si Rizal. Ang mga bundok ng Rizal — ang Sierra Madre — ay nagsisilbing sanggalang ng Metro Manila mula sa bagyo at pagbaha."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Sierra Madre at ang mga Dumagat",
+      "text_fil": "Sa kailaliman ng Sierra Madre ng Rizal, naninirahan ang mga Dumagat — isa sa mga pinakasinaunang grupo ng mga Pilipino. Sila ay mga nomadic na mangangaso at manghuhukay, namumuhay nang kasabay ng kalikasan. Ang kanilang kaalaman tungkol sa mga halaman at hayop ng kagubatan ay napakaraming henerasyon na."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Modernong Rizal",
+      "text_fil": "Ngayon, ang Probinsya ng Rizal ay kilala sa mga destinasyon ng ekoturismo — ang Hinulugang Taktak, ang Daranak Falls, at ang mga bundok na paboritong lakbayin. Ngunit para sa mga taga-Rizal, ang pinakamagandang bagay sa kanilang probinsya ay ang mga kwento ng kanilang mga ninuno — kwentong buhay pa sa bawat halaman at bato ng Sierra Madre."
+    }
+  ]
+}

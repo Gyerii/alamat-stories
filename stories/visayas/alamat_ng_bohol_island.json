@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bohol_island",
+  "region": "Visayas",
+  "category": "likas",
+  "emoji": "🌄",
+  "image": "alamat_ng_bohol_island.png",
+  "title_fil": "Alamat ng Bohol",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Tipanan ni Sikatuna at Legazpi",
+      "text_fil": "Ang Bohol ay di-malilimutang lugar sa kasaysayan ng Pilipinas — dito nangyari ang Sanduguan, ang kasunduan ng dugo sa pagitan ni Datu Sikatuna ng Bohol at ni Miguel Lopez de Legazpi noong 1565. Ginapos ng dalawang lider ang isang mapayapang kasunduan sa pamamagitan ng paghahaluan ng kanilang dugo sa isang saro ng alak at sama-samang ininom. Ang ceremonyang ito ay simbolo ng pagkakaisa, respeto, at pagkakaibigan sa pagitan ng dalawang kultura."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Francisco Dagohoy",
+      "text_fil": "Ngunit hindi lahat ng Boholano ay tumanggap sa bagong pananakop. Si Francisco Dagohoy ang nanguna sa pinakamatagal na paghihimagsik sa buong Pilipinas sa panahon ng Espanyol — 85 taon! Mula 1744 hanggang 1829, namuno si Dagohoy at ang kanyang mga kampi sa bundok ng Bohol, hindi nagpasakop, hindi sumuko. Ang kanyang pakikipaglaban ay hindi lamang para sa kalayaan ng katawan — ito ay para sa dignidad ng bawat Pilipino na may karapatang mamuhay nang malaya sa sariling lupain."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Lupain ng Kasaysayan",
+      "text_fil": "Ang Bohol ngayon ay puno ng mga tanda ng kasaysayan — mga lumang simbahan na nagtiis sa maraming lindol, ang kilalang Chocolate Hills, at ang mga tarsier na parang mga mata ng kagubatan. Ang tarsier — ang pinakamaliliit na primate sa mundo — ay natatanging matatagpuan sa Bohol. Para sa mga taga-Bohol, ang tarsier ay sagrado — simbolo ng kababaang-loob at tapang. Maliit man ang tarsier, ang kanyang mga mata ay nakadikit sa kinabukasan, laging gising, laging bantay."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_camarines_norte",
+  "region": "Camarines Norte",
+  "category": "lalawigan",
+  "emoji": "⛏️",
+  "image": "alamat_ng_camarines_norte.png",
+  "title_fil": "Alamat ng Camarines Norte",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Ginto ng Luzon",
+      "text_fil": "Ang Camarines Norte ay isa sa mga probinsya ng Luzon na may malaking deposito ng ginto. Ang mga sinaunang Bikolano ay nagmimina ng ginto doon nang maraming siglo bago pa dumating ang mga Kastila. Ang ginto ng Camarines Norte ay nagbigay sa probinsya ng kayamanan at importansya sa sinaunang kalakalan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Paracale at ang Mga Minero",
+      "text_fil": "Ang Paracale sa Camarines Norte ay ang sentro ng pagmimina ng ginto sa rehiyon. Mga henerasyon na ang mga pamilya ng Paracale na nagmimina — ang ama ay nagturong sa anak, ang anak ay nagturong sa apo. Ang tradisyon ng pagmimina ay bahagi ng kanilang identidad — mapanganib, mahirap, ngunit may dignidad."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Dagat ng Camarines Norte",
+      "text_fil": "Ang Camarines Norte ay nakaharap sa Philippine Sea — isang magulong dagat na madalas na tinatamaan ng mga bagyo. Ngunit ang mga mangingisda ng Camarines Norte ay hindi natitinag — natutunan nilang basahin ang mga ulap, ang mga hangin, at ang kulay ng dagat upang makapagsisiguro ng ligtas na paglalayag."
+    }
+  ]
+}

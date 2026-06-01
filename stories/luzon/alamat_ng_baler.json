@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_baler",
+  "region": "Aurora",
+  "category": "kasaysayan",
+  "emoji": "🏄",
+  "image": "alamat_ng_baler.png",
+  "title_fil": "Alamat ng Baler",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Sagisag ng Luzon",
+      "text_fil": "Ang Baler, kabisera ng Aurora, ay isa sa mga espesyal na lugar ng kasaysayan ng Pilipinas. Dito naganap ang isa sa mga huling labanan ng digmaang Filipino-Kastila — tinatawag na 'Siege of Baler' kung saan ang isang maliit na pangkat ng mga Espanyol ay nanatiling nakakulong sa isang simbahan sa loob ng 337 araw, ayaw sumuko kahit matagal nang tapos ang digmaan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Dakila at Katawa-Tawang Tapang",
+      "text_fil": "Ang mga sundalo ng Kastila sa Baler ay sumabog ng labanan kahit na wala na silang utusan. Ang kanilang utos ay lumaban — at lumaban sila nang walang pagod. Nang lumabas sila sa wakas at nalaman nila na taon na ang nakalipas, hiya sila ngunit buo ang kanilang dignidad. Tinuring silang 'los últimos de Filipinas' — ang mga huli sa Pilipinas."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Alon ng Baler",
+      "text_fil": "Ngayon, ang Baler ay kilala sa isang bagong uri ng tapang — ang tapang ng mga surfer. Ang malalaking alon ng baybayin ng Baler ay tinatawagan ng mga mandarahas na isda. Ang lumang tapang ng mga Kastila at ang bagong tapang ng mga surfer ay nagtatagpuan sa iisang dalampasigan — patunay na ang lakas ng tao ay maaaring magbago ng anyo ngunit hindi natatapos."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_biliran",
+  "region": "Visayas",
+  "category": "likas",
+  "emoji": "🌋",
+  "image": "alamat_ng_biliran.png",
+  "title_fil": "Alamat ng Biliran",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Maliit na Isla",
+      "text_fil": "Sa pagitan ng Leyte at Samar ay isang maliit na pulo na puno ng kagandahan — ang Biliran. May mga falls, mga mainit na bukal, at mga bundok na natatakpan ng makapal na ulap. Ayon sa alamat, si Biliran ay dating isang prinsesa ng dagat na nagpahinga sa gitna ng Leyte Gulf, at ang kanyang katawan ay naging ang pulo. Ang bawat falls ng Biliran ay luhang natutuwa ng prinsesa sa kagandahan ng lupain sa kanyang paligid."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Mainit na Bukal",
+      "text_fil": "Ang Biliran ay mayaman sa mga mainit na bukal na nagmumula sa bulkan sa ilalim ng lupa. Sinasabi ng mga matatanda na ang mga bukal na ito ay luha ng mga diyos na naiyak sa kagandahan ng Biliran. Ang sinumang naliligo sa mga mainit na bukal ng Biliran ay nagagaling ng mga sakit at nagkakaroon ng bagong lakas. Hindi lang katawan ang napapagaling — pati puso at kaluluwa ay nagre-renew sa mainit na tubig na dumadaloy mula sa kaibuturan ng lupa."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Tahimik na Isla",
+      "text_fil": "Ang Biliran ay isa sa mga hindi gaanong kilala ngunit pinaka-magandang lugar sa Visayas. Walang ingay ng malalaking lungsod, walang magulong trapiko — mayroon lang ang tunog ng mga falls, ang amoy ng sariwang hangin, at ang tinig ng mga ibon sa kagubatan. Ang mga taga-Biliran ay natutuwa sa kanilang mapayapang buhay at laging bukas ang mga pinto para sa mga bisita. Ang Biliran ay nagpapakita na ang pinaka-mahalaga sa buhay ay hindi ang laki o yaman — kundi ang katahimikan at kapayapaan ng puso."
+    }
+  ]
+}

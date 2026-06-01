@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_iloilo_heritage",
+  "region": "Visayas",
+  "category": "kasaysayan",
+  "emoji": "🏛️",
+  "image": "alamat_ng_iloilo_heritage.png",
+  "title_fil": "Alamat ng Iloilo Heritage",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Molo Mansion",
+      "text_fil": "Sa Iloilo ay ang Molo — isang bario na kilala sa mga mansion at lumang bahay na nagmumula sa panahon ng Espanyol. Ang mga bahay na ito ay gawa sa kahoy, kawayan, at bato — mga obra maestra ng arkitektura ng Pilipinas. Ang bawat bahay ng Molo ay may kwento ng isang pamilya na nagpunyagi, nagtagumpay, at nagpanatili ng kanilang kultura kahit sa panahon ng pagbabago. Ang Molo Church — na kilala bilang 'feminist church' dahil ang mga pinuno nito ay mga babae — ay simbolo ng lakas ng kababaihan ng Iloilo."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Jaro Cathedral",
+      "text_fil": "Ang Jaro Cathedral ng Iloilo ay tahanan ng Nuestra Señora de la Candelaria — ang ina ng lahat ng simbahan sa Western Visayas. Ang imahen ay natatangi sapagkat ito ay isang imahen ng Birhen na may korona na gawa sa ginto at mga alahas na ibinigay ng mga tapat na deboto sa loob ng maraming siglo. Ang bawat alahas ay kwento ng panalangin na sinagot — ng sakit na pinagaling, ng panganib na pinigilan, ng pamilyang pinagbuklod muli."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Ilonggo",
+      "text_fil": "Para sa mga Ilonggo, ang pamana ng Iloilo ay hindi nasa mga lumang gusali lamang — ito ay nasa wika, sa pagkain, sa musika, at sa ugali. Ang mga Ilonggo ay kilala sa kanilang pagiging malambing, mapagmahal sa estetika, at masigla sa kultura. Ang kanilang Kinaray-a, Hiligaynon, at iba pang wika ay mayamang daldal na puno ng salita para sa bawat emosyon at bawat anyo ng kalikasan. Ang Iloilo ay patunay na ang kultura ng isang lugar ay hindi nasusukat sa kayamanan — ito ay nasusukat sa lalim ng puso ng mga tao."
+    }
+  ]
+}

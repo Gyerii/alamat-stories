@@ -1,0 +1,25 @@
+{
+  "id": "si_oryol_ng_bicol",
+  "region": "Camarines Sur",
+  "category": "nilalang",
+  "emoji": "🐍",
+  "image": "si_oryol_ng_bicol.png",
+  "title_fil": "Si Oryol ng Bicol",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Serpyenteng Dalagang",
+      "text_fil": "Sa mga bundok ng Camarines Sur, naninirahan si Oryol — isang nilalang na kalahati ay babae at kalahati ay ahas. Sa araw, nagpapakita siya bilang isang magandang dalaga na may buhok na itim at mata na kumikinang tulad ng mga bato sa ilog. Sa gabi, ibinabalik niya ang kanyang tunay na anyo — isang malaking ahas na may gintong balat."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pagmamahal niya kay Handiong",
+      "text_fil": "Nahulog si Oryol sa pagmamahal kay Handiong — isang bayani at pinuno ng mga Bikolano. Hindi siya tumanggap ng pag-ibig ng isang babae na may ahas na katawan, ngunit natuklasan niya na ang puso ni Oryol ay puro at tapat. Tinutulungan ni Oryol si Handiong sa kanyang mga pakikipaglaban — pinagbibigyan niya ng kaalaman, proteksyon, at pagmamahal."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Simbolo ng Oryol",
+      "text_fil": "Si Oryol ay simbolo ng kagandahan na lampas sa anyo — ang pagmamahal na hindi nakikita ng mata. Sa mga Bikolano, siya ay paalala na huwag humusga batay sa hitsura lamang. Ang pinakamagandang puso ay maaaring nakatago sa pinaka-hindi inaasahang lugar. Ang kanyang kwento ay nananatili sa mga awit at tula ng Bicolandia."
+    }
+  ]
+}

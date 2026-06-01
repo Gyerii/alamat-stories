@@ -1,0 +1,25 @@
+{
+  "id": "ang_haliya_diyosa_ng_buwan",
+  "region": "Visayas",
+  "category": "diyos",
+  "emoji": "🌙",
+  "image": "ang_haliya_diyosa_ng_buwan.png",
+  "title_fil": "Ang Haliya, Diyosa ng Buwan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Magandang Diyosa",
+      "text_fil": "Sa mitolohiya ng mga Bisaya, ang buwan ay hindi lamang isang liwanag sa gabi — ito ay si Haliya, isang magandang diyosa na suot ang salamin at pilak. Nakatira siya sa kaitaasan ng langit, at tuwing gabi ay lumilipad siya sa kanyang karwahe ng mga ulap, binibigyan ng liwanag ang lahat ng nasa ibaba. Ang kanyang kagandahan ay walang kapantay — kahit ang mga bituin ay nagpapatirapa sa kanyang harapan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Kaaway na si Bakunawa",
+      "text_fil": "Isang araw, nakita ni Bakunawa — ang malaking dragon ng karagatan — ang kagandahan ni Haliya. Nagyabang siya na lulunukin niya ang buwan upang angkinin ang diyosa para sa kanyang sarili. Pitong beses niyang sinubukang lunukin ang buwan, at pitong beses na itinataboy ng mga tao sa lupa ang Bakunawa sa pamamagitan ng ingay — pagkakalabit ng mga palayok, paghampas ng mga tambol, at pagpalahaw. Sa bawat pagkakataon, ibinubuga ng Bakunawa ang buwan, nagagalit at nainip."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Tagumpay ng Liwanag",
+      "text_fil": "Sa ikapitong pagsubok ni Bakunawa, nagtipon ang lahat ng diyos ng Visayas upang tulungan si Haliya. Binato nila si Bakunawa ng kidlat at kumikislap na apoy, at sa wakas ay tumakas ang malaking dragon pabalik sa kailaliman ng dagat. Mula noon, nananatili si Haliya sa langit bilang tagapangalaga ng gabi. Kaya naman, tuwing may eklipse, ang mga Bisaya ay nagkakalakal, kumakantang, at gumagawa ng ingay — para alalahanin si Haliya na sila ay naririto, at upang itaboy ang Bakunawa na baka muling sumubok."
+    }
+  ]
+}

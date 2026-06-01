@@ -1,0 +1,25 @@
+{
+  "id": "ang_mga_anito_ng_pilipinas",
+  "region": "Pambansa",
+  "category": "diyos",
+  "emoji": "👻",
+  "image": "ang_mga_anito_ng_pilipinas.png",
+  "title_fil": "Ang mga Anito ng Pilipinas",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang mga Espiritu ng mga Ninuno",
+      "text_fil": "Bago dumating ang Kristiyanismo sa Pilipinas, ang mga Filipino ay naniniwala sa mga Anito — ang mga espiritu ng mga yumaong ninuno na nananatili sa mundo ng mga buhay. Ang mga Anito ay hindi mga multo na dapat katakutan — sila ay mga tagapatnubay, tagaprotekta, at tagapamagitan sa pagitan ng mga tao at ng mas mataas na mga diyos."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Papel ng mga Babaylan",
+      "text_fil": "Ang mga babaylan — mga babaeng espirituwal na lider — ay tagapamagitan sa pagitan ng mundo ng mga buhay at mundo ng mga anito. Sa pamamagitan ng mga ritwal, awit, at sayaw, tinatawag nila ang mga anito at hinahayaan silang magsalita sa pamamagitan ng kanilang mga katawan. Ang mga babaylan ay pinakamataas na awtoridad sa espirituwal na bagay."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pamana ng mga Anito",
+      "text_fil": "Kahit sa modernong Pilipinas, ang paniniwala sa mga anito ay nananatili — maaaring sa iba't ibang anyo. Ang paghandog ng pagkain sa mga patay sa Undas, ang pagbibigay ng pasalamat sa mga ninuno bago sa isang mahalagang bagay — lahat ito ay patunay na ang relasyon ng mga Filipino sa kanilang mga ninuno ay hindi natatapos sa kamatayan."
+    }
+  ]
+}

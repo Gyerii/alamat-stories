@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_tacloban",
+  "region": "Visayas",
+  "category": "lunsod",
+  "emoji": "🌊",
+  "image": "alamat_ng_tacloban.png",
+  "title_fil": "Alamat ng Tacloban",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Baklad ng mga Isda",
+      "text_fil": "Sa baybay ng Leyte Gulf, may isang lugar na palaging puno ng mga isda. Ang mga sinaunang Waray ay nagtatayo rito ng mga baklad — mga patibong na yari sa kawayan na ginagamit upang hulihin ang mga isda sa bahagyang tubig. Ang lugar ay tinawag nilang 'Tacloban,' mula sa salitang 'taklob' o 'baklad.' Dito, ang buhay ay umiikot sa dagat — ang pagkain, ang kalakalan, at ang kasiyahan ay lahat mula sa alon."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Tapang ng Waray",
+      "text_fil": "Ang mga taong Waray ay kilala sa kanilang tapang at katibayan. 'Waray-waray' — walang takot. Noong Ikalawang Digmaang Pandaigdig, dito sa Leyte Gulf nangyari ang isa sa pinakamalaking labanan sa dagat sa kasaysayan. Ang pagbabalik ni General MacArthur ay simbolo ng tagumpay — at ang mga Waray na nakapaligid sa kanya ay nagbigay ng lahat para sa kalayaan ng bansa. Ang tapang ng Tacloban ay hindi lang sa salita — ito ay nasubok ng kasaysayan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Pagkatapos ng Bagyo",
+      "text_fil": "Noong 2013, tinamaan ang Tacloban ng isa sa pinakamasama at pinakamakapangyarihang bagyo sa kasaysayan ng mundo. Libu-libo ang namatay. Nawasak ang lungsod. Ngunit nagbangon ang Tacloban — mabilis, matapang, at determinado. Ang mga tao ay nagtulong-tulong, nag-alis ng mga guho, at muling itinayo ang kanilang mga tahanan. Sinasabi ng mga nakaligtas: 'Hindi kami basta-bastang masisira. Kami ay Waray — at ang Waray ay hindi sumusuko.'"
+    }
+  ]
+}

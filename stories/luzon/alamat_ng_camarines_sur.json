@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_camarines_sur",
+  "region": "Camarines Sur",
+  "category": "lalawigan",
+  "emoji": "🏄",
+  "image": "alamat_ng_camarines_sur.png",
+  "title_fil": "Alamat ng Camarines Sur",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Wakeboarding Capital",
+      "text_fil": "Ang Camarines Sur ay kilala sa buong Asya bilang Wakeboarding Capital — ang CamSur Watersports Complex ay isa sa pinakamagaling na pasilidad para sa wakeboarding sa buong mundo. Ngunit bago ang wakeboarding, ang Camarines Sur ay kilala sa ibang bagay."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Mount Isarog",
+      "text_fil": "Ang Bundok Isarog sa Camarines Sur ay aktibong bulkan at tahanan ng maraming natatanging hayop at halaman. Para sa mga sinaunang Bikolano, ang Isarog ay sagrado — tahanan ng isang makapangyarihang diwata na nagbibigay ng ulan at buhay sa kanilang mga bukid. Ang mga ritwal ng pagpapasalamat sa diwata ng Isarog ay bahagi pa rin ng kultura ng mga lokal."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Naga at ang Patron",
+      "text_fil": "Ang Naga City sa Camarines Sur ay tahanan ng Peñafrancia Shrine — ang pinaka-dakilang pagdiriwang ng patrona ng Bikolandia, ang Our Lady of Peñafrancia. Tuwing Setyembre, ang Naga ay pinupuno ng milyun-milyong mananampalataya na nagtatrabaho para sa kanilang debosyon. Ang pagdiriwang ay simbolo ng Bikolano faith — malalim, masigla, at puno ng pagmamahal."
+    }
+  ]
+}

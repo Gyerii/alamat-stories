@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_laoag",
+  "region": "Ilocos Norte",
+  "category": "lunsod",
+  "emoji": "🏛️",
+  "image": "alamat_ng_laoag.png",
+  "title_fil": "Alamat ng Laoag",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lungsod ng Ilocos",
+      "text_fil": "Ang Laoag ay kabisera ng Ilocos Norte at isa sa mga pinakamatandang lungsod ng Pilipinas. Napatunayan ng mga arkeolohikal na pagsasaliksik na may mga sinaunang settlement sa lugar ng Laoag na umabot sa libo-libong taon. Ang mga Ilokano ay may sariling kultura, wika, at tradisyon na naiiba sa mga ibang pangkat."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Simbahan ng Laoag",
+      "text_fil": "Ang Simbahang Santo Tomas ng Villanueva sa Laoag ay isa sa mga pinakamagandang halimbawa ng Baroque na arkitektura sa Pilipinas. Ang kanyang napakalaking kampanario ay nakatayo nang hiwalay mula sa simbahan — isang detalye na natatangi sa Ilocos. Sinasabing ang kampanario ay itinayo nang hiwalay dahil sa panganib ng lindol."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Diwa ng Laoag",
+      "text_fil": "Ang Laoag ay tahanan ng maraming kilalang personalidad sa kasaysayan ng Pilipinas. Ngunit para sa mga Ilokano, ang pinakamahalaga ay hindi ang mga personalidad kundi ang kolektibong espiritu ng kanilang mga tao — ang pagsisikap, ang pagpapalaki ng pamilya, at ang pagpapanatili ng kanilang kultura sa kabila ng lahat ng pagbabago."
+    }
+  ]
+}

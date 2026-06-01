@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_negros_island",
+  "region": "Visayas",
+  "category": "likas",
+  "emoji": "🌿",
+  "image": "alamat_ng_negros_island.png",
+  "title_fil": "Alamat ng Negros Island",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Madilim na Bundok",
+      "text_fil": "Ang Negros ay tinawag na ganoon dahil sa madilim na kulay ng mga bundok nito — ang mga bundok ng Negros ay maitim sa malayo, puno ng makapal na kagubatan at talahib na anino. Nang una itong makita ng mga Espanyol mula sa dagat, sinabi ng isang sundalo: 'Negros!' — tumutukoy sa madilim na hitsura ng lupain. Ngunit para sa mga Ati at Ilongo na nagtitirang doon sa loob ng maraming siglo, ito ay isang lupain ng buhay, kagandahan, at kasaganaan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Asukal at ang Luha",
+      "text_fil": "Naging sentro ng asukal ang Negros sa panahon ng Espanyol at Amerikano. Ang mga tubuhan ay nagtakip sa buong isla, at ang mga hacendero ay naging napakayaman. Ngunit sa likod ng tamis ng asukal ay makapal na luha ng mga manggagawa — mga sacadas na nagtatrabaho nang walang sapat na sahod. Ang kasaysayan ng Negros ay kwento ng dalawang mundo na magkasabay: ang kayamanan ng iilan at ang kahirapan ng marami. Ang isla ay nagturo ng mahalagang aral tungkol sa katarungan at pagkakapantay-pantay."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Bundok Kanlaon",
+      "text_fil": "Sa gitna ng Negros, nakatayo ang bulkang Kanlaon — ang pinaka-aktibong bulkan sa Visayas. Ayon sa mga Ati, si Kanlaon ay isang makapangyarihang diwata na nagbabantay sa isla. Kung galit siya, naglalabas ang bundok ng usok at apoy. Kung masaya siya, ang lupain sa paligid niya ay sobrang fertile at masagana. Ang mga tao sa paanan ng Kanlaon ay may espesyal na relasyon sa bundok — tinatawagan nila ito ng mga awit, at bago mag-ani, nagdadala sila ng handog bilang pasasalamat."
+    }
+  ]
+}

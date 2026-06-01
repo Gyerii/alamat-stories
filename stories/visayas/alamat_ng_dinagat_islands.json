@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_dinagat_islands",
+  "region": "Visayas",
+  "category": "likas",
+  "emoji": "🏝️",
+  "image": "alamat_ng_dinagat_islands.png",
+  "title_fil": "Alamat ng Dinagat Islands",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang mga Batong Pulo",
+      "text_fil": "Sa hilaga ng Mindanao at timog ng Leyte ay ang Dinagat Islands — isang kalipunan ng mga pulo na puno ng mga mushroom-shaped na bato, mga yamang-dagat, at mga kagubatang hindi pa naapakan ng modernong sibilisasyon. Ang pangalang 'Dinagat' ay nagmula sa salitang 'dagat' — dahil ang mga tao rito ay mga anak ng dagat, ang kanilang buhay ay umiikot sa karagatan na nakapaligid sa kanila sa lahat ng panig."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Mga Mushroom Rock",
+      "text_fil": "Ang pinakakakakilala sa mga Dinagat Islands ay ang mga mushroom-shaped na bato — malalaking bato na may manipis na base at malawak na tuktok, tulad ng mga kabute. Ayon sa alamat, ang mga batong ito ay mga higante noong unang panahon na narito upang pansalakayan ang mga tao ng Dinagat. Ngunit ang mga engkanto ng dagat ay nagpigil sa mga higante sa pamamagitan ng pagpapalit sa kanila na mga bato — walang galaw, ngunit mananatili sa lugar na ito magpahanggang sa katapusan ng mundo."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Bagong Probinsya",
+      "text_fil": "Ang Dinagat Islands ay isa sa mga pinakabago at pinaka-batang probinsya sa Pilipinas — naging probinsya lamang noong 2006. Maraming pagsubok ang nilabasan ng mga taga-Dinagat upang makamit ang kanilang sariling probinsya — mga legal na labanan, mga boto, mga pakikipaglaban sa pulitika. Ngunit hindi sila sumuko. Ang kanilang tapang ay katulad ng kanilang mga bato — matibay, matatag, at hindi natataklob ng alon kahit gaano kalakas ang bagyo."
+    }
+  ]
+}

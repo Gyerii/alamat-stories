@@ -1,0 +1,25 @@
+{
+  "id": "ang_aswang",
+  "region": "Luzon",
+  "category": "nilalang",
+  "emoji": "🦇",
+  "image": "ang_aswang.png",
+  "title_fil": "Ang Aswang",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Nilalang ng Dilim",
+      "text_fil": "Sa mga probinsya ng Luzon, lalo na sa Visayas at Tagalog na rehiyon, ang Aswang ay isa sa pinakakilalang nilalang ng Filipino folklore. Sa araw, mukhang normal na tao — maaaring kapitbahay, kaibigan, o kamag-anak. Sa gabi, nagbabago ang kanilang anyo — nagiging hayop, lumipad, at humahanap ng kanilang pagkain."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Iba't Ibang Uri ng Aswang",
+      "text_fil": "May maraming uri ng Aswang: ang Manananggal na nagkakahiwalay ang katawan sa kalahati at lumipad gamit ang kanyang pakpak; ang Tiktik na gumagamit ng mahabang dila upang kumain ng mga sanggol; ang Sigbin na maaaring maging anino ng sinuman; at ang Berberoka na naninirahan sa mga ilog. Bawat rehiyon ay may sariling uri ng Aswang na sumasalamin sa kanilang mga takot."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Babala ng mga Ninuno",
+      "text_fil": "Sinasabing ang kuwento ng Aswang ay ginawa ng mga ninuno upang turuan ang mga bata na huwag lumabas sa gabi, huwag kumain sa bahay ng hindi kilala, at laging magtiwala sa kanilang instincts. Ang Aswang ay simbolo ng mga panganib na hindi namin nakikita — ng mga taong may dalawang mukha, ng mga sitwasyon na mukhang ligtas ngunit mapanganib."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ang_magayon_visayas",
+  "region": "Visayas",
+  "category": "tauhan",
+  "emoji": "💔",
+  "image": "ang_magayon_visayas.png",
+  "title_fil": "Ang Magayon (Visayas Version)",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Babae na Nagpunta sa Visayas",
+      "text_fil": "Sa Visayas, may kwentong katulad ng alamat ni Magayon ng Bicol — ang kwento ng isang babae na napakaganda na kahit ang mga ulap ay huminto para tingnan siya. Sa bersyong Bisaya, ang babae ay isang prinsesa ng Leyte na nagngangalang Dalisay. Ang kanyang kagandahan ay nalaman ng lahat ng datu sa Visayas, at maraming lalaki ang dumating upang humingi ng kanyang kamay — ngunit tinanggihan niya ang lahat."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pag-ibig ni Dalisay",
+      "text_fil": "Nagmahal si Dalisay sa isang simpleng mangingisda — isang lalaking hindi mayaman, hindi makapangyarihan, ngunit mapagmahal at tapat. Galit ang ama ni Dalisay — ayaw niyang magsama ang kanyang anak sa isang mahirap. Ngunit si Dalisay ay matatag. 'Mas gusto ko ang isang pusong matapat kaysa sa isang kaharian na puno ng kasinungalingan,' sinabi niya sa kanyang ama. Nagalit ang ama at ibinilanggo ang mangingisda."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Dagat ng Pagmamahal",
+      "text_fil": "Ang kwento ni Dalisay ay natapos sa trahedya — namatay ang mangingisda sa bilangguan, at si Dalisay ay nagtapon sa dagat sa pagdalamhati. Ngunit sinasabi ng mga Bisaya na ang kanilang pagmamahal ay hindi namatay — naging liwanag ang kanilang pag-ibig sa gabi ng Leyte Gulf. Sa ngayon, kapag ang dagat ng Leyte ay nagliliwanag sa gabi — ang bioluminescence ng mga plankton — sinasabi ng mga matatanda na ito ay pagmamahal ni Dalisay at ng kanyang mangingisda, nagliliwanag pa rin sa ilalim ng tubig."
+    }
+  ]
+}

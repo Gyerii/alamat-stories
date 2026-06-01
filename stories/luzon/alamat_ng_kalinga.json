@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_kalinga",
+  "region": "Kalinga",
+  "category": "tribo",
+  "emoji": "🏔️",
+  "image": "alamat_ng_kalinga.png",
+  "title_fil": "Alamat ng Kalinga",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang mga Mandirigma ng Cordillera",
+      "text_fil": "Ang Kalinga ay isa sa mga probinsya ng Cordillera — tahanan ng mga Kalinga na kilala sa buong mundo bilang matatapang na mandirigma at mga dalubhasang mananahi. Ang kanilang tradisyon ng pakikipaglabanan ay puno ng ritwal at kahulugan — ang bawat labanan ay may mga alituntunin, batas, at hangganan na kinikilala ng lahat."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Bodong: Kasunduan ng Kapayapaan",
+      "text_fil": "Ang pinakakilala at pinaka-espesyal na bahagi ng kultura ng Kalinga ay ang Bodong — isang kasunduan ng kapayapaan sa pagitan ng dalawang tribu o pamilya. Ang Bodong ay may mga ritwal, mga handog, at mga pangako na isinusumpa sa harap ng mga ninuno. Ang paglabag sa Bodong ay isang napakalaking kasalanan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Si Whang-od at ang Sining ng Tattoo",
+      "text_fil": "Ang Kalinga ay kilala rin sa pamamagitan ng tattoo artist na si Apo Whang-od — ang pinakamatandang at pinaka-kilalang mambabatok sa Pilipinas. Ang kanyang mga tattoo ay gawa ng kamay at tinik ng pomelo — isang sinaunang tradisyon ng Kalinga. Sa kanyang mga kamay, ang kasaysayan ng Kalinga ay nasusulat sa balat ng mga nagmamahal sa kanilang kultura."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_surigao_norte",
+  "region": "Surigao del Norte",
+  "category": "lalawigan",
+  "emoji": "🌊",
+  "image": "alamat_ng_surigao_norte.png",
+  "title_fil": "Alamat ng Surigao del Norte",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinto ng Mindanao",
+      "text_fil": "Ang Surigao del Norte ay tinatawag na 'Pinto ng Mindanao' — ang pinaka-hilagang bahagi ng Mindanao, nakaharap sa Leyte at Surigao Strait. Ito ay isang probinsya ng mga pulo, mga bahura, at mga nagagandahang baybayin. Ang Siargao Island, bahagi ng Surigao del Norte, ay kilala bilang isa sa pinakamagandang surfing destinations sa buong mundo."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Mamimili ng Siargao",
+      "text_fil": "Ang Siargao ay tahanan ng isang natatanging kultura ng surfing — ang mga lokal ay kilala bilang mga mamimili, mga taong kahit gaano kalaki ang alon ay hindi natitinag. Ang kanilang kaalaman sa dagat ay ipinasa mula sa kanilang mga ninuno — mga mangingisda na natutunan na basahin ang mga alon at huminga kasabay ng dagat."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Coral Garden ng Surigao",
+      "text_fil": "Ang karagatan ng Surigao del Norte ay isa sa mga pinakamakulay at pinakamasustansya sa buong Pilipinas — tahanan ng mga coral reef na puno ng libu-libong species ng isda. Para sa mga lokal, ang karagatan ay hindi lamang kabuhayan — ito ay kanilang buhay, kanilang kasaysayan, at kanilang puso."
+    }
+  ]
+}

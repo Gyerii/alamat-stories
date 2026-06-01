@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_iloilo_city",
+  "region": "Visayas",
+  "category": "lunsod",
+  "emoji": "🏛️",
+  "image": "alamat_ng_iloilo_city.png",
+  "title_fil": "Alamat ng Iloilo City",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Ilong-Ilong",
+      "text_fil": "Sa dako ng Panay Island, may isang ilog na hugis ilong ng tao kung titingnan mula sa itaas. Ang mga sinaunang Ilonggo ay tinawag itong 'Irong-Irong,' nangangahulugang katulad ng ilong. Sa piling ng ilog na ito itinatag ang unang pamayanan na kalaunan ay magiging Iloilo. Ang mga unang mananahan ay mga Ati at mga Malay na dumating sa pamamagitan ng Bornean Datus noong ika-13 siglo."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Lungsod ng Pag-unlad",
+      "text_fil": "Naging isa sa pinakamaunlad na lungsod ang Iloilo sa panahon ng Espanyol. Ang tela ng Iloilo — ang piña at jusi — ay kilala sa buong mundo. Ang mga babae ng Iloilo ay mga dalubhasang mananahi na ginagawa ang pinaka-maganda at pinakamanipis na tela sa Pilipinas. Ang bawat tela ay kwento ng pasensya, kahusayan, at pagmamahal — bawat hibla ay sining, bawat disenyo ay tradisyon."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Dinagyang",
+      "text_fil": "Ang pinakadakilang pagdiriwang ng Iloilo ay ang Dinagyang Festival — isang parangal sa Santo Niño at sa mga Ati na unang naninirahan sa Panay. Ayon sa kwento, nang dumating ang sampung Bornean datus sa Panay, binili nila ang lupain sa mga Ati gamit ang isang salakot at isang pulang pulseras. Bilang paggunita sa mapayapang kasunduang ito, ang Dinagyang ay isang masayang pagdiriwang ng tatlong kultura — Ati, Malay, at Kristiyano — na nagtipun-tipon sa isang awit at sayaw."
+    }
+  ]
+}

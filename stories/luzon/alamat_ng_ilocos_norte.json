@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_ilocos_norte",
+  "region": "Ilocos Norte",
+  "category": "lalawigan",
+  "emoji": "🏛️",
+  "image": "alamat_ng_ilocos_norte.png",
+  "title_fil": "Alamat ng Ilocos Norte",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Hilaga ng Luzon",
+      "text_fil": "Ang Ilocos Norte ay naroroon sa dulo ng hilaga ng Luzon — isang lugar ng mga malakas na hangin, mapungay na dalampasigan, at matataas na bundok. Ang mga Ilokano ay isa sa mga pinakamatapang na pangkat ng mga Pilipino — kilala sa kanilang kasipagan, katipiran, at katapatan sa pamilya at lupain."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Batac at ang mga Windmill",
+      "text_fil": "Ang Ilocos Norte ay kilala sa mga windmill — libu-libo sa mga ito ang nakatayo sa mga burol ng Bangui, gumagamit ng hangin ng South China Sea upang makagawa ng kuryente. Ngunit bago pa ang modernong windmill, ang mga Ilokano ay gumagamit na ng hangin — para sa kanilang mga layag, para sa kanilang mga bukid, at para sa kanilang mga salita na pinapalakas ng bawat simoy."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kagandahan ng Ilocos",
+      "text_fil": "Ang Ilocos Norte ay puno ng mga patunay ng kasaysayan — ang Paoay Church, ang Bangui Bay, ang Batac City. Ngunit ang pinakamagandang bagay sa Ilocos Norte ay ang mga kwento ng mga Ilokano — kwentong puno ng tapang, pagtitipid, at pagmamahal sa kanilang lupain at kultura."
+    }
+  ]
+}

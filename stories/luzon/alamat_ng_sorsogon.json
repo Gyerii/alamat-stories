@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_sorsogon",
+  "region": "Sorsogon",
+  "category": "lalawigan",
+  "emoji": "🦈",
+  "image": "alamat_ng_sorsogon.png",
+  "title_fil": "Alamat ng Sorsogon",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Dulo ng Luzon",
+      "text_fil": "Ang Sorsogon ay nasa dulo ng Luzon — ang huling probinsya bago ang Sibuyan Sea at Visayas. Ito ay isang lugar ng transisyon — ng Tagalog at Bicol, ng lupa at dagat, ng pala at piso. Ang mga taga-Sorsogon ay may natatanging kultura na halo ng mga impluwensya mula sa parehong panig."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Butanding ng Donsol",
+      "text_fil": "Ang Donsol sa Sorsogon ay kilala sa buong mundo dahil sa mga Butanding — ang mga Whale Shark na bumibisita sa kanilang baybayin tuwing Enero hanggang Mayo. Ang mga napakalaking isda ay nagtitipon sa Donsol para sa pagkain — at ang mga turista mula sa buong mundo ay pumupunta upang lumangoy kasama sila."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Paggalang sa Butanding",
+      "text_fil": "Para sa mga mangingisda ng Donsol, ang mga Butanding ay hindi basta isda — sila ay mga bisita, mga espiritu ng dagat. Noong una, ang mga mangingisda ay natatakot sa kanila ngunit nang nalaman nila na ang mga Butanding ay hindi mapanganib, nagsimula silang tumingin sa kanila nang may pagmamahal. Ngayon, ang Donsol ay modelo ng sustainable tourism — ang mga tao at mga hayop ay namumuhay nang kapwa nagtatangkilik."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "si_aliguyon",
+  "region": "Ifugao",
+  "category": "epiko",
+  "emoji": "⚔️",
+  "image": "si_aliguyon.png",
+  "title_fil": "Si Aliguyon (Ifugao Epic)",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Dalawang Bayani",
+      "text_fil": "Sa mga terasa ng Ifugao, nagkalabanang dalawang bayani na magkapatid ang tapang at lakas. Si Aliguyon mula sa Hananga at si Pumbakhayon mula sa Daligdigan. Ang kanilang labanan ay nagsimula dahil sa isang alitan ng kanilang mga pamilya — ngunit habang lumalabanan sila, natuklasan nila ang paggalang sa isa't isa."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Walang Kupas na Labanan",
+      "text_fil": "Nang lumaban sina Aliguyon at Pumbakhayon, walang nanalo — magkapantay sila sa lakas, katatagan, at talino. Tumagal ang kanilang labanan ng maraming araw at gabi, at sa katapusan, kapwa sila pagod at naguguluhan. Tumigil sila at tumingin sa isa't isa — at sa unang pagkakataon, nakita nila hindi kaaway kundi kasamahan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kapayapaan at Pag-ibig",
+      "text_fil": "Nagkasundo sina Aliguyon at Pumbakhayon — nagpalit sila ng mga kapatid bilang asawa. Si Aliguyon ay nagpakasal sa kapatid ni Pumbakhayon at si Pumbakhayon ay nagpakasal sa kapatid ni Aliguyon. Ang dating labanan ay naging pagkakaisa. Ang epiko ni Aliguyon ay nagtuturo na ang tunay na tapang ay hindi ang kakayahang pumatay kundi ang kakayahang magpatawad at maghanap ng kapayapaan."
+    }
+  ]
+}

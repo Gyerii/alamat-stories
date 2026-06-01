@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_ilocos_sur",
+  "region": "Ilocos Sur",
+  "category": "lalawigan",
+  "emoji": "🏘️",
+  "image": "alamat_ng_ilocos_sur.png",
+  "title_fil": "Alamat ng Ilocos Sur",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lupain ng Vigan",
+      "text_fil": "Ang Ilocos Sur ay tahanan ng Vigan — ang pinakamaayos na preserved na colonial town sa buong Asya. Ngunit higit pa sa Vigan, ang Ilocos Sur ay isang probinsya ng mahabang kasaysayan at malalim na kultura. Ang mga Ilokano ng Ilocos Sur ay kilala sa kanilang kasipagan, katipiran, at tapang."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Empanada at Longganisa",
+      "text_fil": "Ang kultura ng Ilocos Sur ay kilala rin sa pamamagitan ng pagkain — ang Vigan longganisa, ang empanada, at ang okoy. Ang bawat pagkain ay may kwento — ang longganisa ng Vigan ay ginawa ng mga Kastila na settler na naglagay ng kanilang mga rekipe sa mga lokal na sangkap. Sa paglipas ng panahon, ang pagkaing Kastila ay naging pagkaing Ilokano."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Diwa ng Ilocos Sur",
+      "text_fil": "Ang pinakamagandang bagay sa Ilocos Sur ay ang kanilang mga tao — mga taong may malalim na pagmamahal sa kanilang kasaysayan at kultura. Ang bawat Ilokano ng Ilocos Sur ay may pagmamalaki sa kanilang pinagmulan — hindi dahil sila ay mas magaling kaysa sa iba, kundi dahil alam nila kung saan sila nagmula."
+    }
+  ]
+}

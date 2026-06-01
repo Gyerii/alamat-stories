@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_northern_samar",
+  "region": "Visayas",
+  "category": "kasaysayan",
+  "emoji": "⚓",
+  "image": "alamat_ng_northern_samar.png",
+  "title_fil": "Alamat ng Northern Samar",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Catarman",
+      "text_fil": "Ang kabisera ng Northern Samar ay ang Catarman — isang lungsod na puno ng kasaysayan at tradisyon. Ang pangalang 'Catarman' ay nagmula sa salitang 'katurman' na nangangahulugang 'lugar ng mga bayani.' Dito, sa panahon ng Rebolusyong Pilipino, maraming bayaning Norteno Samareño ang lumaban para sa kalayaan. Ang kanilang mga pangalan ay hindi kilala sa lahat, ngunit ang kanilang tapang ay nanatili sa puso ng lungsod."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Mga Katutubo ng Samar",
+      "text_fil": "Bago pa man dumating ang mga Espanyol, ang Northern Samar ay tirahan ng mga Waray at mga Samar-Leyte Visayan. Ang mga taong ito ay may mataas na sibilisasyon — may sistema ng pagsulat, may kalakalan, at may mayamang kultura ng awit at sayaw. Ang Balangiga Massacre ng 1901 ay isa sa pinakamahalaga at pinakamasakit na pangyayari sa kasaysayan ng Northern Samar — kung saan ang mga taga-Balangiga ay nagbangon laban sa mga Amerikanong sundalo at nagbayad ng malaking presyo para sa kanilang tapang."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Mga Kampanang Balangiga",
+      "text_fil": "Para sa mga taga-Northern Samar, ang mga kampana ng Balangiga ay simbolo ng dignidad at katarungan. Kinuha ng mga Amerikanong sundalo ang mga kampanang ito noong 1901 bilang tanda ng kanilang tagumpay. Sa loob ng mahigit isang siglo, isinulong ng mga Samareño ang pagbabalik ng mga kampana. Noong 2018, sa wakas ay ibinalik ng gobyerno ng Amerika ang mga kampana sa Pilipinas. Para sa mga taga-Samar, ang pagbabalik ng mga kampana ay hindi lang isang makasaysayang sandali — ito ay pagbabalik ng parte ng kanilang kaluluwa."
+    }
+  ]
+}

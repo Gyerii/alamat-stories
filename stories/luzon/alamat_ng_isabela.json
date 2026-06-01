@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_isabela",
+  "region": "Isabela",
+  "category": "lalawigan",
+  "emoji": "🌾",
+  "image": "alamat_ng_isabela.png",
+  "title_fil": "Alamat ng Isabela",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Mangkok ng Bigas ng Luzon",
+      "text_fil": "Ang Isabela ay tinatawag na 'Mangkok ng Bigas ng Luzon' — isa sa pinakamalaking probinsya ng bansa at isa sa pinaka-productive sa pagtatanim ng mais at palay. Ang malawak na kapatagan ng Isabela ay binibigyan ng buhay ng mga ilog mula sa Sierra Madre at Cordillera."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Ibanag at Ilongot",
+      "text_fil": "Ang Isabela ay tahanan ng maraming pangkat ng mga katutubo — ang mga Ibanag, Ilongot, at Agta. Ang mga Ilongot ay partikular na kilala sa kanilang pagiging matatapang na mandirigma na may ritwal ng pag-uuwi ng ulo ng kaaway — isang pagpapakita ng tapang at katatagan. Ang kanilang kwento ay pinag-aralan ng mga antropolohista mula sa buong mundo."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Ilog ng Isabela",
+      "text_fil": "Ang Ilog Cagayan, na dumadaan sa Isabela, ay nagbibigay ng buhay sa buong probinsya. Ang mga mangingisda ng Isabela ay kilala sa kanilang mga bunggo — mga espesyal na pamamaraan ng pangingisda na ginagamit nila sa pag-akyat ng mga malakas na agos ng ilog. Ang agos ng ilog ay simbolo ng buhay ng Isabela — malakas, tuluy-tuloy, at puno ng buhay."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_la_union",
+  "region": "La Union",
+  "category": "lalawigan",
+  "emoji": "🏄",
+  "image": "alamat_ng_la_union.png",
+  "title_fil": "Alamat ng La Union",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lungsod ng mga Surfer",
+      "text_fil": "Ang La Union, partikular ang San Juan, ay kilala sa buong Asya bilang isang destinasyon ng mga surfer. Ang mga alon ng Urbiztondo Beach ay perpekto para sa lahat ng antas ng surfer — mula sa mga bata hanggang sa mga eksperto. Ngunit bago ang surfing culture, ang La Union ay isang simpleng probinsya ng mga mangingisda at magsasaka."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pangalan ng La Union",
+      "text_fil": "Ang La Union ay nagmula sa salitang Español na nangangahulugang 'Ang Pagkakaisa.' Pinangalanan ito nang pagsamahin ang mga naunang maliit na bayan upang makagawa ng isang mas malakas na probinsya. Ang konsepto ng pagkakaisa ay nananatiling puso ng kulturang La Union — ang pagiging isang komunidad na tumutulong sa isa't isa."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kultura ng La Union",
+      "text_fil": "Ang La Union ay tahanan ng mga Ilocano sa hilaga at Ibaloi sa kabundukan. Ang dalawang grupo ay nagtatagpo sa La Union — nagbibigay ng isang natatanging halo ng kultura, pagkain, at tradisyon. Ang La Union ay simbolo ng pagkakaisa — ng dalawang kultura na natututo at nagmamahal sa isa't isa."
+    }
+  ]
+}

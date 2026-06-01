@@ -1,0 +1,25 @@
+{
+  "id": "si_kabunian_diyos_ng_igorot",
+  "region": "Cordillera",
+  "category": "diyos",
+  "emoji": "🌤️",
+  "image": "si_kabunian_diyos_ng_igorot.png",
+  "title_fil": "Si Kabunian, Diyos ng Igorot",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Diyos sa Langit",
+      "text_fil": "Sa kaitaasan ng Cordillera, pinaniniwalaan ng mga Igorot na ang pinakamataas na diyos ay si Kabunian — naninirahan sa kalangitan, tagapagtayo ng mundo, at tagabigay ng buhay. Si Kabunian ay hindi mapalapit ngunit naririnig ang bawat panalangin, lalong lalo na sa mga pakpak ng hangin na dumadaan sa mga bundok."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Paglikha ng mga Tao",
+      "text_fil": "Ayon sa mga Igorot, nilikha ni Kabunian ang mga tao mula sa lupa ng bundok at hininga niya. Binibigyan niya ng kaluluwa ang bawat isa — ang anito — na nananatili kahit pagkatapos ng kamatayan. Ang mga anito ng mga ninuno ay nagsisilbing tagapamagitan sa pagitan ng mga buhay at ni Kabunian. Kaya naman ang mga ritwal ng mga Igorot ay palaging may handog para sa mga anito."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Bato at ang Hangin",
+      "text_fil": "Sinasabing si Kabunian ay nagsasalita sa pamamagitan ng hangin at kulog. Kapag nagkulog sa bundok, ibig sabihin ay nagagalit si Kabunian — nagbababala sa mga tao na lumayo sa tama at mabuti. Kapag maliwanag ang langit at tahimik ang hangin, nasisiyahan siya sa kanyang mga anak. Ang bawat palay na umusbong, bawat bata na ipinanganak, ay regalo mula sa kanyang mga kamay."
+    }
+  ]
+}

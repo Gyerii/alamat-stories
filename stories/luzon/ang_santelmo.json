@@ -1,0 +1,25 @@
+{
+  "id": "ang_santelmo",
+  "region": "Luzon",
+  "category": "nilalang",
+  "emoji": "🔥",
+  "image": "ang_santelmo.png",
+  "title_fil": "Ang Santelmo",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Liyab na Gumagala",
+      "text_fil": "Ang Santelmo o St. Elmo's Fire ay isang natural na kababalaghan — isang liyab na nakikita sa mga dulo ng mga palo, ilaw-dagat, at bundok sa panahon ng bagyo. Ngunit sa Filipino folklore, ang Santelmo ay higit pa sa isang natural na penomenon — ito ay isang espiritu, isang multo, isang babala."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Kwento ng Santelmo",
+      "text_fil": "Ayon sa mga matatanda, ang Santelmo ay kaluluwa ng isang taong namatay sa tubig — naghahanap ng paraan upang makapunta sa kabilang buhay ngunit hindi makaalis. Gumagala ito sa mga baybayin at dagat, naghahanap ng isang taong handang tulungan siya. Kung lapitan mo ito at manalangin para sa kanya, maaaring makapagpahinga na siya."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Santelmo at ang mga Mangingisda",
+      "text_fil": "Para sa mga mangingisda ng Luzon, ang Santelmo ay iba't ibang kahulugan — ang ilan ay naniniwala na ito ay babala ng bagyo, ang ilan ay nagsasabi na ito ay gabay sa mga nawawalang mangingisda. Ang mga beteranong mangingisda ay nagtuturo sa kanilang mga anak: 'Huwag matakot sa Santelmo — ito ay simbolo lamang ng kalikasan na nagsasalita sa atin.'"
+    }
+  ]
+}

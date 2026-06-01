@@ -1,0 +1,25 @@
+{
+  "id": "ang_hudhud_ng_ifugao",
+  "region": "Ifugao",
+  "category": "epiko",
+  "emoji": "🎶",
+  "image": "ang_hudhud_ng_ifugao.png",
+  "title_fil": "Ang Hudhud ng Ifugao",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Awit na may Buhay",
+      "text_fil": "Ang Hudhud ay isang banal na awit ng mga Ifugao — inaawit sa panahon ng pag-aani ng palay at sa mga ritwal ng kamatayan. Hindi ito basta awit lamang; ito ay isang epiko, isang kasaysayan, isang dalangin. Ang mga babae ng Ifugao ang pangunahing mang-aawit ng Hudhud, at inaabot ng maraming oras ang pagkanta nito."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Kwento ni Aliguyon",
+      "text_fil": "Ang sentro ng Hudhud ay ang kwento ni Aliguyon — isang bayani ng Ifugao na kinakalaban ang kanyang kaaway na si Pumbakhayon. Ang kanilang labanan ay tumagal ng maraming taon, at sa katapusan, nakilala nila ang isa't isa bilang magkatulad na kalooban. Naging magkaibigan sila at nagpakasal sa mga kapatid ng isa't isa — simbolo ng pagkakasundo sa gitna ng digmaan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pamana ng Hudhud",
+      "text_fil": "Ang UNESCO ay nagdeklara ng Hudhud bilang Intangible Cultural Heritage ng Sangkatauhan. Ngunit para sa mga Ifugao, hindi kailangan ng dayuhang pagkilala upang malaman ang halaga ng kanilang awit. Ang Hudhud ay ang kanilang puso — umaawit ng tungkol sa pag-ibig, tapang, pamilya, at ang ugnayan ng mga tao sa kanilang lupa."
+    }
+  ]
+}

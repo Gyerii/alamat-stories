@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_vigan",
+  "region": "Ilocos Sur",
+  "category": "lunsod",
+  "emoji": "🏘️",
+  "image": "alamat_ng_vigan.png",
+  "title_fil": "Alamat ng Vigan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Lungsod ng Kasaysayan",
+      "text_fil": "Ang Vigan ay isa sa mga pinaka-natatanging lungsod sa buong Asya — isang lugar kung saan ang kasaysayan ay buhay pa, nakatayo sa bawat bahay at kalye. Ang Calle Crisologo, na may mga cobblestoned na daan at mga bahay ng panahon ng Kastila, ay nagdadala sa mga bisita sa nakaraan — sa panahon ng mga kalesa at mga singsing ng kampana."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pinagmulan ng Pangalan",
+      "text_fil": "Sinasabing ang pangalan ng Vigan ay nagmula sa salitang 'biga' — isang uri ng halaman na maraming tumutubo sa lugar na iyon noon. Nang dumating ang mga Kastila at tinanong nila ang pangalan ng lugar, sinabi ng mga lokal ang pangalan ng halaman. Ibig sabihin: ang Vigan ay pangalan ng isang halaman — patunay na ang mga Ilokano ay malapit sa kanilang kalikasan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang UNESCO World Heritage Site",
+      "text_fil": "Ngayon, ang Vigan ay isang UNESCO World Heritage Site — kinikilala ng mundo bilang isang lugar ng natatanging halaga sa kultura. Ngunit para sa mga taga-Vigan, ang kanilang lungsod ay hindi lamang isang museo — ito ay isang buhay na komunidad kung saan ang kasaysayan at kasalukuyan ay magkasamang nabubuhay."
+    }
+  ]
+}

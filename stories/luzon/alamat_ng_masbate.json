@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_masbate",
+  "region": "Masbate",
+  "category": "lalawigan",
+  "emoji": "🐄",
+  "image": "alamat_ng_masbate.png",
+  "title_fil": "Alamat ng Masbate",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Rodeo Capital ng Pilipinas",
+      "text_fil": "Ang Masbate ay tinatawag na 'Rodeo Capital ng Pilipinas' — kilala sa kanilang taunang Masbate Rodeo Festival kung saan ang mga cowboy ng Pilipinas ay nagpapakita ng kanilang kahusayan sa pagsakay ng baka at pagmamaneho ng kawan. Ang rodeo ng Masbate ay isang espesyal na karanasan — isang pirasong kultura na natatangi sa Pilipinas."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Mananayaw ng Masbate",
+      "text_fil": "Higit sa rodeo, ang Masbate ay kilala sa kanilang mga tradisyonal na sayaw at musika. Ang mga mananayaw ng Masbate ay may natatanging estilo — malakas, masaya, at puno ng buhay. Ang kanilang mga costume ay kulay-makulay at nagpapakita ng kanilang pagmamahal sa kagandahan at pagdiriwang."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Ginto at Uling ng Masbate",
+      "text_fil": "Ang Masbate ay may malalim na deposito ng ginto at uling — mga likas na yaman na nagbigay ng kabuhayan sa maraming pamilya. Ngunit ang mga taga-Masbate ay natutunan na ang mga likas na yaman ay may hangganan — at ang pinakamahalaga nilang kayamanan ay ang kanilang kultura, ang kanilang rodeo, at ang kanilang mainit na mga ngiti."
+    }
+  ]
+}

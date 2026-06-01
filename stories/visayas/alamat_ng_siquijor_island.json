@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_siquijor_island",
+  "region": "Visayas",
+  "category": "nilalang",
+  "emoji": "🔮",
+  "image": "alamat_ng_siquijor_island.png",
+  "title_fil": "Alamat ng Siquijor",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Isla ng Apoy",
+      "text_fil": "Noong una, ang Siquijor ay may isa pang pangalan — Isla del Fuego, ang Isla ng Apoy. Nang unang makita ng mga Espanyol ang Siquijor sa gabi, nakita nila ang buong pulo na nagliliwanag — hindi mula sa mga apoy ng tao, kundi mula sa milyun-milyong fireflies na nakatira sa mga balete tree ng pulo. Para sa mga Espanyol, parang ang buong isla ay nagliliyab. Ngunit para sa mga sinaunang mananahan, ang liwanag na ito ay sagrado — ito ang liwanag ng mga espiritu na nagbabantay sa pulo."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Mananambal",
+      "text_fil": "Ang Siquijor ay kilala sa buong Pilipinas bilang tahanan ng mga mananambal — mga manggagamot na gumagamit ng mga halamang-gamot at espirituwal na pamamaraan. Hindi sila mga bruho o mangkukulam sa masamang kahulugan — sila ay mga tagapagpanatili ng sinaunang kaalaman ng mga Bisaya tungkol sa kalikasan at kalusugan. Ang kanilang mga gamot ay gawa sa mga ugat, dahon, at langis ng mga puno ng Siquijor na hindi makikita sa ibang lugar. Sa bawat Semana Santa, nagtitipon sila upang ihanda ang kanilang mga gamot para sa susunod na taon."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Lihim ng Balete",
+      "text_fil": "Ang pinaka-kilala sa mga puno ng Siquijor ay ang Millennium Tree — isang balete na daan-daang taon na ang gulang na ang mga ugat ay gumawa ng isang malawak na gusali sa paligid nito. Sinasabi ng mga matatanda na ang punong ito ay tahanan ng isang makapangyarihang engkanto na nagbabantay sa pulo. Ang sinumang humihingi ng tulong nang may bukas na puso ay tinutulungan, ngunit ang sinumang may masamang layunin ay parurusahan. Ang Siquijor ay hindi dapat katakutan — ito ay dapat igalang."
+    }
+  ]
+}

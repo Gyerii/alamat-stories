@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_apayao",
+  "region": "Apayao",
+  "category": "tribo",
+  "emoji": "🌿",
+  "image": "alamat_ng_apayao.png",
+  "title_fil": "Alamat ng Apayao",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinaka-Hiwalay na Probinsya",
+      "text_fil": "Ang Apayao ay isa sa mga pinakamalayo at pinaka-hiwalay na probinsya ng Pilipinas — naroroon sa pinaka-hilaga ng Cordillera, malapit sa hangganan ng Cagayan. Dahil sa hiwalay na lokasyon nito, marami sa kanilang tradisyon at kultura ay napanatili nang hindi nabago ng modernong panahon."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Isneg ng Apayao",
+      "text_fil": "Ang pangunahing grupo ng mga katutubo sa Apayao ay ang mga Isneg — isang pangkat na kilala sa kanilang kayumang kultura at tradisyon ng headhunting na tinanggap na nila ngayon. Ang mga Isneg ay mga dalubhasang mangangaso at nagsasaka. Ang kanilang kaalaman sa mga halamang gamot ng Cordillera ay wala pang katulad."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kagubatan ng Apayao",
+      "text_fil": "Ang Apayao ay may isa sa pinakamalawak na kagubatan sa Pilipinas — ang mga puno doon ay daan-daang taon na. Ang kagubatan ng Apayao ay tahanan ng maraming natatanging hayop at halaman na hindi makikita kahit saan. Para sa mga Isneg, ang kagubatan ay hindi lamang lugar — ito ay kanilang pamilya, kanilang ospital, at kanilang simbahan."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_zambales",
+  "region": "Zambales",
+  "category": "lalawigan",
+  "emoji": "🌋",
+  "image": "alamat_ng_zambales.png",
+  "title_fil": "Alamat ng Zambales",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Bundok at ang Dagat",
+      "text_fil": "Ang Zambales ay isang probinsya sa kanluran ng Luzon na nakaharap sa South China Sea at nasa likod ng Cordillera. Ito ang tahanan ng isa sa mga pinakakilalang volcanic eruption sa kasaysayan — ang Pinatubo eruption noong 1991 na nagbago ng mukha ng buong rehiyon."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pinatubo at ang mga Aeta",
+      "text_fil": "Ang Bundok Pinatubo ay sagrado sa mga Aeta — ang mga katutubo ng Zambales. Para sa kanila, ang Pinatubo ay tahanan ng Apo Namalyari — ang kanilang pinakamataas na diyos. Nang pumutok ang Pinatubo noong 1991, tinanggap ng mga Aeta na ito ay desisyon ng kanilang diyos. Tumakas sila bago pa man ang pagsabog — pinatnubayan ng kanilang kaalaman sa kalikasan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Muling Pagsibol ng Zambales",
+      "text_fil": "Pagkatapos ng pagsabog ng Pinatubo, maraming komunidad sa Zambales ang nawasak. Ngunit ang mga tao ng Zambales — kabilang ang mga Aeta — ay bumalik at itinayo muli ang kanilang mga buhay. Ang Pinatubo Crater Lake na nabuo pagkatapos ng pagsabog ay isa na sa mga pinakamagandang tanawin sa Luzon — patunay na kahit sa pinakamalaking sakuna, may magandang bagay na lumalabas."
+    }
+  ]
+}

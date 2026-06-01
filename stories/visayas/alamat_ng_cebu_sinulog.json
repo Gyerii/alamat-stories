@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_cebu_sinulog",
+  "region": "Visayas",
+  "category": "kasaysayan",
+  "emoji": "🎭",
+  "image": "alamat_ng_cebu_sinulog.png",
+  "title_fil": "Alamat ng Sinulog Festival",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Sayaw sa Harap ng Santo Niño",
+      "text_fil": "Ang Sinulog ay ang pinakamalaking festival sa Pilipinas — milyun-milyon ang nagtitipon bawat Enero sa Cebu upang sumayaw at magpugay sa Santo Niño. Ang salitang 'sinulog' ay nagmula sa Cebuano na 'sulog' — nangangahulugang daloy ng tubig. Ang sayaw ng Sinulog ay nagpapanggad ng daloy ng ilog — pasulong, paatras, pasulong — tulad ng buhay ng tao na may mga pagsubok at tagumpay."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Unang Sinulog",
+      "text_fil": "Ayon sa kwento, nang ibigay ng mga Espanyol ang imahen ng Santo Niño kay Reyna Juana noong 1521, nagsimulang sumayaw ang reyna sa harap ng imahen — isang sayaw ng kagalakan at pasasalamat. Ginaya ito ng kanyang mga katulong at kalaunan ng lahat ng tao. Ang sayaw ay naging tradisyon, at ang tradisyon ay naging festival. Sa loob ng limang siglo, hindi natigil ang Sinulog — kahit sa panahon ng digmaan, kahit sa panahon ng sakit, palagi itong ipinagdiriwang."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Pit Señor",
+      "text_fil": "Ang pinaka-kilalang sigaw ng Sinulog ay 'Pit Señor!' — isang dasal at isang pagpupuri sa Santo Niño. Para sa mga Cebuano, ang Sinulog ay hindi lang isang festival — ito ay isang pagpapahayag ng pananampalataya, ng pagmamahal sa lahi, at ng pagkakaisa ng isang sambayanan. Sa araw ng Sinulog, lahat ay pantay-pantay sa daan — walang mayaman o mahirap, walang matanda o bata. Lahat ay nakasayaw, lahat ay nakaiyak sa kagalakan, lahat ay nagtitipon sa iisang puso."
+    }
+  ]
+}

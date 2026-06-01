@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_nueva_ecija",
+  "region": "Nueva Ecija",
+  "category": "lalawigan",
+  "emoji": "🌾",
+  "image": "alamat_ng_nueva_ecija.png",
+  "title_fil": "Alamat ng Nueva Ecija",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Mangkok ng Bigas ng Pilipinas",
+      "text_fil": "Ang Nueva Ecija ay tinatawag na 'Mangkok ng Bigas ng Pilipinas' — ang probinsyang nagbibigay ng pinakamaraming palay sa buong bansa. Ang mga bukid ng Nueva Ecija ay napakalawak — pagmamasid mo mula sa itaas, tila isang berdeng karpet na walang katapusan ang kanilang mga taniman."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Mga Magsasaka ng Nueva Ecija",
+      "text_fil": "Ang mga taga-Nueva Ecija ay pangunahing mga magsasaka — kilala sa kanilang kasipagan at pagmamahal sa lupa. Araw-araw, bago pa man sumikat ang araw, naroon na sila sa kanilang mga bukid — nagbubukid, nagdidilig, at nagtatanggal ng mga damo. Ang kanilang trabaho ay hindi lamang kabuhayan — ito ay pagmamahal sa kanilang pamilya at sa kanilang lupain."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang mga Ilog ng Nueva Ecija",
+      "text_fil": "Ang Nueva Ecija ay puno ng mga ilog — ang Pampanga River, ang Peñaranda River, at marami pang iba. Ang mga ilog na ito ay nagbibigay ng tubig sa mga bukid at nagbibigay ng isda sa mga tao. Para sa mga taga-Nueva Ecija, ang mga ilog ay sagrado — dapat pangalagaan, dapat respetuhin, at dapat pasalamatan araw-araw."
+    }
+  ]
+}

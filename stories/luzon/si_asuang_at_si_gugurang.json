@@ -1,0 +1,25 @@
+{
+  "id": "si_asuang_at_si_gugurang",
+  "region": "Bicol",
+  "category": "diyos",
+  "emoji": "🔥",
+  "image": "si_asuang_at_si_gugurang.png",
+  "title_fil": "Si Asuang at si Gugurang",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Dalawang Diyos ng Bicol",
+      "text_fil": "Sa sinaunang paniniwala ng mga Bikolano, may dalawang dakilang diyos na naghahari sa kanilang mundo. Si Gugurang — diyos ng kabutihan, apoy, at katuwiran — naninirahan sa loob ng Bundok Mayon at nagbabantay sa kanyang mga anak. At si Asuang — diyos ng kasamaan at kadiliman — nagsisimula ng lahat ng kasamaan sa mundo."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Walang Hanggang Labanan",
+      "text_fil": "Walang tigil ang labanan ng dalawa. Kapag gusto ni Asuang na linlangin ang mga tao, nagpadala siya ng mga tukso — pagnanasa, katamaran, at pag-iisa. Ngunit palagi si Gugurang na nagbabantay — nagpapadala ng init ng apoy bilang paalala na ang mabuti ay palaging nandoon, handa para sa mga handang hanapin ito. Ang Mayon ay salamin ng kanilang walang humpay na pakikipaglaban."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Aral ng mga Bikolano",
+      "text_fil": "Ang kwento ni Gugurang at Asuang ay nagtuturo sa mga Bikolano na ang buhay ay palaging pagpili sa pagitan ng mabuti at masama. Si Gugurang ay hindi pumipilit — nagbibigay siya ng kalayaan sa bawat tao na pumili. Ngunit ang kanyang apoy ay palaging narito — nagliliwanag sa kadiliman para sa mga gustong makita ang daan pabalik sa kabutihan."
+    }
+  ]
+}

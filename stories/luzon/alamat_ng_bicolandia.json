@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bicolandia",
+  "region": "Bicol",
+  "category": "lalawigan",
+  "emoji": "🌶️",
+  "image": "alamat_ng_bicolandia.png",
+  "title_fil": "Alamat ng Bicolandia",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Rehiyon ng Apoy at Tubig",
+      "text_fil": "Ang Bicolandia ay isang rehiyon ng mga magkasalungat — puno ng mga bulkan at napapalibutan ng dagat. Ang Mayon, Bulusan, at Isarog ay buhay na mga bundok na pana-panahon ay nagpapaalala sa mga Bikolano na ang lupa ay hindi pag-aari ng tao — tayo ay mga panauhin lamang. At sa kabila nito, malusog at masaya ang mga Bikolano."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pagkain at Kultura",
+      "text_fil": "Kilala ang Bicolanos sa kanilang pagiging masisigla at maalwan. Ang kanilang pagkain — puno ng gata at sili — ay salamin ng kanilang pagkatao: mainit ang puso, mapagbigay, at hindi takot sa lakas. Ang bicol express, ang laing, ang kinunot — mga pagkain ng isang taong natutunan na ibahin ang kahirapan sa kasiyahan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pananampalataya ng Bikolandia",
+      "text_fil": "Ang mga sinaunang Bikolano ay may sariling mga diyos — si Gugurang, diyos ng mabuti at apoy, at si Asuang, diyos ng masama. Ang labanan nila ay eternal na labanan ng mabuti at masama sa puso ng bawat tao. Ang mga Bikolano ay nagtuturo sa kanilang mga anak: 'Maging apoy na nagbibigay-liwanag, hindi apoy na sumisira.'"
+    }
+  ]
+}

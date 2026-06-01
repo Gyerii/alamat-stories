@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_antique",
+  "region": "Visayas",
+  "category": "likas",
+  "emoji": "⛵",
+  "image": "alamat_ng_antique.png",
+  "title_fil": "Alamat ng Antique",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Probinsyang Nakaharap sa Dagat",
+      "text_fil": "Ang Antique ay ang probinsyang nakaharap sa Sibuyan Sea sa kanlurang bahagi ng Panay. Ang pangalang 'Antique' ay nagmula sa salitang 'hantiik' na nangangahulugang 'nasa isang panig' — sapagkat ito ay nakatago sa likod ng bundok, nakaharap sa dagat. Ang probinsya ay hindi masyadong kilala kumpara sa ibang lugar ng Panay, ngunit ang mga taga-Antique ay ipinagmamalaki ang kanilang simpleng buhay at malalim na kultura."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Malumpati Spring",
+      "text_fil": "Sa Antique ay ang Malumpati Spring — isang malamig na bukal na sumasabog sa gitna ng mga bato nang tulad ng naglalabas na buhay. Ang tubig ng Malumpati ay malinaw na malinaw — maaari mong makita ang ilalim kahit na sampung talampakan ang lalim. Ayon sa mga matatanda, ang bukal na ito ay luha ng isang diwata na natutuwa sa kagandahan ng probinsya. Kapag naligo ka sa Malumpati, sinasabi nilang ang diwata ay nagbibigay ng kanyang kapayapaan sa iyong puso."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Panaad sa Bukid",
+      "text_fil": "Ang Antique ay kilala rin sa Panaad sa Bukid Festival — isang pagdiriwang ng pasasalamat at kagalingan sa pamamagitan ng mga tradisyonal na ritual at sining. Dito, ang mga matatanda ay itinuturo sa kabataan ang mga sayaw at awit na naglalaman ng kasaysayan ng lahi. Ang bawat hakbang ng sayaw ay salaysay, ang bawat nota ay alaala. Ang Antique ay patunay na ang pinaka-mabuting kayamanan ng isang lugar ay hindi ang ginto o turismo — kundi ang mga tao na iniingatan ang kanilang kultura para sa susunod na henerasyon."
+    }
+  ]
+}

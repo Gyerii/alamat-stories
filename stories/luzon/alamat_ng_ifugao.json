@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_ifugao",
+  "region": "Ifugao",
+  "category": "tribo",
+  "emoji": "🌾",
+  "image": "alamat_ng_ifugao.png",
+  "title_fil": "Alamat ng Ifugao",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Mga Tao ng Kagubatan",
+      "text_fil": "Ang Ifugao ay nagmula sa salitang 'ipugo' na nangangahulugang 'mula sa bundok' o 'mga tao ng kagubatan.' Ang mga Ifugao ay naninirahan sa kaitaasan ng Cordillera sa loob ng libu-libong taon — nagtatayo ng kanilang mga bahay at terasa sa mga lugar na mukhang imposible para sa mga dayuhan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Sistema ng Muyong",
+      "text_fil": "Ang mga Ifugao ay may natatanging sistema ng pamamahala ng kagubatan na tinatawag na Muyong — pribadong kagubatan na inaalagaan ng isang pamilya para sa maraming henerasyon. Ang bawat pamilya ay may responsibilidad sa kanilang Muyong — pinoprotektahan nila ito mula sa illegal na pagputol at tinitiyak na palagi itong puno ng mga puno upang matiyak ang patuloy na supply ng tubig para sa kanilang mga terasa."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Buhi na Kultura",
+      "text_fil": "Ang kultura ng Ifugao ay hindi lamang kasaysayan — ito ay buhay. Ang kanilang mga ritwal, ang kanilang mga awit, ang kanilang mga damit at alahas — lahat ito ay ginagamit pa rin ngayon. Ang mga kabataang Ifugao ay tinuturuan ng kanilang mga magulang at ninuno na ang kanilang kultura ay kanilang kayamanan — isang kayamanang mas mahalaga kaysa sa anumang ginto o pilak."
+    }
+  ]
+}

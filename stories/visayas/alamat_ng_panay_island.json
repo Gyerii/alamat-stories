@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_panay_island",
+  "region": "Visayas",
+  "category": "kasaysayan",
+  "emoji": "🏝️",
+  "image": "alamat_ng_panay_island.png",
+  "title_fil": "Alamat ng Panay Island",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Sampung Datu ng Borneo",
+      "text_fil": "Ayon sa alamat ng Maragtas, sampung datu ang nagtakbuhan mula Borneo papunta sa Panay upang tumakas sa malupit na hari. Pinamunuan sila ni Datu Puti. Sa Panay, naghanap sila ng lupain at natagpuan ang mga Ati — ang mga unang naninirahan sa pulo. Nagpulong ang mga datu sa mga pinuno ng Ati at nag-alok ng pagbili ng lupain sa kabundukan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Kasunduan sa mga Ati",
+      "text_fil": "Tinanggap ng mga Ati ang alok — isang gintong salakot at isang gintong pulseras bilang kabayaran para sa mga lupain sa kabaybaybayan at kapatagan ng Panay. Ang kasunduang ito — ang Barter of Panay — ay naging pundasyon ng mapayapang relasyon ng dalawang pangkat. Hindi ito nangyari nang may digmaan o dugo — ito ay nangyari sa pamamagitan ng respeto at pagkakaunawaan. Ang Dinagyang Festival ng Iloilo ay paggunita sa makasaysayang pagkikitang ito."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Panay Ngayon",
+      "text_fil": "Ang Panay ngayon ay tahanan ng apat na probinsya — Iloilo, Capiz, Aklan, at Antique — bawat isa ay may sariling kultura, tradisyon, at kagandahan. Ang buong Panay ay kilala sa mga festival nito: Dinagyang, Ati-Atihan, Sinulog — lahat ng ito ay nagmumula sa iisang ugat ng kasunduan at pagmamahal sa buhay. Ang Panay ay patunay na ang pinaka-magandang lipunan ay hindi nilikha sa pamamagitan ng lakas, kundi sa pamamagitan ng pakikipag-unawaan."
+    }
+  ]
+}

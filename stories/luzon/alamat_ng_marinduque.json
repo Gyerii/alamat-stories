@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_marinduque",
+  "region": "Marinduque",
+  "category": "lalawigan",
+  "emoji": "🎭",
+  "image": "alamat_ng_marinduque.png",
+  "title_fil": "Alamat ng Marinduque",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Puso ng Pilipinas",
+      "text_fil": "Ang Marinduque ay tinatawag na 'Puso ng Pilipinas' — hindi lamang dahil sa hugis ng pulo na parang puso, kundi dahil sa init ng kanilang kultura. Ang Moriones Festival, na idinadaos bawat Semana Santa, ay isa sa mga pinakamakulay at pinakakakakilig na piyesta sa buong Pilipinas."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Moriones at si Longinus",
+      "text_fil": "Ang Moriones Festival ay nagkukuwento tungkol kay Longinus — ang sundalong Romano na sumaksak sa tagiliran ni Hesus habang nakabayubay sa krus. Ayon sa kwento, ang dugo ni Hesus ay nahulog sa mata ni Longinus na bulag at nagkaroon siya ng paningin. Naging Kristiyano siya at pinatay ng kanyang sariling hukbo."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pagdiriwang ng Marinduque",
+      "text_fil": "Sa Moriones Festival, ang mga lalaking nakasuot ng mga armor at maskara ng mga Romano ay nagtatakbuhan sa buong bayan — naghahanap kay Longinus. Ang festival ay isang dramatikong pagpapakita ng Pasyon — isang paalala ng sakripisyo, kaligtasan, at tagumpay ng tama laban sa mali. Para sa mga taga-Marinduque, ito ay hindi lamang pagdiriwang — ito ay pananampalataya na nabibigay ng katawan."
+    }
+  ]
+}

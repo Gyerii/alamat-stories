@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_camiguin_visayas",
+  "region": "Visayas",
+  "category": "likas",
+  "emoji": "🌋",
+  "image": "alamat_ng_camiguin_visayas.png",
+  "title_fil": "Alamat ng Camiguin",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pulo ng mga Bulkan",
+      "text_fil": "Ang Camiguin ay ang pinakamalaking probinsya sa bawat square kilometer ng kabuuang population — ngunit ang pinakakilala nito ay ang katotohanan na ito ay ang pulo na may pinakamaraming bilang ng bulkan sa bawat square kilometer ng lupa sa buong mundo. Sa isang maliit na pulo, may limang bulkan! Ang Camiguin ay parang isang apoy na nakatago sa karagatan — palaging handa, palaging buhay, palaging mapanganib at maganda sa parehong oras."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Sunken Cemetery",
+      "text_fil": "Ang pinakakilalang lugar ng Camiguin ay ang Sunken Cemetery — isang sementeryo na lumubog sa ilalim ng dagat nang pumutok ang bulkang Vulcan Daan noong 1871. Ngayon, sa ilalim ng maberdeng tubig ng Camiguin, makikita pa rin ang mga krus na tumuturo pataas — parang mga kamay ng mga patay na sumasampa mula sa kailaliman. Para sa mga taga-Camiguin, ang Sunken Cemetery ay hindi lugar ng kalungkutan — ito ay lugar ng pag-alaala at ng kababaang-loob sa harap ng kapangyarihan ng kalikasan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Lanzones ng Camiguin",
+      "text_fil": "Bukod sa mga bulkan, ang Camiguin ay bantog sa pinaka-matamis na lanzones sa Pilipinas. Ang lanzones ng Camiguin ay mas matamis at mas makatas kaysa sa ibang lugar — dahil, sinasabi ng mga matatanda, ang lupa ay puno ng volcanic ash na nagbibigay ng espesyal na sustansya sa mga puno. Ang bawat Oktubre ay may Lanzones Festival — isang pasasalamat sa ani at isang pagdiriwang ng buhay sa isang pulo na palaging nakikipaglaro sa pagitan ng apoy at tubig, pagitan ng panganib at kagandahan."
+    }
+  ]
+}

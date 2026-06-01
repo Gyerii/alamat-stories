@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bataan",
+  "region": "Bataan",
+  "category": "kasaysayan",
+  "emoji": "⚔️",
+  "image": "alamat_ng_bataan.png",
+  "title_fil": "Alamat ng Bataan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Peninsula ng Sakripisyo",
+      "text_fil": "Ang Bataan ay isang malaking peninsula sa kanluran ng Luzon, kilala sa kasaysayan bilang lugar ng isa sa mga pinakamahal na kapalit na laban sa kalayaan ng Pilipinas — ang Bataan Death March noong 1942. Ngunit ang Bataan ay may kasaysayan na mas matagal pa sa panahon ng Ikalawang Digmaang Pandaigdig."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Sinaunang Bataan",
+      "text_fil": "Bago dumating ang mga dayuhan, ang Bataan ay tahanan ng mga Tagalog at mga grupong may kaugnayan sa mga Aeta. Ang mga Aeta, na tinatawag na mga Negritos, ay isa sa mga pinakasinaunang tao sa Pilipinas — nanirahan sa mga kagubatan at bundok ng Bataan sa loob ng libu-libong taon. Ang kanilang kaalaman sa kagubatan ay napakahalaga sa mga nagtatago mula sa mga kaaway."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Tapang ng Bataan",
+      "text_fil": "Ang Bataan ay sagisag ng tapang at pagsasakripisyo. Ang mga sundalo ng Pilipinas at Amerika na lumaban sa Bataan ay alam na maaari silang matalo ngunit patuloy silang lumaban. Ang kanilang sakripisyo ay hindi nakalimutan — ang Araw ng Araw ng Kagitingan ay ipinagdiriwang taon-taon bilang alaala ng mga bayani ng Bataan."
+    }
+  ]
+}

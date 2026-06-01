@@ -1,0 +1,25 @@
+{
+  "id": "ang_engkanto_ng_visayas",
+  "region": "Visayas",
+  "category": "nilalang",
+  "emoji": "✨",
+  "image": "ang_engkanto_ng_visayas.png",
+  "title_fil": "Ang Engkanto ng Visayas",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang mga Tagapanggalaga",
+      "text_fil": "Sa bawat pulo ng Visayas, may mga engkantong nagbabantay — mga espiritung hindi nakikita ng karaniwang tao ngunit nararamdaman sa hangin, sa tubig, at sa lupa. Ang mga engkanto ng Visayas ay iba sa ibang rehiyon — mas masaya sila, mas mapaglaruan, at mas madaling makausap ng mga taong may malinis na puso. Naninirahan sila sa malalim na kagubatan, sa mga bato ng dagat, at sa mga balete tree na lumago sa tabi ng mga daan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Makikipagkaibigan",
+      "text_fil": "May isang kwento ng isang babae sa Cebu na nawawala ang kanyang anak tuwing hapon. Sinundan niya ang bata isang araw at nakita niya itong naglalaro kasama ang mga batang walang anino. Mga engkanto sila. Nang lapitan ng ina ang mga bata, ang mga engkanto ay nagsimulang tumakbo — ngunit ang kanyang anak ay tumawag sa kanila: 'Mga kaibigan, huwag kayong matakot sa aking nanay. Siya ay mabuti.' Tumigil ang mga engkanto, at ngumiti sa ina. Mula noon, palagi silang naglalaro nang ligtas — ang tao at ang engkanto, magkasama sa hapon."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Alituntunin ng Pakikisama",
+      "text_fil": "Ang mga matatanda ng Visayas ay nagtuturo ng mga alituntunin sa pakikisama sa mga engkanto: huwag umihi o magtapon ng basura sa malalim na lugar nang walang pahintulot, laging sabihin nang malakas ang 'tabi tabi po' bago lumakad sa malalim na lugar, at huwag kunin ang kahit na anong bagay mula sa kagubatan nang hindi nagtatanong. Ang mga alituntuning ito ay hindi pamahiin lamang — ito ay mga batas ng respeto sa kalikasan at sa lahat ng nilalang na naninirahan dito, nakikita man o hindi."
+    }
+  ]
+}

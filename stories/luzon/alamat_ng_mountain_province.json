@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_mountain_province",
+  "region": "Mountain Province",
+  "category": "lalawigan",
+  "emoji": "⛰️",
+  "image": "alamat_ng_mountain_province.png",
+  "title_fil": "Alamat ng Mountain Province",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Sentro ng Cordillera",
+      "text_fil": "Ang Mountain Province ay nasa gitna ng Cordillera — at ito ay literal na sentro ng lahat ng bagay. Ang mga Bontoc na tao, na naninirahan sa kabisera ng Bontoc, ay kilala sa buong mundo dahil sa kanilang mga tradisyon at kagandahan. Ang Bontoc ay isa sa mga pinakamatibay na kultura sa Pilipinas — napanatili ang maraming tradisyon sa kabila ng lahat ng presyur ng modernong panahon."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Chico River at ang mga Terasa",
+      "text_fil": "Ang Chico River ay dumadaan sa Mountain Province — isang makapangyarihang ilog na nagbibigay ng buhay sa mga komunidad sa kanyang paligid. Ang mga terasa ng Mountain Province ay hindi kasing-kilala ng Banaue ngunit kasing-ganda — mga hagdan-hagdang bukid na sumasalamin sa dedikasyon ng mga tao sa kanilang kabuhayan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang mga Ato at Pangkultura",
+      "text_fil": "Ang mga Bontoc ay may espesyal na gusali na tinatawag na Ato — isang lugar ng pagtitipon ng mga matatanda at pagsasagawa ng mga ritwal. Ang Ato ay simbolo ng kolektibong pamumuno ng mga Bontoc — walang isang pinuno na nagdesisyon nang mag-isa; lahat ng mahahalagang desisyon ay ginagawa ng buong komunidad."
+    }
+  ]
+}

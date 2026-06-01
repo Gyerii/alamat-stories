@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bohol_tarsier",
+  "region": "Visayas",
+  "category": "hayop",
+  "emoji": "👁️",
+  "image": "alamat_ng_bohol_tarsier.png",
+  "title_fil": "Alamat ng Tarsier ng Bohol",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Maliit na Nilalang",
+      "text_fil": "Ang tarsier — ang pinakamaliliit na primate sa mundo — ay natatanging matatagpuan sa Bohol at ilang bahagi ng Pilipinas. Ang kanyang mga mata ay mas malaki kaysa sa kanyang utak, at maaari niyang paikutin ang kanyang ulo ng 180 degrees. Ayon sa alamat ng Bohol, ang tarsier ay dating isang mahiwagang espiritu — isang guardian ng kagubatan na nagpili na maging maliit upang mas mahusay na mapangalagaan ang kanyang lugar nang hindi nakikita ng kaaway."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Kahihinatnan ng Kasakiman",
+      "text_fil": "May kwento ng isang magsasaka na natagpuan ang isang tarsier at gustong gawing alaga. Dinala niya ito sa kanyang bahay at pinagaan ng makikita. Ngunit ang tarsier ay hindi kumain at hindi kumibo — namatay ito sa loob ng isang linggo. Nagsisi ang magsasaka. Natutunan niya ang aral: ang ilang nilalang ay hindi maaaring makulong — ang kanilang buhay ay naka-ugnay sa kalayaan ng kagubatan. Ang pagmamahal sa isang bagay ay minsan ay nangangahulugang pabayaan itong mabuhay nang malaya."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pangangalaga",
+      "text_fil": "Ngayon, ang Bohol ay may Philippine Tarsier Sanctuary — isang lugar kung saan ang mga tarsier ay maaaring mabuhay nang malaya sa kanilang natural na tirahan. Ang mga turista ay maaaring panoorin ang mga tarsier, ngunit hindi pahintulutang hawakan o malapit na lapitan upang hindi sila mapabago ng stress. Para sa mga taga-Bohol, ang pangangalaga sa tarsier ay simbolo ng kanilang pangako sa kalikasan — na ang mga susunod na henerasyon ay makikita pa rin ang natatanging nilalang na ito na hindi makikita kahit saan pa sa mundo."
+    }
+  ]
+}

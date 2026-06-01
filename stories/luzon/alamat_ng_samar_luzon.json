@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_samar_luzon",
+  "region": "Eastern Visayas/Samar",
+  "category": "lalawigan",
+  "emoji": "🌊",
+  "image": "alamat_ng_samar_luzon.png",
+  "title_fil": "Alamat ng Samar (Luzon Bahagi)",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Hangganan ng Luzon at Visayas",
+      "text_fil": "Ang Samar ay isang probinsya na kabilang sa Visayas ngunit may malalim na ugnayan sa mga komunidad ng Luzon — sa pamamagitan ng kalakalan, pag-aasawa, at kultura. Ang Samar Strait ay ang agwat sa pagitan ng dalawang dakilang grupo ng mga pulo, ngunit ang dagat ay nagkokonekta, hindi naghihiwalay."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Waray ng Samar",
+      "text_fil": "Ang mga Waray — ang pangunahing pangkat ng mga taga-Samar — ay kilala sa kanilang determinasyon at tapang. Ang salitang 'waray' ay nangangahulugang 'wala' sa ilang diyalekto, ngunit ang mga Waray ay may lahat — tapang, kultura, at pagmamahal sa kanilang lupain. 'Waray waray' — kahit wala, patuloy."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Dagat ng Samar",
+      "text_fil": "Ang Samar Sea ay isa sa mga pinakamaganda at pinaka-biodiversity-rich na katubigan ng Pilipinas. Tahanan ng mga dugong, pawikan, at libu-libong species ng isda, ang karagatan ng Samar ay sagrado para sa mga lokal. Ang mga mangingisda ay nagtuturo sa kanilang mga anak: 'Ang dagat ay nagbibigay sa atin — kaya ating alagaan siya nang may pagmamahal at pasasalamat.'"
+    }
+  ]
+}

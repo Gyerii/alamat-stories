@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bulkang_mayon",
+  "region": "Albay/Bicol",
+  "category": "likas",
+  "emoji": "🌋",
+  "image": "alamat_ng_bulkang_mayon.png",
+  "title_fil": "Alamat ng Bulkang Mayon",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Si Daragang Magayon",
+      "text_fil": "Sa lupain ng Bicol, may isang dalagang kilala sa buong kapuluan dahil sa kanyang kagandahan — si Magayon, anak ng datu ng Rawis. Ang kanyang ngalan ay nangangahulugang 'maganda' at ito ay tama, sapagkat walang sinuman ang makapantay sa kanya. Mula sa malapit at malalayo, dumarating ang mga manliligaw ngunit walang tinatanggap si Magayon."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Panganoron at si Pagtuga",
+      "text_fil": "Dumating ang isang marangal na mandirigma mula sa hilaga na nagngangalang Panganoron — matapang, maginoo, at nagmamahal sa kanya nang buong puso. Tinanggap siya ni Magayon. Ngunit may isang mapanghimagsik na datu na nagngangalang Pagtuga na humangad din sa kanya. Inagaw niya ang ama ni Magayon at binalaan: 'Ibigay mo sa akin si Magayon o papatayin ko ang iyong ama.'"
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Apoy ng Pag-ibig",
+      "text_fil": "Napilitan si Magayon na pumayag pero dumating si Panganoron at nilabanan si Pagtuga. Sa gitna ng labanan, nasugatan si Magayon at namatay sa bisig ng kanyang minamahal. Namatay rin si Panganoron sa kalungkutan. Inilibing sila ng magkasama at doon sa kanilang libingan ay lumitaw ang isang bundok — ang pinakamagandang bundok sa Pilipinas. Ang Bulkang Mayon — ito ay si Magayon, maganda at apoy ang puso, habang naghihintay sa kanyang Panganoron."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_aparri",
+  "region": "Cagayan",
+  "category": "lunsod",
+  "emoji": "🎣",
+  "image": "alamat_ng_aparri.png",
+  "title_fil": "Alamat ng Aparri",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Bunganga ng Ilog",
+      "text_fil": "Ang Aparri ay naroroon sa dulo ng hilaga ng Luzon — kung saan ang Ilog Cagayan ay nagtatagpo sa Babuyan Channel. Ito ang pinakamalaking port sa hilagang Luzon at isang mahalagang sentro ng pangingisda at kalakalan. Ayon sa mga matatanda, ang lugar ng Aparri ay espesyal — dito nagtatagpo ang tubig-tabang ng ilog at tubig-alat ng dagat."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pangalan ng Aparri",
+      "text_fil": "Maraming teorya tungkol sa pangalan ng Aparri. Ang isa ay nagsasabi na nagmula ito sa salitang 'aparrian' — isang uri ng halaman na maraming tumutubo sa baybayin. Ang isa pa ay nagsasabi na nagmula ito sa isang salita ng mga Cagayan na nangangahulugang 'dulo' o 'katapusan' — ang dulo ng ilog, ang katapusan ng paglalakbay."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang mga Mangingisda ng Aparri",
+      "text_fil": "Ang mga mangingisda ng Aparri ay kilala sa kanilang kahusayan sa dagat. Pumupunta sila sa Babuyan Channel at maging sa malalayong karagatan upang manghuli ng malaking isda. Ang kanilang mga bangka ay maliit ngunit ang kanilang tapang ay malaki. Ang Aparri ay simbolo ng katapusan at simula — ang katapusan ng ilog at simula ng karagatan."
+    }
+  ]
+}

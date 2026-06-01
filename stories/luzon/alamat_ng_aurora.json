@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_aurora",
+  "region": "Aurora",
+  "category": "lalawigan",
+  "emoji": "🌊",
+  "image": "alamat_ng_aurora.png",
+  "title_fil": "Alamat ng Aurora",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Probinsya ng Bagyo",
+      "text_fil": "Ang Aurora ay isa sa mga lalawigan ng Pilipinas na madalas tamaan ng mga bagyo dahil sa kanyang lokasyon sa hilagang-silangan ng Luzon, nakaharap sa Pacific Ocean. Ngunit ang mga taga-Aurora ay hindi takot sa bagyo — sa halip, natutunan nilang mabuhay kasabay ng lakas ng kalikasan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Bahura ng Aurora",
+      "text_fil": "Ang baybayin ng Aurora ay tinuturing na isa sa mga pinakamagandang surfing destinations sa Pilipinas — ang Baler ay kilala sa buong mundo sa pamamagitan ng pelikula na 'Apocalypse Now' na isinalabas doon. Ngunit ang mga lokal ay may mas matandang kwento — ang dagat ng Aurora ay tahanan ng mga engkanto na nagbibigay ng malalaking alon para sa mga surfista."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Si Aurora at ang Pamamaraan",
+      "text_fil": "Pinangalanan ang lalawigan mula kay Aurora Quezon, asawa ni Pangulong Manuel Quezon. Ngunit para sa mga sinaunang taga-lugar, ang kanilang lupain ay tinatawag na 'Infanta' — paalala ng mga panahon ng Kastila. Ang dalawang pangalan ay nagtatago ng dalawang kwento ng isang lugar na palaging nasa hangganan ng dagat at bundok, ng lumang mundo at bago."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ang_hinilawod_panay_epic",
+  "region": "Visayas",
+  "category": "epiko",
+  "emoji": "⚔️",
+  "image": "ang_hinilawod_panay_epic.png",
+  "title_fil": "Ang Hinilawod: Panay Epic",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Tatlong Bayani",
+      "text_fil": "Sa mga bundok at ilog ng Panay, isinasalaysay ang Hinilawod — isa sa pinakamahabang epiko sa buong Asya. Ito ay kwento ng tatlong magkakapatid na bayani: Labaw Donggon, Humadapnon, at Dumalapdap. Ipinanganak sila sa isang maharlikang pamilya at biniyayaan ng mga espesyal na kakayahan ng mga diyos. Ang bawat isa ay nakalaan para sa isang dakilang misyon na magbabago sa mundo."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Labaw Donggon",
+      "text_fil": "Ang panganay na si Labaw Donggon ay naghanap ng asawa sa iba't ibang mundo. Lumampas siya sa pitong dagat at pitong bundok, nalabanan ang mga demonyo at mga higante, at nagtagumpay sa bawat pagsubok. Ngunit sa kabila ng lahat ng kanyang lakas, nagtapos ang kanyang kwento sa trahedya — nakulong siya ng isang makapangyarihang kaaway. Ang kanyang kwento ay nagpapakita na kahit ang pinaka-makapangyarihang bayani ay may kahinaan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pamana ng Hinilawod",
+      "text_fil": "Ang Hinilawod ay isinasalaysay ng mga babaylan — mga espirituwal na lider ng Panay — sa loob ng maraming gabi. Ang epiko ay hindi lang kwento ng mga bayani — ito ay mapa ng paniniwala, kultura, at pilosopiya ng mga sinaunang Ilonggo. Sa bawat salita ay may kahulugan, sa bawat tauhan ay may simbolismo. Kahit ngayon, ang Hinilawod ay pinag-aaralan ng mga iskolar bilang isa sa mga pinaka-mahalaga at pinaka-kumplikadong akdang pampanitikan ng Pilipinas."
+    }
+  ]
+}

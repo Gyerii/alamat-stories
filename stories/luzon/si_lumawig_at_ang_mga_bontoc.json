@@ -1,0 +1,25 @@
+{
+  "id": "si_lumawig_at_ang_mga_bontoc",
+  "region": "Mountain Province",
+  "category": "diyos",
+  "emoji": "🏔️",
+  "image": "si_lumawig_at_ang_mga_bontoc.png",
+  "title_fil": "Si Lumawig at ang mga Bontoc",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Diyos na Bumaba sa Lupa",
+      "text_fil": "Si Lumawig ay ang pinakamataas na diyos ng mga Bontoc ng Mountain Province. Hindi siya nananatili sa langit lamang — bumababa siya sa lupa upang makihalubilo sa mga tao. Nagpapanggap siyang isang simpleng manlalakbay, kumakain kasama ang mga tao, at nag-aaral ng kanilang mga problema upang makatulong."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Mga Ritwal ni Lumawig",
+      "text_fil": "Sa panahon ng taglamig o tagtuyot, tinatawag ng mga Bontoc si Lumawig sa pamamagitan ng kanilang mga ritwal — ang Cañao. Nag-aalok sila ng tapuy (alak mula sa bigas), karne ng baboy, at mga bulaklak. Naniniwala sila na si Lumawig ay nakikinig at tumutulong sa kanilang pagtatanim, pangangaso, at pakikipaglaban sa mga kaaway."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pamana ni Lumawig",
+      "text_fil": "Sinasabing si Lumawig ang nagturo sa mga Bontoc kung paano magtanim ng palay sa mga bundok, kung paano gumawa ng mga terasa, at kung paano mabuhay nang may dignidad sa kabila ng kahirapan. Ang kanyang mga turò ay naipasa mula sa henerasyon patungo sa henerasyon — nakatago sa mga awit, ritwal, at kuwentong sinasalaysay sa paligid ng apoy."
+    }
+  ]
+}

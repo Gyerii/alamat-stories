@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_surigao_del_norte",
+  "region": "Visayas",
+  "category": "likas",
+  "emoji": "🌊",
+  "image": "alamat_ng_surigao_del_norte.png",
+  "title_fil": "Alamat ng Surigao del Norte",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Cloud 9",
+      "text_fil": "Sa Siargao Island ng Surigao del Norte ay ang Cloud 9 — ang pinakasikat na surfing spot sa Pilipinas at isa sa pinakamahirap na surf break sa buong Asya. Ayon sa alamat, ang mga alon ng Siargao ay espesyal dahil pinalaki sila ng mga diwata ng dagat — mga espiritung nagmamahal sa mga surfer at nagbibigay ng kanilang lakas sa bawat alon upang maging perpekto para sa mga nais maglaro sa tubig."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Sohoton Cove",
+      "text_fil": "Sa Bucas Grande ng Surigao del Norte ay ang Sohoton Cove — isang hindi kapani-paniwalang lugar na may mga yungib, mga halimaw na stingray, at mga bioluminescent na plankton. Sa gabi, ang tubig ng Sohoton Cove ay nagliliwanag nang asul-berde — parang isang mundo ng mga bituin na lumubog sa ilalim ng dagat. Para sa mga sinaunang taga-Surigao, ang liwanag na ito ay katibayan na ang dagat ay may kaluluwa."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang mga Mamanwa",
+      "text_fil": "Ang mga Mamanwa — ang mga katutubo ng Surigao del Norte — ay isa sa mga pinaka-sinaunang pangkat ng tao sa Pilipinas. Naninirahan sila sa mga kagubatan ng Surigao at may malalim na kaalaman sa mga halamang-gamot at sa mga ritmo ng kalikasan. Ang kanilang kultura ay kailangang pananatilihin at igalang — sapagkat sa kanilang kaalaman ay nakatago ang mga sagot sa maraming tanong na hindi pa nasasagot ng modernong agham tungkol sa kalikasan ng Pilipinas."
+    }
+  ]
+}

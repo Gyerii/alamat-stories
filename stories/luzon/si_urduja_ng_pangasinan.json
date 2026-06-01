@@ -1,0 +1,25 @@
+{
+  "id": "si_urduja_ng_pangasinan",
+  "region": "Pangasinan",
+  "category": "bayani",
+  "emoji": "⚔️",
+  "image": "si_urduja_ng_pangasinan.png",
+  "title_fil": "Si Urduja ng Pangasinan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Prinsesang Mandirigma",
+      "text_fil": "Sa mga sinaunang kwento ng Pangasinan, may isang kahanga-hangang babae na nagngangalang Urduja — isang prinsesa at mandirigma na pamunuan ng isang hukbo ng mga babaeng sundalo. Hindi siya pumapayag na magsumite sa kahit sino — ni sa mga dayuhang hari na nagpadala ng mga mensahero upang humingi ng kanyang kamay."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Reyna ng Caboloan",
+      "text_fil": "Ang lupain ni Urduja ay tinatawag na Caboloan — isang sinaunang kaharian sa lugar ng modernong Pangasinan. Siya ay kilala sa buong Asya — may mga rekord na Arabong manlalakbay na binanggit ang kanyang kaharian at ang kanyang tapang. Nanguna siya sa mga labanan, nagtayo ng isang lakas na kinikilala ng mga karatig-bayan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pamana ni Urduja",
+      "text_fil": "Si Urduja ay simbolo ng lakas ng babae sa sinaunang Pilipinas — patunay na bago pa dumating ang mga dayuhan, ang mga Filipina ay hindi lang mga tahimik na asawa kundi mga lider, mandirigma, at pinuno. Ang kanyang kwento ay inspirasyon para sa lahat ng Pilipinang naniniwala sa kanilang sariling kakayahan."
+    }
+  ]
+}

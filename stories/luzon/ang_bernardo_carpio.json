@@ -1,0 +1,25 @@
+{
+  "id": "ang_bernardo_carpio",
+  "region": "Metro Manila/Luzon",
+  "category": "bayani",
+  "emoji": "💪",
+  "image": "ang_bernardo_carpio.png",
+  "title_fil": "Ang Bernardo Carpio",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamakapangyarihang Tao",
+      "text_fil": "Ang Bernardo Carpio ay ang pinakamakapangyarihang tao sa lahat ng Filipino mythology — isang higante na may lakas na walang katulad. Sinasabing ang lakas niya ay gawa ng mga diyos — binigyan siya ng kapangyarihang angat ang anumang bigat, basagin ang anumang bato, at labanan ang anumang kaaway."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pagkakakulong sa Bundok",
+      "text_fil": "Sinasabing si Bernardo Carpio ay nakakulong sa pagitan ng dalawang malalaking bato sa bundok ng Sierra Madre. Tinangka niyang makawala ngunit hindi niya magawa — ang mga bato ay mas malakas pa sa kanya. Sa bawat pagtatangka niyang makalabas, ang lupa ay yumayanig — ito ang dahilan ng mga lindol sa Pilipinas ayon sa alamat."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pag-asa ng Kaligtasan",
+      "text_fil": "Sinasabing kapag nakalaya na si Bernardo Carpio sa kanyang bilangguan, darating ang isang bagong panahon para sa Pilipinas — isang panahon ng katarungan at kalayaan. Kaya ang mga lindol ay hindi lang kalamidad — para sa mga naniniwala sa alamat, ang bawat lindol ay pag-unlad ng tagumpay ni Bernardo Carpio, unti-unting papalapit sa kanyang kalayaan."
+    }
+  ]
+}

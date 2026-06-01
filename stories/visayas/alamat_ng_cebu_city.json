@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_cebu_city",
+  "region": "Visayas",
+  "category": "lunsod",
+  "emoji": "🏙️",
+  "image": "alamat_ng_cebu_city.png",
+  "title_fil": "Alamat ng Cebu City",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Unang Pamayanan",
+      "text_fil": "Sa baybayin ng gitna ng Visayas, may isang matandang pamayanan na tinatawag na Sugbo. Pinamumunuan ito ng Rajah Humabon, isang datu na matapang at matalino. Ang Sugbo ay kilala sa buong kapuluan bilang isang lugar ng kalakalan, kung saan nagtatagpo ang mga mangangalakal mula Tsina, Borneo, at Mindanao. Ang mga tao roon ay masayahin, mapagbigay, at nagpapahalaga sa pakikipagkapwa."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Santo Niño",
+      "text_fil": "Nang dumating ang mga Espanyol sa ilalim ni Ferdinand Magellan noong 1521, nagbigay sila ng isang maliit na imahen ng Batang Hesus — ang Santo Niño — kay Reyna Juana, asawa ni Rajah Humabon, bilang regalo ng pagbabinyag. Tinanggap ito ng reyna nang may pagmamahal. Sinabi ng mga matatanda na sa gabing iyon, nagliwanag ang imahen at nagpahayag ng kapangyarihan ng pananampalataya na magiging pundasyon ng lungsod na darating."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Lupang Pinagpalà",
+      "text_fil": "Maraming taon pagkaraan, nang matagpuan muli ang imahen ng Santo Niño sa nasunog na bahay — buo at hindi nasira — naniwala ang mga tao na ito ay sagrado. Dito itinatag ang Basilica Minore del Santo Niño, ang pinakamatandang simbahan sa Pilipinas. Ang Cebu City ay lumago mula sa Sugbo — ang lumang salitang nangangahulugang 'sunog' — hanggang maging isang dakilang lungsod na puno ng kasaysayan, pananampalataya, at pagmamahal sa sariling kultura."
+    }
+  ]
+}

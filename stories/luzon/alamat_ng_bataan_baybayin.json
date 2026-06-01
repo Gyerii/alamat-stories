@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_bataan_baybayin",
+  "region": "Bataan",
+  "category": "kasaysayan",
+  "emoji": "✍️",
+  "image": "alamat_ng_bataan_baybayin.png",
+  "title_fil": "Alamat ng Bataan at ang Baybayin",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Sinaunang Sulat",
+      "text_fil": "Bago dumating ang mga Kastila, ang mga Tagalog ng Bataan ay may sariling sistema ng pagsulat — ang Baybayin. Sa mga dahon ng saging, sa balat ng puno, at sa mga tabla, isinulat nila ang kanilang mga batas, kwento, at pagmamahal. Ang Baybayin ay isang magandang sistema — ang bawat titik ay may katutubong kahulugan at kagandahan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pagkawasak ng mga Dokumento",
+      "text_fil": "Nang dumating ang mga Kastila at naging Kristiyano ang karamihan ng mga Pilipino, marami sa mga dokumento ng Baybayin ay sinunog o nawala. Sinabi ng mga misyonero na ang mga dokumento ay ginagamit para sa mga ritwal ng pagsamba sa mga diyos-diyosan — kaya dapat itong sirain. Ang pagkawala ng mga dokumento ay isa sa mga pinaka-malungkot na bahagi ng kasaysayan ng Pilipinas."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pagbabalik ng Baybayin",
+      "text_fil": "Ngayon, ang Baybayin ay bumabalik sa puso ng maraming Pilipino — nilalaman ang mga tattoo, mga alahas, at mga guhit ng modernong sining. Ang mga kabataan ay nag-aaral ng Baybayin, naghahanap ng kanilang mga ninuno sa mga titik. Ang Baybayin ay hindi namatay — natulog lamang ito, naghihintay ng panahon na maaari itong gumising muli."
+    }
+  ]
+}

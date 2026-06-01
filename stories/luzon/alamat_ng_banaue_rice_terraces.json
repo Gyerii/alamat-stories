@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_banaue_rice_terraces",
+  "region": "Ifugao",
+  "category": "kasaysayan",
+  "emoji": "🌾",
+  "image": "alamat_ng_banaue_rice_terraces.png",
+  "title_fil": "Alamat ng Banaue Rice Terraces",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Utos ng mga Diyos",
+      "text_fil": "Matagal na panahon na ang nakalipas, ang mga Ifugao ay namumuhay sa paanan ng mga bundok ng Cordillera. Naghihirap sila sapagkat matigas ang lupa at kakaunti ang makain. Nagpunta ang kanilang pinuno sa bundok upang manalangin kay Kabunian. Dumating ang tinig ng diyos: 'Gawin mong hagdan ang bundok. Ang bawat hagdan ay magiging bukid ng palay.'"
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pagtatayo ng mga Terasa",
+      "text_fil": "Sa loob ng maraming taon, sama-sama ang mga Ifugao sa pagtatayo ng mga terasa. Gamit ang kanilang mga kamay at mga simpleng kagamitan, hinukay nila ang lupa, binato ang mga gilid, at gumawa ng sistema ng patubig na gumagamit ng tubig mula sa mga ilog ng bundok. Hindi sila natakot sa pagod sapagkat alam nilang ito ay para sa kanilang mga anak at sa mga anak ng kanilang mga anak."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Ikawalong Kababalaghan",
+      "text_fil": "Natapos ang mga terasa pagkatapos ng libu-libong taon ng pagsisikap. Ang mga hagdan-hagdang bukid ay umabot sa kalangitan — tila isang hagdan patungong langit. Pinangalanan ito ng mga dayuhan na 'Ikawalong Kababalaghan ng Mundo.' Ngunit para sa mga Ifugao, hindi ito kababalaghan — ito ay gawa ng mga kamay ng kanilang mga ninuno, puso ng kanilang kultura, at regalo ng kanilang pagmamahal sa susunod na henerasyon."
+    }
+  ]
+}

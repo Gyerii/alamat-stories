@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_romblon",
+  "region": "Romblon",
+  "category": "lalawigan",
+  "emoji": "💎",
+  "image": "alamat_ng_romblon.png",
+  "title_fil": "Alamat ng Romblon",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Bato ng Romblon",
+      "text_fil": "Ang Romblon ay kilala sa buong mundo sa isa lamang bagay — ang marmol. Ang mga bundok ng Romblon ay puno ng puting at kulay-gatas na marmol na ginagamit sa mga estatwa, sahig, at arkitektura sa buong mundo. Ngunit para sa mga taga-Romblon, ang marmol ay hindi lamang yaman — ito ay simbolo ng kanilang pagiging espesyal."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Mga Tribo ng Romblon",
+      "text_fil": "Ang Romblon ay isang grupo ng mga pulo — ang mga pulo ng Romblon, Tablas, at Sibuyan. Bawat pulo ay may sariling kultura at diyalekto. Ang mga taga-Romblon ay kilala sa kanilang kasipagan at kagalingan sa mga craft — hindi lamang sa marmol kundi sa mga tela at mga handicraft na gawa ng kamay."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Mapang-akit na Katahimikan ng Romblon",
+      "text_fil": "Ang Romblon ay isa sa mga pinakamatahimik na probinsya ng Pilipinas — walang ingay ng siyudad, walang trapik, walang madaliang buhay. Para sa mga taga-Romblon, ang katahimikan ay kayamanan. Ang kanilang buhay ay simple ngunit puno — puno ng pagmamahal sa pamilya, sa komunidad, at sa kanilang magandang pulo."
+    }
+  ]
+}

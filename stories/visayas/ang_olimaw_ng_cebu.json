@@ -1,0 +1,25 @@
+{
+  "id": "ang_olimaw_ng_cebu",
+  "region": "Visayas",
+  "category": "nilalang",
+  "emoji": "👁️",
+  "image": "ang_olimaw_ng_cebu.png",
+  "title_fil": "Ang Olimaw ng Cebu",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Higante sa Kagubatan",
+      "text_fil": "Sa malalim na kagubatan ng Cebu, may isang nilalang na tinatakot ng lahat — ang Olimaw. Ito ay isang higanteng espiritu na may katawang parang puno, mga mata na kumikinang sa gabi, at mga kamay na makakarating sa tuktok ng pinakamataas na puno. Hindi siya mabuti o masama sa simula — siya ay isang tagapanggalaga. Binabantayan niya ang mga puno at mga hayop ng kagubatan, at tinatakot ang sinumang gustong makapinsala sa kalikasan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Bata at ang Olimaw",
+      "text_fil": "Isang araw, may isang batang naglibot nang malalim sa kagubatan. Naligaw siya at nagsimulang umiyak. Sa dilim, nakita niya ang mga kumikinang na mata ng Olimaw. Ngunit sa halip na tumakbo, ang bata ay tumayo nang tuwid at nagsabi: 'Kagubatan, nagpapasalamat ako sa inyong mga puno at hayop. Tulungan ninyong makauwi.' Nagtaka ang Olimaw. Hindi siya nasanay na may taong hindi tumatakbo sa kanya. Dahan-dahan, lumakad siya patungo sa bata at itinuro ang daan palabas ng kagubatan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Aral ng Olimaw",
+      "text_fil": "Nang makauwi ang bata at isalaysay ang nangyari, nagturo ang kanyang lolo ng isang mahalagang aral: 'Ang Olimaw ay hindi kaaway ng tao. Siya ay kaaway ng mga taong gumaganis sa kalikasan. Kung igagalang mo ang kagubatan, ang kagubatan ay mag-iingat sa iyo.' Mula noon, nang pumunta ang mga tao ng Cebu sa kagubatan, lagi silang nagdadala ng pasasalamat at hindi umaalis nang hindi nag-iiwan ng kahit kaunting pagmamahal — isang awit, isang panalangin, o isang pangako na pangalagaan ang kagubatan para sa susunod na henerasyon."
+    }
+  ]
+}

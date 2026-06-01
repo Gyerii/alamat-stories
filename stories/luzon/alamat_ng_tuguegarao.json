@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_tuguegarao",
+  "region": "Cagayan",
+  "category": "lunsod",
+  "emoji": "☀️",
+  "image": "alamat_ng_tuguegarao.png",
+  "title_fil": "Alamat ng Tuguegarao",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinaka-Mainit na Lungsod",
+      "text_fil": "Ang Tuguegarao ay kilala bilang isa sa mga pinaka-mainit na lungsod sa Pilipinas — madalas na umabot sa 42 degrees Celsius sa panahon ng tag-init. Ngunit ayon sa mga matatanda, ang init ng Tuguegarao ay hindi lamang likas — ito ay regalo ng isang diyos."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Diyos ng Araw at ang Lungsod",
+      "text_fil": "Sinasabing si Apo Init, ang diyos ng Araw ng Cagayan Valley, ay nahulog sa pagmamahal sa lupain ng Tuguegarao. Binisita niya ito araw-araw, nagpadala ng kanyang mainit na yakap bilang pagpapakita ng pagmamahal. Ang mga tao ay natutunan na yakapin ang init — upang magtrabaho nang maaga bago sumapit ang tanghalian, upang magpahinga sa tanghali, at magtrabaho muli sa hapon."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Mga Kweba ng Cagayan",
+      "text_fil": "Ang Tuguegarao ay hindi lamang kilala sa init — ito ay sentro ng Callao Cave at iba pang mga kweba na may napakahalaga sa arkeolohiya. Sa mga kwebang ito, natuklasan ang mga bakas ng pinaka-sinaunang tao sa Pilipinas — ang Callao Man na tinantyang 67,000 taon na ang gulang. Ang init ng Tuguegarao ay nagpapanatili ng mga lihim na matagal nang natulog sa loob ng lupa."
+    }
+  ]
+}
