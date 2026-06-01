@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_busuanga",
+  "region": "Palawan",
+  "category": "likas",
+  "emoji": "🦅",
+  "image": "alamat_ng_busuanga.png",
+  "title_fil": "Alamat ng Busuanga",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Bundok na Lumakad",
+      "text_fil": "Ang isla ng Busuanga ay isa sa pinakamalaking isla ng Palawan, puno ng kabundukan, kagubatan, at mga ilog. Ayon sa alamat ng mga Tagbanua, ang Busuanga ay hindi laging pulo. Noong una, ito ay isang malaking bundok na naglalakad sa gitna ng dagat, naghahanap ng lugar na matitirhan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Mapagpalang Bundok",
+      "text_fil": "Ang bundok na ito ay may kaluluwa — mapagbigay at matiyaga. Sa bawat lupain na pinuntahan niya, nagbibigay siya ng pagkain at tirahan sa mga hayop at halaman. Ngunit hindi siya makahanap ng lugar na tunay niyang pagtitirhan. Hanggang sa isang araw, dumating siya sa isang dagat na tahimik at malawak at nakita niya ang kanyang lugar."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pahinga",
+      "text_fil": "Huminto ang bundok at doon na siya nanatili. Ang tubig sa paligid niya ay naging look at kalat ang mga maliliit na pulo na nagmula sa mga bato na nahulog sa kanyang pagtigil. Ang bundok na ito ay naging Busuanga — tahimik, mapagbigay, at puno ng buhay. At ang mga Tagbanua na naninirahan doon ay anak ng bundok na matagal nang naghanap ng tahanan."
+    }
+  ]
+}

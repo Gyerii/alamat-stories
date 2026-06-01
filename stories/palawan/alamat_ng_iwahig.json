@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_iwahig",
+  "region": "Palawan",
+  "category": "kasaysayan",
+  "emoji": "🔓",
+  "image": "alamat_ng_iwahig.png",
+  "title_fil": "Alamat ng Iwahig: Ang Bilangguan sa Paraiso",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Hindi Karaniwang Kulungan",
+      "text_fil": "Malapit sa Puerto Princesa ay ang Iwahig Prison and Penal Farm — isang bilangguan na walang rehas, walang bakod, at walang tanod sa bawat sulok. Ang mga bilanggo ay nagtatrabaho sa mga taniman at maaaring maglakad nang walang gabay. Ito ay isa sa pinaka-natatanging bilangguan sa buong mundo. At may alamat kung bakit ganito ito."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pangarap ng Gobernador",
+      "text_fil": "Noong simula ng ika-20 siglo, isang gobernador ang naniniwala na ang mga tao ay hindi likas na masama — sila ay nagkakamali dahil sa kahirapan at kawalan ng pagkakataon. Nag-isip siya ng isang bagay: kung bibigyan mo ng lupa, kalayaan, at trabaho ang isang tao, siya ay magiging responsable. Kaya't ginawa niya ang Iwahig — isang bilangguan kung saan ang kaparusahan ay produktibong buhay, hindi pagkakasara."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pagbabago",
+      "text_fil": "Napatunayan ng Iwahig ang pangarap ng gobernador. Maraming bilanggo ang lumabas doon na mas mabuting tao — may kaalaman sa pagsasaka, may dignidad, at handa sa bagong buhay. Sinasabi ng mga taga-Palawan: 'Ang lupa ay nagpapagaling ng puso.' Ang Iwahig ay naging simbolo ng pilosopiyang Palaweño — na ang kalikasan at kalayaan ay mas makapangyarihang paraan ng pagbabago kaysa sa pagkakasara at pagpaparusa."
+    }
+  ]
+}

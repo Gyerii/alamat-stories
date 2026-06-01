@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_batak",
+  "region": "Palawan",
+  "category": "tribo",
+  "emoji": "🍯",
+  "image": "alamat_ng_batak.png",
+  "title_fil": "Ang mga Batak at ang Pulot ng Kagubatan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinaka-Dati sa Lahat",
+      "text_fil": "Ang mga Batak ay isa sa pinakamatandang grupo ng mga katutubo sa Palawan, at isa sa mga pinaka-nanganganib dahil sa napakaliit na bilang ng natitira sa kanila. Sila ay nomadiko — lumilipat-lipat sa kagubatan ng hilagang Palawan, sumusunod sa mga hayop at halaman ng kagubatan. Ayon sa kanilang alamat, sila ay mga tagapangalaga ng pulot ng kagubatan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Kasunduan sa mga Pukyutan",
+      "text_fil": "Noong una, may isang punong Batak na gumawa ng kasunduan sa pinakamataas na reyna ng mga pukyutan. Sinabi ng reyna: 'Bibigyan namin kayo ng pulot — ang pinaka-masustansiyang pagkain sa mundo — kung pangalagaan ninyo ang mga bulaklak ng kagubatan at huwag puksain ang mga puno.' Tinanggap ng punong Batak ang kasunduan at mula noon ay nagtagumpay silang makakuha ng pulot sa kagubatan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pamana ng Pulot",
+      "text_fil": "Ang mga Batak ay natutunan ang araling ito: ang kalikasan ay magbibigay kung igagalang mo ito. Ang kanilang kaalaman sa pagkuha ng pulot at sa pag-aalaga ng kagubatan ay isa sa mga pinaka-natatangi sa buong mundo. Ngayon, kahit mababa ang kanilang bilang, patuloy silang nagtataglay ng kaalamang ito — isang yaman na hindi mabibili ng pera ngunit walang katumbas na halaga."
+    }
+  ]
+}

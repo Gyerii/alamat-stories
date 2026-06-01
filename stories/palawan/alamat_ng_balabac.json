@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_balabac",
+  "region": "Palawan",
+  "category": "hayop",
+  "emoji": "🦌",
+  "image": "alamat_ng_balabac.png",
+  "title_fil": "Alamat ng Balabac",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamaliit na Usa",
+      "text_fil": "Sa pinakatimugang dulo ng Palawan, sa mga pulo ng Balabac, naninirahan ang pinakamaliliit na usa sa buong mundo — ang pilandok o Philippine mouse deer. Ayon sa alamat ng mga Molbog na naninirahan sa lugar, ang pilandok ay dating isang batang diyos na pinarusahan ng mas mataas na diyos dahil sa kanyang kayabangan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Parusa",
+      "text_fil": "Ang batang diyos na ito ay palaging nagmamalaki sa kanyang bilis at talino. Hamon niya ang lahat ng hayop at lahat siya ay natalo. Nang marinig ito ng diyos na Makaptan, sinabi niya: 'Ang tunay na lakas ay hindi para ipagmalaki.' Pinaliit niya ang batang diyos hanggang maging maliit na hayop na ang tanging kalayaan ay tumakbo at magtago sa kagubatan ng Balabac."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Aral ng Pilandok",
+      "text_fil": "Kahit maliit, ang pilandok ay napakabilis at matalinong hayop. Nalaman niya na ang pagiging maliit ay hindi kahina-hinaang kahinaan — ito ay kalayaan. Kaya't ang mga Molbog ay may kasabihan: 'Huwag sukatin ang lakas ng isang nilalang sa kanyang laki, kundi sa kanyang tibay ng loob at talino.' At hanggang ngayon, ang pilandok ng Balabac ay simbolo ng katalinuhang mas mahalaga kaysa lakas."
+    }
+  ]
+}

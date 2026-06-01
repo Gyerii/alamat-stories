@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_brookes_point",
+  "region": "Palawan",
+  "category": "likas",
+  "emoji": "⛰️",
+  "image": "alamat_ng_brookes_point.png",
+  "title_fil": "Alamat ng Brooke's Point",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Bundok ng mga Manliligaw",
+      "text_fil": "Sa Brooke's Point sa timog Palawan, mataas ang bundok ng Mantalingahan — ang pinakamatangkad na bundok ng Palawan at isa sa mga pinaka-biodiversong lugar sa buong Pilipinas. Ayon sa mga Palawano, ang bundok na ito ay tahanan ng mga espiritu ng mga manliligaw na hindi nagtagumpay — mga puso na naghanap ng pagmamahal ngunit naligaw sa landas."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Espiritu ng Bundok",
+      "text_fil": "Isang mandirigma mula sa tribu ng Palawano ang umibig sa anak ng pinuno ng magkaibang tribu. Pinagbawalan sila, ngunit hindi huminto ang mandirigma sa pagmamahal. Umakyat siya sa tuktok ng bundok at nanalangin sa mga diyos. Naawa ang mga diyos at ginawang daan ang pagmamahal — ngunit ang mandirigma ay naiwan sa bundok, naging bahagi ng mismong bundok bilang kanyang simbolo ng wagas na pagmamahal."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Buhay sa Bundok",
+      "text_fil": "Ang espiritu ng mandirigma ay naging tagapangalaga ng Mantalingahan. Dahil sa kanyang presensya, naging sagrado ang bundok at puno ng buhay na halaman at hayop na wala sa ibang lugar sa mundo. Ang mga Palawano ay may kaugalian na huwag umingay sa bundok at laging magpahintulot bago pumasok sa kagubatan nito — bilang paggalang sa espiritu ng pagmamahal na naninirahan doon."
+    }
+  ]
+}

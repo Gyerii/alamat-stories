@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_kalayaan_islands",
+  "region": "Palawan",
+  "category": "kasaysayan",
+  "emoji": "🌅",
+  "image": "alamat_ng_kalayaan_islands.png",
+  "title_fil": "Alamat ng Kalayaan Islands",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang mga Pulo sa Gitna ng Dagat",
+      "text_fil": "Sa malayo sa kanlurang dagat ng Pilipinas, nariyan ang Kalayaan Islands — mga pulo sa Spratly archipelago na kung saan nagsimula ang maraming pagtatalo tungkol sa soberanya. Ngunit bago pa ang lahat ng pulitikal na sigalot, may isang mas lumang kwento: ang kwento ng mga unang mangingisdang Pilipino na tumawid sa malawak na dagat upang hanapin ang bagong tirahan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pangkat ni Tomas Cloma",
+      "text_fil": "Noong kalagitnaan ng ika-20 siglo, isang mangingisdang Pilipino ang nagngangalang Tomas Cloma ang naglayag patungong mga pulong ito kasama ang kanyang mga kasamahan. Natuklasan nila ang mga pulo na walang permanenteng naninirahan, puno ng pagkain mula sa dagat at pugad ng mga ibon. Idineklara ni Cloma ang lugar na 'Kalayaan' — isang lugar ng kalayaan para sa mga Pilipino."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pangako sa Dagat",
+      "text_fil": "Kahit maraming bansa ang nag-aangkin sa mga pulo, ang mga Pilipino ay naniniwala na ang Kalayaan ay bahagi ng kanilang kaluluwa — isang lupain na inangkin hindi sa pamamagitan ng digmaan kundi ng tapang at pagmamahal sa dagat. Ang alamat ng Kalayaan ay hindi kwento ng giyera kundi ng mga simpleng mangingisdang Pilipino na naghanap ng bagong kalayaan sa gitna ng karagatan."
+    }
+  ]
+}

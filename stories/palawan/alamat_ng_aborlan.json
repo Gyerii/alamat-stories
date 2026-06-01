@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_aborlan",
+  "region": "Palawan",
+  "category": "tribo",
+  "emoji": "🏹",
+  "image": "alamat_ng_aborlan.png",
+  "title_fil": "Alamat ng Aborlan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Tagpuan ng mga Tribu",
+      "text_fil": "Ang Aborlan ay isang bayan sa gitna ng Palawan kung saan nagtatagpo ang mga katutubo at mga bagong settler. Dati, ito ay isang lugar ng patuloy na alitan sa pagitan ng dalawang tribu ng Pala'wan — ang mga Taga-Bundok at ang mga Taga-Dalampasigan. Hindi sila nagkakaunawaan tungkol sa lupaing kanilang tinatahak."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Babalian ng Kapayapaan",
+      "text_fil": "Dumating ang isang babalian na nagngangalang Aborlan — isang babae na may kakayahang marinig ang tinig ng mga ninuno. Tinawag niya ang mga pinuno ng dalawang tribu at sinabi: 'Ang lupa ay hindi pag-aari ninuman. Kayo ay pag-aari ng lupa. Kayo ay mga tagapag-alaga, hindi mga may-ari. Ang labanan ay parang lalabanan ninyo ang sarili ninyong katawan.' Tumahimik ang dalawang panig."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Bayan ng Aborlan",
+      "text_fil": "Pinayuhan ni Aborlan ang dalawang tribu na gawin ang hangganan ng kanilang lupain batay sa ilog — ang isang tribu sa magkabilang panig — at magbahagi ng pananim at kaalaman. Naging posible ang kapayapaan. Bilang pasasalamat sa kanyang karunungan, pinangalanan ng mga tao ang lugar na Aborlan — isang salitang nangangahulugang 'tagpuan ng mga puso' sa wikang Pala'wan."
+    }
+  ]
+}

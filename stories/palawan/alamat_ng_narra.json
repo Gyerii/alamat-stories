@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_narra",
+  "region": "Palawan",
+  "category": "halaman",
+  "emoji": "🌳",
+  "image": "alamat_ng_narra.png",
+  "title_fil": "Alamat ng Narra",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Puno ng Bansa",
+      "text_fil": "Sa bayan ng Narra sa Palawan, puno ng mga bukid at kagubatan, may isang alamat tungkol sa pinakamahalagang puno ng Pilipinas — ang narra. Ang punong ito ay pambansang puno ng bansa, at ang bayan ng Narra ay pinangalanan dahil sa dami ng ganitong puno na dating lumalagong maliwanag sa buong lugar."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Manggagawa at ang Puno",
+      "text_fil": "Noong unang panahon, may isang mahirap na manggagawa sa kahoy na nagngangalang Naryo. Pinuputol niya ang mga puno para mapakain ang kanyang pamilya. Isang araw, habang hahakbakin ang isang malaking narra, may narinig siyang boses: 'Huwag mo akong putulin. Hayaan mo akong lumaki at sa hinaharap, maibibigay ko sa iyo ang mas marami kaysa sa kahoy.'"
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Kaloob ng Narra",
+      "text_fil": "Nakinig si Naryo at hindi niya pinuputol ang puno. Sa mga sumunod na taon, ang narra ay lumaki at nagbigay ng lilim sa kanilang bukid, nagpadami ng ulan, at naging tirahan ng mga ibon na kumain ng mga insektong sumisira ng kanilang ani. Naging masagana ang pamilya ni Naryo. At mula sa aral niya, ang mga tao ng Palawan ay nag-ingat ng narra at ginawa itong simbolo ng kahusayan, tibay, at pagmamahal sa kalikasan."
+    }
+  ]
+}

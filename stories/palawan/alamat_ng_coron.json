@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_coron",
+  "region": "Palawan",
+  "category": "likas",
+  "emoji": "🏞️",
+  "image": "alamat_ng_coron.png",
+  "title_fil": "Alamat ng Coron at mga Lawa Nito",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang mga Luha ng Diyosa",
+      "text_fil": "Sa isla ng Busuanga, nariyan ang mga lawa ng Coron — Kayangan, Barracuda, Twin Lagoon — bawat isa ay may kulay na asul-berde na tila hindi mula sa mundong ito. Ayon sa mga Tagbanua, ang mga lawang ito ay mga luha ng isang diyosa na tinatawag na Magsaysay na umiyak nang mamatay ang kanyang minamahal na mandirigma."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pag-ibig ni Magsaysay",
+      "text_fil": "Si Magsaysay ay isang diyosa ng katahimikan na umibig sa isang mortal na mandirigma ng tribu ng Tagbanua. Pinagbawalan sila ng mas mataas na mga diyos na magkasama sapagkat iba ang kanilang mundo. Nang mamatay ang mandirigma sa labanan, umakyat si Magsaysay sa tuktok ng bundok ng Coron at umiyak sa loob ng pitong araw at pitong gabi."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Mga Lawa",
+      "text_fil": "Ang bawat luha ni Magsaysay na nahulog sa lupa ay naging isang lawa. Kaya't ang tubig ng mga lawa ng Coron ay may kakaibang init — init ng pagmamahal at lungkot. Sinasabi ng mga Tagbanua na ang sinumang lalangoy sa Kayangan Lake nang may malinis na puso ay madadama ang kapayapaan ni Magsaysay — isang pagtanggap na hindi lahat ng pagmamahal ay natapos sa kalungkutan."
+    }
+  ]
+}

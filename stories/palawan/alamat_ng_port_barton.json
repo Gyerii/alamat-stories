@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_port_barton",
+  "region": "Palawan",
+  "category": "bayani",
+  "emoji": "⚓",
+  "image": "alamat_ng_port_barton.png",
+  "title_fil": "Alamat ng Port Barton",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Tagapagligtas na Manlalayag",
+      "text_fil": "Sa hilagang bahagi ng Palawan, may isang maliit na baybaying-dagat na tahimik at maliwanag ang tubig. Dati walang pangalan ang lugar na ito — isang nakatagong sulok ng karagatan na kilala lamang ng mga lokal na mangingisda. Hanggang dumating si Barton, isang dayuhang manlalayag na naligaw ng landas habang iniiwasan ang isang malaking bagyo."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pagliligtas",
+      "text_fil": "Si Barton ay mabait at matulungin. Nang makita niyang mahirap ang buhay ng mga mangingisda sa lugar, nagtayo siya ng maliit na bodega at tinanggap ang kanilang isda upang ibenta sa mga bayan. Hindi siya kumita para sa sarili — ibinalik niya ang lahat ng kita sa komunidad. Nang mamatay siya sa katandaan, inilublob ng mga mangingisda ang kanyang bangka sa daungan bilang paggalang."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pangalan",
+      "text_fil": "Pinangalanan ng mga naninirahan ang lugar na Port Barton bilang alaala sa manlalayag na naging kaibigan ng komunidad. Hanggang ngayon, ang Port Barton ay kilala bilang isa sa pinakatahimik at pinaka-magandang lugar sa Palawan — isang pook na tinanggap ang isang estranghero at ginawang bahagi ng sarili nilang kasaysayan."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_calauit",
+  "region": "Palawan",
+  "category": "hayop",
+  "emoji": "🦒",
+  "image": "alamat_ng_calauit.png",
+  "title_fil": "Alamat ng Calauit at ang mga Giraffe",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang mga Dayuhang Hayop",
+      "text_fil": "Sa maliit na pulo ng Calauit sa Busuanga, Palawan, may mga hayop na hindi mo inaasahang makikita sa Pilipinas — mga giraffe, zebra, at iba pang African animals. Ayon sa modernong kasaysayan, dinala sila dito noong 1977 ni Pangulong Marcos. Ngunit may mas lumang alamat ang mga Tagbanua kung paano dumating ang mga malalaking hayop sa kanilang mundo."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Panaginip ng Datu",
+      "text_fil": "Ayon sa alamat, may datu ng Calauit na nagkaroon ng panaginip kung saan nakita niya ang mga malataas na hayop na may mahabang leeg na kumakain ng mga dahon ng mataas na puno. Sinabi ng espiritu sa kanyang panaginip: 'Darating ang mga hayop na ito mula sa malayo. Tanggapin ninyo sila at pangalagaan — sila ay kapwa nilikha ng parehong diyos.' At nang dumating ang mga African animals, hindi sila naging banyaga — naging bahagi sila ng Calauit."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Aral ng Calauit",
+      "text_fil": "Ngayon ang Calauit Game Preserve ay nagsisilbing sanctuary hindi lang para sa African animals kundi pati na rin sa mga katutubong hayop ng Palawan. Natutunan ng mga Tagbanua na ang pangangalaga ay walang hangganan ng lahi o pinagmulan — kung ang isang nilalang ay nangangailangan ng tahanan, ang isang mabuting tao ay magbibigay. At dahil diyan, ang Calauit ay naging simbolo ng pagpapatanggap at pagmamahal sa lahat ng buhay."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_puerto_princesa",
+  "region": "Palawan",
+  "category": "lunsod",
+  "emoji": "🏙️",
+  "image": "alamat_ng_puerto_princesa.png",
+  "title_fil": "Alamat ng Puerto Princesa",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Prinsesa ng Karagatan",
+      "text_fil": "Ang Puerto Princesa ay ang kabisera ng Palawan, isang lungsod na puno ng kalikasan kahit sa gitna ng modernong pamumuhay. Ayon sa alamat, ang pangalang 'Puerto Princesa' ay nagmula sa isang kwento ng isang prinsesang Kastila na naligaw ng barko at nahanap ang kapanatagan sa magandang look ng Palawan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Paglalakbay ng Prinsesa",
+      "text_fil": "Ang prinsesang si Isabella ay nasa isang barko patungong Maynila nang dumating ang isang malaking bagyo. Napatigil ang barko sa isang look na napakatahimik at napakaganda — ang katahimikan ay parang nasa isang lugar ng kapayapaan. Nagkagusto si Isabella sa lugar at hiniling sa kanyang amang manatili roon kaysa bumalik sa maingay na korte."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Habilin ng Prinsesa",
+      "text_fil": "Bago siya nakaalis, sinabi ni Isabella sa mga katutubong Tagbanua na nakilala niya: 'Pangalagaan ninyo ang kagandahang ito. Huwag hayaang maging dumi at ingay ang maghari dito.' Mula noon, ang lugar ay tinawag na Puerto ng Prinsesa — ang daungan ng prinsesa. At hanggang ngayon, ang Puerto Princesa ay kilala bilang isa sa mga pinakamalinis na lungsod sa Pilipinas."
+    }
+  ]
+}

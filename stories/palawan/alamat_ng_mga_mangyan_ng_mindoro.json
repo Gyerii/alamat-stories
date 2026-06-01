@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_mga_mangyan_ng_mindoro",
+  "region": "Palawan",
+  "category": "tribo",
+  "emoji": "🪶",
+  "image": "alamat_ng_mga_mangyan_ng_mindoro.png",
+  "title_fil": "Alamat ng mga Mangyan ng Mindoro",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang mga Anak ng Bundok",
+      "text_fil": "Sa mataas na bundok ng Mindoro, malayo sa ingay ng dagat at syudad, naninirahan ang mga Mangyan — isang pangkat ng mga katutubo na matagal nang nagtatago sa kagubatan. Ayon sa kanilang alamat, sila ay mga anak ng diyos na si Mang-mang, na nilikha upang maging tagapangalaga ng kagubatan ng Mindoro."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Handog na Pagsulat",
+      "text_fil": "Binigyan ni Mang-mang ang mga Mangyan ng isang espesyal na kaloob — ang kakayahang sumulat. Ang kanilang sistema ng pagsulat na tinatawag na Hanunuo ay inukit sa kawayan at dahon ng palaspas. Sa bawat titik ay nakatago ang isang dasal, isang awit, o isang pangako sa diyos. Sinabi ni Mang-mang: 'Habang may sumusulat sa inyo ng aming wika, mananatiling buhay ang inyong lahi.'"
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pagpapatuloy",
+      "text_fil": "Hanggang ngayon, itinuturo ng matatanda sa mga kabataan ang pagsulat ng Hanunuo. Hindi ito isang kaalaman lamang — ito ay isang panalangin, isang pagkilala sa diyos na nagbigay sa kanila ng boses sa loob ng kagubatan. At bawat piraso ng kawayan na may ukit ay isang patunay na ang mga Mangyan ay buhay pa rin, at sama-sama nilang iniingatan ang alaala ng kanilang pinagmulan."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_tubbataha",
+  "region": "Palawan",
+  "category": "likas",
+  "emoji": "🐠",
+  "image": "alamat_ng_tubbataha.png",
+  "title_fil": "Alamat ng Tubbataha",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Hardin sa Ilalim ng Dagat",
+      "text_fil": "Sa gitna ng Dagat Sulu, malayo sa lahat ng pulo, may isang lugar na tinatawag ng mga mangingisda na Tubbataha — ang 'matagalang tanawin.' Dito, sa ilalim ng asul na tubig, ay isang hardin ng mga korales na pinakamaganda sa buong mundo. Ayon sa alamat ng mga Badjao, ang Tubbataha ay ang tahanan ng diyos ng dagat na si Mbo."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Utos ni Mbo",
+      "text_fil": "Si Mbo ay isang mabuting diyos na nagmamahal sa lahat ng nilalang sa dagat. Binuksan niya ang kanyang palad at mula doon lumabas ang mga isda, pawikan, pating, at daan-daang uri ng korales. 'Ito ang aking hardin,' sabi niya. 'Walang sinumang tao ang maaaring pumutol, humuli nang labis, o sumira dito. Ito ay para sa lahat ng salinlahi.'"
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Tagapangalaga",
+      "text_fil": "Pinili ni Mbo ang mga Badjao bilang tagapangalaga ng Tubbataha. Tinuruan niya sila kung paano mangisda nang hindi nasasaid ang dagat — kumuha lamang ng kailangan, huwag masalanta ang mga korales, at laging magpasalamat sa bawat alon. Hanggang ngayon, itinuturing ng buong mundo ang Tubbataha bilang isa sa pinaka-sagradong lugar sa karagatan, isang World Heritage Site na patunay ng pagmamahal ng mga Pilipino sa kalikasan."
+    }
+  ]
+}

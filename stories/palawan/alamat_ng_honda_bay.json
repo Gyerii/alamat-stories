@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_honda_bay",
+  "region": "Palawan",
+  "category": "likas",
+  "emoji": "🏝️",
+  "image": "alamat_ng_honda_bay.png",
+  "title_fil": "Alamat ng Honda Bay",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Asawang Naghihintay",
+      "text_fil": "Malapit sa Puerto Princesa, sa isang malawak na look, nakakalat ang mga maliit na pulo ng Honda Bay tulad ng mga bato sa palad ng dagat. Ayon sa mga matatanda, ang mga pulong ito ay dating isang babae — isang Tagbanua na nagngangalang Hondara — na nag-abot ng kanyang mga kamay sa dagat habang naghihintay sa kanyang asawang mangingisda."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Pangako ng Mangingisda",
+      "text_fil": "Nangako ang asawa ni Hondara na babalik bago lumubog ang araw. Pero dumating ang bagyo at hindi na siya nakabalik. Araw-araw, pumunta si Hondara sa dalampasigan at iniunat ang kanyang mga kamay sa direksyon ng kanyang asawa. Humingi siya sa mga diyos na payagan siyang manatili roon habambuhay upang sa araw na bumalik ang kanyang asawa, makita agad niya siya."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Mga Pulo",
+      "text_fil": "Naawa ang mga diyos sa katapatan ni Hondara. Ginawa nilang mga pulo ang kanyang mga kamay, katawan, at paa — Starfish Island, Luli Island, Cowrie Island — bawat isa ay bahagi ng kanyang panaghintay. Ngayon, ang mga turista na bumibisita sa Honda Bay ay hindi lang nakakakita ng magagandang pulo — sila ay nakatatayo sa ibabaw ng isang pag-ibig na hindi natapos, isang katapatan na naging lupa."
+    }
+  ]
+}

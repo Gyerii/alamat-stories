@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_roxas_palawan",
+  "region": "Palawan",
+  "category": "kasaysayan",
+  "emoji": "🐟",
+  "image": "alamat_ng_roxas_palawan.png",
+  "title_fil": "Alamat ng Roxas (Palawan)",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Bayan ng Palad",
+      "text_fil": "Ang Roxas ay isang bayan sa gitnang bahagi ng Palawan, kilala sa masagang dagat at mga bangkang pangisdaan. Ayon sa alamat, ang bayan ay dating tinatawag na Caguisan — isang lugar kung saan palagi ang kagutuman at kakulangan. Hanggang dumating ang isang matandang babae na may dala-dalang isda."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Matandang Babae at ang Isda",
+      "text_fil": "Ang matandang babae ay hindi ordinaryo — siya ay isang diwata ng dagat na nagbalik-loob sa mga taong nananahimik kahit gutom. Ibinigay niya sa bawat pamilya ang isang buhay na isda at sinabi: 'Ilagay ninyo ito sa dagat at huwag hulihin muli hanggang hindi pa ito handa.' Masunurin ang mga tao at ginawa nila ang sinabi ng matanda."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Masaganang Dagat",
+      "text_fil": "Mula nang araw na iyon, naging masagana ang dagat ng Caguisan. Napuno ito ng lahat ng uri ng isda at pagkaing-dagat. Pinalitan ng mga tao ang pangalan ng lugar bilang pasasalamat sa bagong kapalaran na dumating — Roxas, na nagmula sa salitang 'rosas' dahil sa pula at makulay na bukang-liwayway na palagi nilang nakikita sa dagat. Hanggang ngayon, ang Roxas ay kilala bilang seafood capital ng Palawan."
+    }
+  ]
+}

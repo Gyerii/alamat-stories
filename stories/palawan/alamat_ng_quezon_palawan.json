@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_quezon_palawan",
+  "region": "Palawan",
+  "category": "kasaysayan",
+  "emoji": "⚔️",
+  "image": "alamat_ng_quezon_palawan.png",
+  "title_fil": "Alamat ng Quezon (Palawan)",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Katapangan ng mga Taga-Timog",
+      "text_fil": "Sa timog na bahagi ng Palawan, ang bayan ng Quezon ay puno ng kasaysayan ng paglaban at katatagan. Ayon sa mga matatanda, ang bayan ay pinangalanan bilang paggalang sa isang bayaning nagngangalang Isidro Quezon — hindi ang kilalang pangulo, kundi isang lokal na lider na pinagtanggol ang kanyang komunidad laban sa mga manlulupig na nagmula sa dagat."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Paglaban ni Isidro",
+      "text_fil": "Dumating ang mga mandaragat mula sa ibang lugar upang kumuha ng lupa at alipin ang mga katutubo. Si Isidro ay isang ordinaryong magsasaka ngunit nang makita niyang natatakot ang kanyang mga kababayan, tumayo siya at nag-organisa ng paglaban. Sa loob ng tatlong araw na labanan, nagtagumpay ang komunidad na itaboy ang mga manlulupig."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pamana ng Tapang",
+      "text_fil": "Nang mamatay si Isidro sa edad na siyamnaput-dalawa, inilibing siya sa may baybayin ayon sa kanyang kagustuhan — upang patuloy siyang makabantay sa dagat. Pinangalanan ng kanyang mga kamag-anak at mga kasamahan ang lugar na Quezon bilang alaala ng kanyang tapang. Ngayon, ang bayan ng Quezon ay kilala rin dahil sa mga biyak na karagatan at ang grottoes ng Hundred Islands, mga tinatawag na 'mga mata ni Isidro' na nagmamasid sa dagat."
+    }
+  ]
+}

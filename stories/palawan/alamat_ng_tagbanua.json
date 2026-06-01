@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_tagbanua",
+  "region": "Palawan",
+  "category": "tribo",
+  "emoji": "🌿",
+  "image": "alamat_ng_tagbanua.png",
+  "title_fil": "Ang mga Tagbanua ng Palawan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang mga Unang Tao ng Palawan",
+      "text_fil": "Ang mga Tagbanua ay isa sa pinaka-sinaunang tribu ng Palawan. Sila ay naninirahan sa malapit sa ilog at dagat, at may malalim na kaalaman sa kalikasan. Ayon sa kanilang alamat, sila ay nilikha ng diyos na si Nagabacaban mula sa tatlong bagay: ang lakas ng dagat, ang katayuan ng bundok, at ang pag-ibig ng lupa."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Kaalaman ng mga Tagbanua",
+      "text_fil": "Binigyan ni Nagabacaban ang mga Tagbanua ng tatlong kaalaman: ang pagsasaka sa kagubatan nang hindi sinisira ito, ang pangangalam sa dagat nang hindi nasasaid ang isda, at ang pagbabasa ng mga tanda ng kalikasan upang malaman kung kailan aayos at kailan magbabagyo. Ang mga kaalamang ito ay ipinapasa mula sa henerasyon sa henerasyon sa pamamagitan ng mga awit."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Panatang Tagbanua",
+      "text_fil": "Mayroon ang mga Tagbanua ng isang sagradong panata na tinatawag na Pagdiwata — isang seremonya ng pasasalamat sa kalikasan na ginagawa dalawang beses sa isang taon. Sa Pagdiwata, inaalok nila ang pagkain, musika, at sayaw sa mga diwata ng kagubatan at dagat. Ito ang kanilang paraan ng pagpapanatili ng kasunduan sa pagitan ng tao at kalikasan — isang kasunduan na nagsimula pa noong panahon ni Nagabacaban."
+    }
+  ]
+}

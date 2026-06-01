@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_espanola",
+  "region": "Palawan",
+  "category": "hayop",
+  "emoji": "🦜",
+  "image": "alamat_ng_espanola.png",
+  "title_fil": "Alamat ng Espanola",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Bayan ng Pawikan",
+      "text_fil": "Sa timog Palawan, ang bayan ng Espanola ay kilala bilang tahanan ng mga pawikan — ang baong-dagat na lumilibo pang babalik sa dalampasigan kung saan sila ipinanganak upang mangitlog. Ayon sa alamat ng lugar, ang mga pawikan ay hindi simpleng hayop — sila ay mga messenger ng mga ninuno na namatay sa karagatan."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang mga Kaluluwa sa Karagatan",
+      "text_fil": "Sinasabi ng mga matatanda na bawat pawikan ay nagtataglay ng kaluluwa ng isang mangingisdang namatay sa dagat. Ang kanilang pagbabalik sa dalampasigan ay simbolo ng pagbabalik ng mga kaluluwa sa lupain ng buhay — upang ipanganak muli, upang magpatuloy. Kaya't ang pagpatay ng pawikan ay pagpapatay sa isang ninuno, at labis itong pinagbawalan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pangangalaga",
+      "text_fil": "Dahil sa paniniwala na ito, pinangangalagaan ng mga taga-Espanola ang mga pawikan nang may paggalang at pagmamahal. Ang kanilang baybayin ay naging isa sa mga pinaka-importanteng nesting grounds ng pawikan sa Pilipinas. Ang bawat itlog na mapangalagaan, bawat batang pawikan na makarating sa dagat, ay isang kaluluwa na bumabalik — at isang pangako ng pagpapatuloy ng buhay."
+    }
+  ]
+}

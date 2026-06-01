@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_batanes",
+  "region": "Palawan",
+  "category": "likas",
+  "emoji": "🌊",
+  "image": "alamat_ng_batanes.png",
+  "title_fil": "Alamat ng Batanes",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakahilagang Lupain",
+      "text_fil": "Sa pinakahilagang dulo ng Pilipinas, naroon ang mga pulo ng Batanes — malayo, maliit, at laging niyayakap ng malakas na hangin mula sa dagat. Ayon sa alamat ng mga Ivatan, ang mga pulong ito ay pinunit mula sa isang malaking bundok na lumubog sa karagatan nang galit ang mga diyos sa kasalanan ng mga tao."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Galit ng Diyos-Hangin",
+      "text_fil": "Noong unang panahon, may isang makapangyarihang diyos ng hangin na tinatawag na Chavayan. Galit siya nang makita niyang sinisira ng mga tao ang kagubatan at pinapatay ang mga hayop nang walang pasasalamat. Humihip siya nang malakas, pinuputol ang mga puno at nagpapaalon sa dagat. Sa bawat bugso ng hangin, lumubog ang mga bahagi ng lupa."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Natitira",
+      "text_fil": "Ang natira lamang sa malaking bundok ay ang mga tuktok — at ito ang naging mga pulo ng Batanes. Ang mga Ivatan na naninirahan doon ay natutong igalang ang hangin at dagat. Gumawa sila ng matibay na bahay na tinatawag na vakul at sinaot-balikat upang makayanan ang mga bagyo. Sinabi ng matanda: 'Bawat bagyo ay paalala ni Chavayan na igalang natin ang kalikasan.'"
+    }
+  ]
+}

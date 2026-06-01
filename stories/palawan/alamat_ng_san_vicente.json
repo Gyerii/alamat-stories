@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_san_vicente",
+  "region": "Palawan",
+  "category": "likas",
+  "emoji": "🏖️",
+  "image": "alamat_ng_san_vicente.png",
+  "title_fil": "Alamat ng San Vicente",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamahabang Dalampasigan",
+      "text_fil": "Sa bayan ng San Vicente sa Palawan, may isang dalampasigan na sinasabing pinakamahabang white beach sa Pilipinas — ang Long Beach. Mahigit 14 kilometro ang haba nito, na tila walang katapusan habang tinatahak mo ito. Ayon sa alamat ng lugar, ang dalampasigan ay hindi ginawa ng kalikasan kundi ng isang bayaning nagmahal sa lupain."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Vicente at ang Dagat",
+      "text_fil": "Si Vicente ay isang matandang mangingisda na lumago sa lunsod ngunit bumalik sa Palawan nang matandang matanda na. Ginugol niya ang kanyang huling mga taon sa pagdadala ng mga bato at buhangin sa baybayin, pinapalawig ang lugar para mas maraming taong makapagpahinga at manggaling sa dagat. Bawat araw, may dalang balde siya ng buhangin mula sa lalim ng dagat."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pamana",
+      "text_fil": "Nang mamatay si Vicente, itinuloy ng mga kabataan ang kanyang gawa nang walang utos mula sa sinuman. Nadama nila ang kanyang pagmamahal sa lugar at gusto nilang panatilihin ito. Sa loob ng isang henerasyon, ang dalampasigan ay lumago. Pinangalanan nila ang bayan na San Vicente bilang parangal sa matandang mangingisda na gumawa ng kagandahan hindi para sa sarili kundi para sa lahat ng darating."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "si_ampu_diyos_ng_palawan",
+  "region": "Palawan",
+  "category": "diyos",
+  "emoji": "🌿",
+  "image": "si_ampu_diyos_ng_palawan.png",
+  "title_fil": "Si Ampu, Diyos ng mga Pala'wan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamataas na Diyos",
+      "text_fil": "Sa simula ng lahat, bago pa man lumitaw ang bundok at dagat ng Palawan, naroon na si Ampu — ang pinakamataas na diyos ng mga Pala'wan. Hindi siya naninirahan sa lupa kundi sa kalangitan, sa isang lugar na tinatawag na Langit, na puno ng liwanag at kapayapaan. Siya ang lumikha ng lahat ng bagay — ng bundok, ng ilog, ng kagubatan, at ng mga tao."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Paglikha ng Pala'wan",
+      "text_fil": "Nilikha ni Ampu ang mga Pala'wan mula sa putik ng lupa at hininga ng hangin. Bawat isa ay binigyan niya ng diwa — ang kakayahang maramdaman, mag-isip, at lumakad sa mundo. Sinabihan niya sila: 'Ingatan ninyo ang kagubatan, sapagkat doon nakatira ang aking mga anito. Igalang ninyo ang ilog, sapagkat doon dumadaan ang aking boses.' At sumunod ang mga Pala'wan."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Banal na Ugnayan",
+      "text_fil": "Hindi tuwirang nakikipag-usap si Ampu sa mga tao. Nagpapadala siya ng mensahe sa pamamagitan ng mga panaginip, ng mga ibon, at ng mga babaylan na tinatawag na babalian. Sa tuwing may malaking desisyon ang tribu, tinatawagan nila ang babalian upang marinig ang kalooban ni Ampu. At sa bawat pagkakataon na sinunod ng mga tao ang utos ng diyos, namuhay sila nang maayos at masagana sa lupain ng Palawan."
+    }
+  ]
+}

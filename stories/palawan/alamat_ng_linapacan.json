@@ -1,0 +1,25 @@
+{
+  "id": "alamat_ng_linapacan",
+  "region": "Palawan",
+  "category": "likas",
+  "emoji": "💎",
+  "image": "alamat_ng_linapacan.png",
+  "title_fil": "Alamat ng Linapacan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title_fil": "Ang Pinakamaliaw na Tubig",
+      "text_fil": "Sa pagitan ng Coron at El Nido, may grupo ng mga pulo na tinatawag na Linapacan. Ang tubig sa paligid ng mga pulong ito ay itinuturing na pinakamalinis at pinakamaliwanag sa buong mundo. Ayon sa mga matatanda, ito ay dahil sa isang lumang kasunduan sa pagitan ng mga tao at ng espiritu ng dagat."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Ang Kasunduan",
+      "text_fil": "Noong unang panahon, dumating ang isang espiritu ng dagat sa mga naninirahan sa Linapacan at nangusap: 'Ibibigay ko sa inyo ang pinakamagandang tubig sa mundo — maliwanag, malinis, at puno ng buhay. Ngunit kailangan ninyong pangalagaan ito. Huwag itapon ang dumi, huwag masalanta ang mga korales, at itanim ang pasasalamat sa bawat alon.' Pumayag ang mga tao."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Pananatili ng Kasunduan",
+      "text_fil": "Sa loob ng maraming henerasyon, tinupad ng mga Tagbanua ng Linapacan ang kanilang pangako. Ang tubig ay nananatiling kristal na maliwanag, at ang mga korales ay mananatiling buhay at makulay. Sinasabi ng mga manlalakbay na pumunta sa Linapacan na parang naglalakad sila sa hangin — ganoon kalinaw ang tubig. Ito ay hindi lang kalikasan — ito ay isang tipan na pinanatili ng mga tao sa loob ng daan-daang taon."
+    }
+  ]
+}
