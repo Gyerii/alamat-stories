@@ -1,17 +1,85 @@
 {
-  "id": "el_nido",
-  "region": "Palawan",
-  "category": "likas",
-  "emoji": "🏝️",
-  "title_fil": "Alamat ng El Nido",
-  "title_eng": "Legend of El Nido",
-  "chapters": [
-    {
-      "chapter": 1,
-      "title_fil": "Ang Pugad ng mga Ibon",
-      "title_eng": "The Birds Nest",
-      "text_fil": "Ang El Nido ay nagmula sa salitang pugad sa wikang Espanyol at ang pangalan ay nanggaling sa mga pugad ng mga balinsasayaw na itinayo sa matarik na mga bato sa dalampasigan ng Palawan na ginagamit sa paggawa ng bird's nest soup na isang mahal na pagkain.",
-      "text_eng": "El Nido comes from the Spanish word for nest and the name came from the nests of swiftlets built on the steep cliffs along the shores of Palawan which are used to make bird nest soup a very expensive delicacy."
-    }
-  ]
+"id": "el_nido",
+"region": "Palawan",
+"category": "likas",
+"emoji": "🏝️",
+"title_fil": "Alamat ng El Nido",
+"image": "el_nido.png",
+"chapters": [
+{
+"chapter": 1,
+"title_fil": "Ang Look ng mga Batong Matatarik",
+"text_fil": "Sa hilagang bahagi ng Palawan, kung saan ang dagat ay kasinglinaw ng salamin at ang mga batong-apog ay tumataas mula sa tubig na parang mga kastilyong hinubog ng alon, naroon ang pook na tatawaging El Nido. Noong unang panahon, bago dumating ang maraming bangka ng mga dayo, bago nakilala ng mundo ang mga lagoon, isla, at dalampasigan nito, ang lugar na ito ay tahimik na kanlungan ng mga mangingisda, tagapagtipon ng pugad, katutubo, ibon, pawikan, isda, at mga espiritung naninirahan sa pagitan ng bato at dagat. Sa umaga, ang araw ay tumatama sa matatarik na pader ng bato at nagpapakinang sa mga ito na parang pilak na nabasa ng ulan. Sa hapon, ang mga anino ng mga bangin ay humahaba sa ibabaw ng tubig, at ang dagat ay nagiging kulay bughaw, luntian, at ginto. Sinasabi ng matatanda na ang El Nido ay hindi basta pook ng ganda. Ito ay isang pugad ng alaala, tahanan ng mga nilalang na marunong bumalik sa pinagmulan, at paalala na ang pinakamahalagang yaman ng kalikasan ay madalas nakatago sa lugar na mahirap akyatin, mahirap abutin, at kailangang lapitan nang may paggalang."
+},
+{
+"chapter": 2,
+"title_fil": "Ang mga Balinsasayaw sa Kisame ng Bato",
+"text_fil": "Sa matatarik na bangin at loob ng mga kuweba sa baybayin, naninirahan ang maliliit na ibong tinatawag na balinsasayaw. Hindi sila kasingkulay ng ibang ibon at hindi rin sila malalaki, ngunit may hiwaga sa kanilang paglipad. Kayang-kaya nilang pumasok sa madidilim na siwang ng bato, umikot sa masisikip na lagusan, at bumalik sa sariling pugad kahit halos walang liwanag. Ang kanilang mga pugad ay hindi gawa sa sanga o dahon, kundi mula sa laway na unti-unti nilang hinuhubog sa dingding ng kuweba. Sa loob ng maraming gabi, dahan-dahan nilang itinatayo ang pugad hanggang maging sapat na tahanan para sa kanilang mga itlog. Dahil dito, itinuring ng mga matatanda na sagrado ang mga pugad ng balinsasayaw. Hindi ito simpleng bagay na maaaring kunin ng sinumang may lakas umakyat. Ito ay bunga ng tiyaga, pag-ibig ng magulang, at tiwala ng ibon sa lugar na kanyang pinili. May mga taong nangongolekta ng pugad upang gawing mamahaling pagkain, ngunit ang mga unang taga-El Nido ay tinuruan ng matatanda na huwag maging sakim. Kapag kinuha ang pugad sa maling panahon, mawawalan ng tahanan ang sisiw. Kapag inubos ang lahat, hindi na babalik ang mga ibon. Kaya ang bawat kuweba ay may batas, at ang bawat pugad ay may kuwentong dapat igalang."
+},
+{
+"chapter": 3,
+"title_fil": "Si Nido, ang Batang Tagapakinig ng Ibon",
+"text_fil": "Sa isang maliit na pamayanang nakatago sa pagitan ng dagat at kabundukan, may batang lalaki na nagngangalang Nido. Anak siya ng isang mangingisda at ng isang babaeng marunong manggamot gamit ang dahon, ugat, langis, at dasal. Hindi mayaman ang kanilang pamilya, ngunit sagana sila sa kuwento at paggalang sa kalikasan. Bata pa lamang si Nido ay kakaiba na ang kanyang pandinig. Naririnig niya ang malayong huni ng ibon kahit malakas ang hampas ng alon. Naririnig niya ang pagbagsak ng patak ng tubig sa loob ng kuweba kahit nasa labas pa siya. Kapag ang ibang bata ay naghahabulan sa pampang, siya ay nakaupo sa bato, pinakikinggan ang kilos ng hangin. Madalas siyang tanungin ng kanyang ina kung ano ang pinakikinggan niya. Sumasagot siya na may mga tinig ang dagat at bato na hindi nagsasalita sa bibig, ngunit nauunawaan ng pusong tahimik. Dahil dito, minahal siya ng mga matatanda. Sinabi nilang ang batang marunong makinig sa maliit na ibon ay balang araw matututong makinig sa buong bayan. Hindi alam ni Nido na ang kakayahang iyon ang magliligtas sa mga balinsasayaw, sa kanilang mga pugad, at sa pook na magiging kilala sa pangalang hango mismo sa tahanan ng mga ibon."
+},
+{
+"chapter": 4,
+"title_fil": "Ang Matandang Tagakuha ng Pugad",
+"text_fil": "May isang matandang lalaki sa pamayanan na nagngangalang Apo Balian. Siya ang pinakamarunong umakyat sa bangin at pumasok sa kuweba upang kumuha ng pugad ng balinsasayaw. Ngunit hindi siya katulad ng mga taong kumukuha dahil sa kasakiman. Bago siya pumasok sa kuweba, naghuhugas siya ng kamay sa dagat, humihingi ng paalam sa bato, at nakikinig muna sa huni ng mga ibon. Kung naririnig niyang may sisiw pa sa pugad, hindi niya ito hinahawakan. Kung panahon ng pangingitlog, naghihintay siya. Kung masama ang pakiramdam ng kuweba, bumabalik siya sa ibang araw. Sinasabi niya kay Nido na ang pugad ay hindi gantimpala sa matapang umakyat, kundi tiwalang ipinahiram ng kalikasan. Ang taong kumukuha nito ay dapat may disiplina, respeto, at takot na makasira. Tinuruan ni Apo Balian si Nido ng mga tanda: ang tunog ng pugad na walang sisiw, ang bahagyang init ng pugad na may buhay pa, ang amoy ng kuweba kapag ligtas pumasok, at ang katahimikang nangangahulugang huwag magpatuloy. Habang lumalaki si Nido, natutuhan niyang ang tunay na kaalaman ay hindi lamang pag-alam kung paano kumuha, kundi pag-alam kung kailan hindi dapat kumuha."
+},
+{
+"chapter": 5,
+"title_fil": "Ang Diwata ng Lagoon",
+"text_fil": "Sa likod ng matatarik na bato, may mga lagoon na tila lihim na mata ng dagat. Ang tubig nito ay tahimik, malinaw, at napapaligiran ng pader na bato na parang dambuhalang mangkok na iningatan ng kalikasan. Ayon sa matatanda, ang mga lagoon ng El Nido ay binabantayan ng isang diwata na nagngangalang Liyang. Ang kanyang buhok ay tila damong-dagat na gumagalaw sa ilalim ng tubig, ang kanyang damit ay yari sa liwanag ng buwan, at ang kanyang tinig ay naririnig lamang kapag tumahimik ang puso ng nakikinig. Si Liyang ang tagapag-alaga ng isda, korales, kabibe, ibon, at mga lihim na daanan sa pagitan ng bato at dagat. Mabait siya sa taong marunong magpasalamat, ngunit nagtatago siya sa taong maingay, mapanira, at sakim. Minsan, habang sumusunod si Nido kay Apo Balian, naligaw siya sa makitid na lagusan ng bato at napadpad sa isang lihim na lagoon. Doon niya narinig ang tinig ni Liyang. Sinabi ng diwata na ang mga balinsasayaw ay hindi lamang ibon. Sila ay mga tagapaghatid ng balita sa pagitan ng langit, bato, at dagat. Kapag nawala ang kanilang pugad, mawawala rin ang isang bahagi ng tinig ng lugar. Mula noon, lalong naging maingat si Nido sa bawat hakbang sa kuweba at bangin."
+},
+{
+"chapter": 6,
+"title_fil": "Ang Tukso ng Mahal na Pugad",
+"text_fil": "Dumating ang panahon na may mga mangangalakal mula sa malalayong lugar na nakarinig tungkol sa mahalagang pugad ng balinsasayaw. Dumating sila sakay ng malalaking bangka, dala ang makikintab na kagamitan, telang maganda, asin, kutsilyo, at salaping hindi pa madalas makita ng mga taga-pook. Sinabi nila na ang pugad ng balinsasayaw ay napakamahal sa mga pamilihan sa malalayong bayan. Maaari raw yumaman ang pamayanan kung kukunin nila ang lahat ng pugad sa mga kuweba. Maraming tao ang natukso. May mga pamilyang nangangailangan ng bigas, gamot, damit, at kagamitan. May mga batang nagkasakit. May mga bangkang kailangang ayusin. Sa harap ng ganitong pangangailangan, mahirap tanggihan ang alok ng yaman. Ngunit tumayo si Apo Balian at sinabi na ang yamang galing sa pag-ubos ay hindi biyaya, kundi patibong. Kung kukunin nila ang lahat ngayon, ano pa ang babalik bukas? Kung sisirain nila ang tahanan ng ibon, sino pa ang gagawa ng pugad sa susunod na panahon? Si Nido, bagaman bata pa, ay nakaramdam ng bigat sa dibdib. Narinig niya sa malayo ang huni ng mga balinsasayaw, tila nag-aalala. Sa gabing iyon, nanaginip siya kay Liyang, na nagsabing ang pinakamahirap na pagsubok ng tao ay hindi gutom lamang, kundi ang pagtanggi sa maling yaman kahit nangangailangan."
+},
+{
+"chapter": 7,
+"title_fil": "Ang Gabing Nawalan ng Huni",
+"text_fil": "Hindi lahat ay nakinig sa babala. May ilang kalalakihang palihim na sumama sa mga mangangalakal upang kumuha ng mas maraming pugad kaysa sa pinapayagan ng matatanda. Pumasok sila sa kuweba sa gabing madilim, dala ang sulo at lubid. Hindi sila humingi ng paalam sa bato. Hindi sila nakinig kung may sisiw pa sa pugad. Hindi nila pinansin ang huni ng mga balinsasayaw na paikot-ikot sa kisame ng kuweba. Isa-isa nilang kinuha ang mga pugad, pati yaong may init pa ng buhay. Nang mapuno ang kanilang bayong, biglang namatay ang kanilang mga sulo. Sa dilim, narinig nila ang isang kakaibang katahimikan. Nawala ang huni ng mga ibon. Nawala ang patak ng tubig. Nawala maging ang tunog ng sariling hininga. Pagkatapos, mula sa pinakamalalim na bahagi ng kuweba, narinig nila ang tinig ni Liyang. Sinabi nito na ang taong kumukuha ng pugad na may buhay ay nagnanakaw hindi lamang sa ibon, kundi sa kinabukasan ng dagat at bato. Nataranta ang mga lalaki. Hinanap nila ang daan palabas, ngunit ang bawat lagusan ay tila nauuwi sa parehong pader. Sa pampang, nagising si Nido dahil sa biglang pananahimik ng mga ibon. Alam niyang may nangyaring mali. Tinawag niya si Apo Balian, at kasama ang ilang matatanda, pumasok sila sa kuweba upang hanapin ang mga naligaw."
+},
+{
+"chapter": 8,
+"title_fil": "Ang Hatol ng mga Bato",
+"text_fil": "Nakita nina Nido at Apo Balian ang mga lalaking nanginginig sa loob ng kuweba, hawak ang mga bayong na puno ng pugad. May ilan sa mga pugad ang may basag na itlog. May ilan ay may maliliit na sisiw na hindi na makahuni. Napuno ng lungkot si Nido. Hindi siya sumigaw, ngunit ang katahimikan niya ay mas mabigat pa sa galit. Ipinabalik ni Apo Balian ang bawat pugad na maaari pang ibalik. Ang mga pugad na wala nang laman ay inilagay sa isang tabi bilang paalala ng pagkakamali. Pagkatapos, humarap sila sa bunganga ng kuweba at humingi ng tawad. Sinasabi ng matatanda na habang ginagawa nila iyon, ang mga batong nakabitin sa kisame ay tumulo ng malamig na tubig na parang luha. Hindi gumuho ang kuweba. Hindi nalunod ang mga nagkasala. Ngunit hindi rin madaling bumalik ang tiwala ng mga ibon. Ilang linggo silang hindi gumawa ng pugad sa bahaging iyon. Ilang linggo ring walang huni sa gabi. Noon naunawaan ng pamayanan na ang kasalanan sa kalikasan ay hindi agad nabubura ng isang paumanhin. Kailangan itong tumbasan ng pagbabago. Ang mga lalaking nagkasala ay pinagbantay sa mga kuweba, hindi upang parusahan lamang, kundi upang matutong pahalagahan ang buhay na muntik nilang putulin. Si Nido naman ay ipinangakong magiging tagapagpaalala ng batas ng pugad."
+},
+{
+"chapter": 9,
+"title_fil": "Ang Batas ng Pugad",
+"text_fil": "Mula sa pangyayaring iyon, gumawa ang pamayanan ng mahigpit na batas. Hindi maaaring kumuha ng pugad sa panahon ng pangingitlog. Hindi maaaring pumasok sa kuweba nang maingay, marumi, o walang paalam. Hindi maaaring kunin ang lahat ng pugad kahit walang sisiw. Kailangang mag-iwan para sa mga ibon, para sa susunod na panahon, at para sa balanse ng lugar. Ang sinumang kukuha ay dapat sanay, maingat, at may kasamang nakatatanda. Bago umakyat sa bangin, kailangan munang magdasal o magpasalamat. Pagkatapos kumuha, kailangan ding linisin ang paligid at tiyaking walang nasirang pugad na may buhay. Tinawag nila itong Batas ng Pugad. Hindi ito nakasulat sa papel, ngunit nakaukit sa alaala ng bawat pamilya. Itinuro ito sa mga bata gaya ng pagtuturo ng paglangoy, paggawa ng lambat, at paggalang sa nakatatanda. Si Nido, kahit bata pa, ay naging isa sa pinakamasigasig magpaalala nito. Kapag may dayong nagtatanong kung bakit hindi nila kinukuha ang lahat, sinasagot niya na ang yaman na marunong magpahinga ay bumabalik. Ang yamang inuubos ay nagiging sumpa. Unti-unting bumalik ang mga balinsasayaw. Muli nilang pinuno ng huni ang mga kuweba, at sa bawat pugad na kanilang itinayo, tila muling pinatawad ng kalikasan ang taong natutong magbago."
+},
+{
+"chapter": 10,
+"title_fil": "Ang Pangalan na Mula sa Pugad",
+"text_fil": "Lumipas ang panahon, at dumating ang mga manlalayag na nagsasalita ng wikang banyaga. Namangha sila sa matatarik na bato, malinaw na dagat, lihim na lagoon, at sa dami ng mga pugad ng balinsasayaw sa mga kuweba. Sa kanilang wika, ang pugad ay tinatawag na nido. Dahil sa napakaraming pugad sa mga bato at kuweba, tinawag nila ang pook na El Nido, ang lugar ng pugad. Ngunit para sa mga unang nanirahan doon, ang pangalan ay hindi lamang tanda ng nakita ng dayo. Ito ay paalala ng lumang batas na matagal nang alam ng pamayanan: ang pugad ay tahanan, hindi kayamanan lamang. Ang pook ay hindi naging mahalaga dahil maaaring pagkakitaan ang pugad. Naging mahalaga ito dahil dito natutuhan ng tao ang hangganan ng pagkuha. Sa bawat pagbigkas ng pangalang El Nido, naroon ang alaala ng mga ibong nagtiyagang gumawa ng tahanan sa bato, ng mga taong natuksong kumuha nang sobra, ng batang si Nido na nakinig sa huni, at ng diwata ng lagoon na nagpaalala na ang ganda ng mundo ay hindi para ubusin. Kaya ang pangalan ay naging higit pa sa salita. Ito ay naging panata."
+},
+{
+"chapter": 11,
+"title_fil": "Ang mga Lagoon na May Lihim",
+"text_fil": "Habang mas nakikilala ang pook, lalong napapansin ng mga tao ang hiwaga ng mga lagoon. May mga lagoon na makipot ang pasukan ngunit napakalawak sa loob. May mga tubig na napakalinaw na makikita ang isdang tila lumulutang sa hangin. May mga pader na bato na tila nagbabantay sa katahimikan ng lugar. Sinasabi ng matatanda na bawat lagoon ay may sariling ugali. May lagoon na masaya at bukas sa mga batang marunong tumawa nang hindi nanggugulo. May lagoon na tahimik at dapat lapitan nang halos pabulong. May lagoon na tila salamin, kung saan makikita ng tao hindi lamang ang mukha, kundi ang nilalaman ng kanyang hangarin. Isang araw, may mayamang dayo na gustong lagyan ng malaking marka ang bato upang ipakita na siya ay nakarating doon. Bago pa niya magawa ito, biglang lumakas ang ihip ng hangin sa loob ng lagoon, at ang tubig ay umikot sa kanyang bangka. Natakot siya at nahulog ang kanyang pang-ukit sa tubig. Hindi siya nasaktan, ngunit naunawaan niyang may mga lugar na hindi kailangang lagyan ng pangalan ng tao upang maging mahalaga. Ang mga lagoon ng El Nido ay nagturo na ang tunay na pagbisita ay hindi pag-angkin. Ang tunay na paghanga ay pag-alis nang walang sugat na iniiwan."
+},
+{
+"chapter": 12,
+"title_fil": "Ang Dagat na Parang Hardin",
+"text_fil": "Sa ilalim ng tubig ng El Nido, may mundong hindi agad nakikita ng nagmamadaling mata. May bahura na parang hardin ng bato at kulay. May maliliit na isdang naglalaro sa pagitan ng korales. May pawikan na dahan-dahang lumalangoy na parang matandang may dalang lihim. May kabibe, damong-dagat, at mga nilalang na napakaliit ngunit mahalaga sa buhay ng dagat. Tinuruan ni Liyang si Nido sa panaginip na ang dagat ay parang hardin. Kapag inalagaan, namumulaklak ito sa anyo ng isda, korales, at malinaw na tubig. Kapag sinira, tahimik itong namamatay. Kaya itinuro ni Nido sa mga mangingisda na huwag gumamit ng lason, huwag sirain ang bahura, at huwag hulihin ang maliliit na isda na kailangan pang lumaki. May ilang tumutol dahil mas madali raw ang mabilis na huli. Ngunit sinabi ni Nido na ang madaling huli ngayon ay maaaring maging gutom bukas. Sa pagdaan ng panahon, naunawaan ng marami na ang ganda sa ibabaw ng El Nido ay nakasalalay sa buhay sa ilalim nito. Kung patay ang bahura, mawawala ang isda. Kung marumi ang tubig, hindi na babalik ang pawikan. Kung walang respeto ang tao, mawawala ang himalang hinahangaan niya."
+},
+{
+"chapter": 13,
+"title_fil": "Ang Pagdami ng mga Panauhin",
+"text_fil": "Dumating ang panahon na kumalat sa malalayong lugar ang balita tungkol sa ganda ng El Nido. Dumating ang mga bangka, manlalakbay, mangangalakal, pintor, manunulat, at mga taong nais makita ang mga batong tila lumulutang sa dagat. Natuwa ang pamayanan dahil nagkaroon sila ng bagong kabuhayan. May naging tagasagwan, tagapagluto, tagapag-ayos ng tuluyan, tagapagturo ng daan, at tagapangalaga ng mga bisita. Ngunit kasabay ng biyaya ay dumating ang panibagong pagsubok. May mga taong maingay sa kuweba. May nag-iiwan ng basura sa dalampasigan. May gustong humawak sa korales, kumuha ng kabibe, o pumasok sa lagoon nang walang paggalang. Napansin ni Nido, na noon ay isa nang matanda, na muling nanganganib ang puso ng lugar. Tinipon niya ang kabataan at sinabi na ang El Nido ay parang pugad. Kapag masyadong ginulo ang pugad, aalis ang ibon. Kapag sinira ang katahimikan ng lagoon, magtatago ang hiwaga. Kapag dinumihan ang dagat, mawawala ang kinang na dinarayo ng lahat. Kaya itinuro nila sa mga panauhin ang dating aral: pumasok nang may respeto, huwag kumuha ng hindi kailangan, huwag mag-iwan ng dumi, at tandaan na ang ganda ay hindi dapat patayin upang maalala."
+},
+{
+"chapter": 14,
+"title_fil": "Ang Huling Awit ni Nido",
+"text_fil": "Nang tumanda si Nido, hindi na siya kayang umakyat sa matatarik na bato tulad ng dati. Ang kanyang buhok ay pumuti, ang kanyang kamay ay nanginig, at ang kanyang pandinig ay hindi na kasingtalas noong bata pa siya. Ngunit tuwing hapon, dinadala siya ng kanyang mga apo sa pampang upang marinig ang alon at makita ang mga balinsasayaw na umuuwi sa mga kuweba. Isang takipsilim, habang ang langit ay kulay kahel at lila, sinabi niya sa mga apo na makinig. Noong una, wala silang narinig kundi hangin. Ngunit nang tumahimik sila, narinig nila ang maliliit na huni mula sa bangin, ang patak ng tubig sa bato, ang haplos ng alon, at ang mahinang paglipad ng mga ibon. Ngumiti si Nido at sinabing iyan ang tunay na kayamanan ng kanilang lugar. Hindi lamang ang ganda na nakikita ng mata, kundi ang buhay na naririnig kapag marunong tumahimik ang tao. Bago siya pumanaw, ibinilin niya na huwag gawing palamuti lamang ang pangalan ng El Nido. Alagaan ang pugad, alagaan ang ibon, alagaan ang dagat, alagaan ang bato, alagaan ang katahimikan. Sapagkat kapag nawala ang mga iyon, pangalan na lamang ang matitira, at ang pangalang walang kaluluwa ay parang pugad na wala nang ibon."
+},
+{
+"chapter": 15,
+"title_fil": "Ang Pamanang Pugad ng Palawan",
+"text_fil": "Hanggang ngayon, sa alamat ng Palawan, ang El Nido ay hindi lamang kilala dahil sa malinaw na tubig, puting dalampasigan, matatarik na bato, at lihim na lagoon. Ito ay kilala bilang pugad ng buhay. Sa bawat balinsasayaw na bumabalik sa kuweba, naroon ang aral ng tiyaga. Sa bawat pugad na hindi kinukuha sa maling panahon, naroon ang aral ng pagpigil. Sa bawat lagoon na pinapasok nang tahimik, naroon ang aral ng paggalang. Sa bawat basurang hindi iniiwan sa pampang, naroon ang aral ng pananagutan. Ang alamat ng El Nido ay nagsasabing ang kalikasan ay maaaring magbigay ng yaman, ganda, pagkain, kabuhayan, at inspirasyon, ngunit hindi nito kayang manatiling buhay kung puro kuha ang alam ng tao. Kailangan ng pakikinig. Kailangan ng paghihintay. Kailangan ng pag-alaga sa pugad bago humanga sa ibon. Kaya habang may batang matututong makinig sa huni ng balinsasayaw, habang may mangingisdang magbabalik ng maliit na isda sa dagat, habang may panauhing aalis nang walang iniwang sugat sa bato at tubig, at habang may taga-Palawan na magsasabing ang ganda ay hindi pag-aari kundi pananagutan, mananatiling buhay ang alamat ng El Nido — pugad ng mga ibon, kanlungan ng lagoon, at hiyas ng Palawan na dapat mahalin nang may ingat."
+}
+]
 }
