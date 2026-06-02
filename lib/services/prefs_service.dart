@@ -40,4 +40,15 @@ class PrefsService {
     final read = await getReadChapters();
     return read.contains('${alamatId}_$chapter');
   }
+
+  // ── Background music preference ──
+  Future<bool> getMusicEnabled() async {
+    final prefs = await SharedPreferences.getInstance();
+    return prefs.getBool('music_enabled') ?? true;
+  }
+
+  Future<void> setMusicEnabled(bool value) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('music_enabled', value);
+  }
 }

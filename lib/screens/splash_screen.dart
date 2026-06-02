@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../models/alamat_model.dart';
 import '../services/alamat_service.dart';
+import 'download_screen.dart';
 import 'home_screen.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -37,17 +37,34 @@ class _SplashScreenState extends State<SplashScreen>
   Future<void> _initAndNavigate() async {
     final service = AlamatService();
 
-    // Load all story data
-    final data = await service.loadAll();
-
-    // Preload ALL covers to local storage in parallel —
-    // after this, getLocalCover() in every card is instant
-    await Future.wait(
-      data.map((a) => service.getLocalCover(a.id)),
-    );
-
     // Ensure splash is visible for at least 1.2s
     await Future.delayed(const Duration(milliseconds: 1200));
+
+    if (!mounted) return;
+
+    // Check if stories are already downloaded
+    final hasStories = await service.areStoriesDownloaded();
+
+    if (!mounted) return;
+
+    if (!hasStories) {
+      // First install or cleared data — go to download screen
+      Navigator.of(context).pushReplacement(
+        PageRouteBuilder(
+          pageBuilder: (_, __, ___) => const DownloadScreen(),
+          transitionsBuilder: (_, animation, __, child) => FadeTransition(
+            opacity: CurvedAnimation(parent: animation, curve: Curves.easeInOut),
+            child: child,
+          ),
+          transitionDuration: const Duration(milliseconds: 400),
+        ),
+      );
+      return;
+    }
+
+    // Stories exist — preload covers then go to HomeScreen
+    final data = await service.loadAll();
+    await Future.wait(data.map((a) => service.getLocalCover(a.id)));
 
     if (!mounted) return;
 
@@ -55,10 +72,7 @@ class _SplashScreenState extends State<SplashScreen>
       PageRouteBuilder(
         pageBuilder: (_, __, ___) => const HomeScreen(),
         transitionsBuilder: (_, animation, __, child) => FadeTransition(
-          opacity: CurvedAnimation(
-            parent: animation,
-            curve: Curves.easeInOut,
-          ),
+          opacity: CurvedAnimation(parent: animation, curve: Curves.easeInOut),
           child: child,
         ),
         transitionDuration: const Duration(milliseconds: 400),
@@ -83,7 +97,7 @@ class _SplashScreenState extends State<SplashScreen>
             scale: _scaleAnim,
             child: Image.asset(
               'assets/images/alamat.png',
-              height: 120,
+              height: 140,
               fit: BoxFit.contain,
             ),
           ),

@@ -2,6 +2,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import '../models/alamat_model.dart';
 import '../services/alamat_service.dart';
+import '../services/music_service.dart';
 import '../services/prefs_service.dart';
 import 'reader_screen.dart';
 
@@ -18,14 +19,26 @@ class EpisodeListScreen extends StatefulWidget {
 class _EpisodeListScreenState extends State<EpisodeListScreen> {
   final PrefsService _prefs = PrefsService();
   final AlamatService _alamatService = AlamatService();
+  final MusicService _music = MusicService();
   Set<String> _readChapters = {};
   String? _localCoverPath;
+
+  static const Color _gold = Color(0xFFC9A84C);
 
   @override
   void initState() {
     super.initState();
     _loadRead();
     _loadCover();
+    _switchMusic();
+  }
+
+  Future<void> _switchMusic() async {
+    final localPath =
+        await _alamatService.getLocalMusic(widget.alamat.category);
+    if (localPath != null) {
+      await _music.playForCategory(widget.alamat.category, localPath);
+    }
   }
 
   Future<void> _loadRead() async {
@@ -41,9 +54,7 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
   bool _isRead(int chapter) =>
       _readChapters.contains('${widget.alamat.id}_$chapter');
 
-  Color _categoryColor(String cat) {
-    return const Color(0xFFC9A84C);
-  }
+  Color _categoryColor(String cat) => _gold;
 
   void _navigate(Widget screen) {
     Navigator.push(
@@ -77,7 +88,7 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
       body: Stack(
         fit: StackFit.expand,
         children: [
-          // ── Full screen background image ──
+          // ── Full screen background ──
           if (_localCoverPath != null)
             Image.file(
               File(_localCoverPath!),
@@ -88,7 +99,7 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
           else
             Container(color: const Color(0xFF0A0914)),
 
-          // ── Full dark overlay ──
+          // ── Dark overlay ──
           Container(
             decoration: const BoxDecoration(
               gradient: LinearGradient(
@@ -109,19 +120,17 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
             children: [
               SizedBox(height: topPadding),
 
-              // Back button — bare icon, no container
+              // Top bar — back button only
               Padding(
                 padding: const EdgeInsets.fromLTRB(16, 8, 16, 0),
-                child: Align(
-                  alignment: Alignment.centerLeft,
-                  child: GestureDetector(
-                    onTap: () => Navigator.pop(context),
-                    child: const Icon(
-                      Icons.arrow_back_ios_new_rounded,
-                      color: Colors.white,
-                      size: 20,
+                child: Row(
+                  children: [
+                    GestureDetector(
+                      onTap: () => Navigator.pop(context),
+                      child: const Icon(Icons.arrow_back_ios_new_rounded,
+                          color: Colors.white, size: 20),
                     ),
-                  ),
+                  ],
                 ),
               ),
 
@@ -131,15 +140,13 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    // Region tag
                     Container(
                       padding: const EdgeInsets.symmetric(
                           horizontal: 10, vertical: 4),
                       decoration: BoxDecoration(
                         color: catColor.withOpacity(0.2),
                         borderRadius: BorderRadius.circular(20),
-                        border:
-                            Border.all(color: catColor.withOpacity(0.5)),
+                        border: Border.all(color: catColor.withOpacity(0.5)),
                       ),
                       child: Text(
                         widget.alamat.region.toUpperCase(),
@@ -152,8 +159,6 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
                       ),
                     ),
                     const SizedBox(height: 10),
-
-                    // Title
                     Text(
                       title,
                       style: const TextStyle(
@@ -171,8 +176,6 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
                       ),
                     ),
                     const SizedBox(height: 16),
-
-                    // Progress
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
@@ -200,8 +203,7 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
                       child: LinearProgressIndicator(
                         value: progress,
                         backgroundColor: Colors.white.withOpacity(0.1),
-                        valueColor:
-                            AlwaysStoppedAnimation<Color>(catColor),
+                        valueColor: AlwaysStoppedAnimation<Color>(catColor),
                         minHeight: 3,
                       ),
                     ),
@@ -233,8 +235,7 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
                             language: widget.language,
                           ));
                           Future.delayed(
-                              const Duration(milliseconds: 300),
-                              _loadRead);
+                              const Duration(milliseconds: 300), _loadRead);
                         },
                         child: Container(
                           padding: const EdgeInsets.all(16),
@@ -251,7 +252,6 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
                           ),
                           child: Row(
                             children: [
-                              // Number / check
                               Container(
                                 width: 44,
                                 height: 44,
@@ -281,11 +281,9 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
                                 ),
                               ),
                               const SizedBox(width: 14),
-
                               Expanded(
                                 child: Column(
-                                  crossAxisAlignment:
-                                      CrossAxisAlignment.start,
+                                  crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
                                     Text(
                                       'KABANATA ${chapter.chapter}',
@@ -302,9 +300,7 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
                                       style: TextStyle(
                                         fontSize: 14,
                                         fontWeight: FontWeight.w700,
-                                        color: isRead
-                                            ? catColor
-                                            : Colors.white,
+                                        color: isRead ? catColor : Colors.white,
                                       ),
                                       maxLines: 1,
                                       overflow: TextOverflow.ellipsis,
@@ -312,7 +308,6 @@ class _EpisodeListScreenState extends State<EpisodeListScreen> {
                                   ],
                                 ),
                               ),
-
                               Icon(
                                 Icons.chevron_right_rounded,
                                 color: isRead

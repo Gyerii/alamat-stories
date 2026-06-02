@@ -1,19 +1,17 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import '../models/alamat_model.dart';
-import '../screens/image_viewer_screen.dart';
+import '../screens/episode_list_screen.dart';
 import '../services/alamat_service.dart';
 
 class AlamatCard extends StatefulWidget {
   final AlamatModel alamat;
   final String language;
-  final VoidCallback onTap;
 
   const AlamatCard({
     super.key,
     required this.alamat,
     required this.language,
-    required this.onTap,
   });
 
   @override
@@ -30,12 +28,10 @@ class _AlamatCardState extends State<AlamatCard> {
     if (_localCoverPath == null) _loadCover();
   }
 
-  // ── Key fix: pag nagbago ang alamat (grid reuse), i-reset agad ──
   @override
   void didUpdateWidget(covariant AlamatCard oldWidget) {
     super.didUpdateWidget(oldWidget);
     if (oldWidget.alamat.id != widget.alamat.id) {
-      // Check cache synchronously first — no flash if already cached
       final cached = AlamatService.coverCache[widget.alamat.id];
       if (cached != null) {
         setState(() => _localCoverPath = cached);
@@ -51,13 +47,11 @@ class _AlamatCardState extends State<AlamatCard> {
     if (mounted) setState(() => _localCoverPath = path);
   }
 
-  Color _categoryColor(String cat) => const Color(0xFFC9A84C);
-
-  void _openImageViewer(BuildContext context) {
+  void _handleTap(BuildContext context) {
     Navigator.push(
       context,
       PageRouteBuilder(
-        pageBuilder: (_, __, ___) => ImageViewerScreen(
+        pageBuilder: (_, __, ___) => EpisodeListScreen(
           alamat: widget.alamat,
           language: widget.language,
         ),
@@ -76,16 +70,14 @@ class _AlamatCardState extends State<AlamatCard> {
     final title = widget.language == 'fil'
         ? widget.alamat.titleFil
         : widget.alamat.titleEng;
-    final catColor = _categoryColor(widget.alamat.category);
 
     return GestureDetector(
-      onTap: () => _openImageViewer(context),
+      onTap: () => _handleTap(context),
       child: ClipRRect(
         borderRadius: BorderRadius.circular(16),
         child: Stack(
           fit: StackFit.expand,
           children: [
-            // Background image or placeholder
             _localCoverPath != null
                 ? Image.file(
                     File(_localCoverPath!),
@@ -96,7 +88,6 @@ class _AlamatCardState extends State<AlamatCard> {
                   )
                 : _placeholder(),
 
-            // Bottom gradient
             Positioned.fill(
               child: DecoratedBox(
                 decoration: BoxDecoration(
@@ -113,7 +104,6 @@ class _AlamatCardState extends State<AlamatCard> {
               ),
             ),
 
-            // Title at bottom
             Positioned(
               left: 10,
               right: 10,
@@ -143,9 +133,5 @@ class _AlamatCardState extends State<AlamatCard> {
     );
   }
 
-  Widget _placeholder() {
-    return Container(
-      color: const Color(0xFF1B1A2E),
-    );
-  }
+  Widget _placeholder() => Container(color: const Color(0xFF1B1A2E));
 }
