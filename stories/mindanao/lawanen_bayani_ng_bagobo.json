@@ -1,17 +1,70 @@
 {
-  "id": "lawanen_bayani_ng_bagobo",
-  "region": "Davao, Mindanao",
-  "category": "bayani",
-  "emoji": "🗡️",
-  "title_fil": "Ang Lawanen, Bayani ng Bagobo",
-  "title_eng": "Lawanen, Hero of the Bagobo",
-  "chapters": [
-    {
-      "chapter": 1,
-      "title_fil": "Ang Anak ng Langit",
-      "title_eng": "Child of the Sky",
-      "text_fil": "Sa mga paniniwala ng Bagobo sa Davao, si Lawanen ay ipinanganak mula sa pakikiisa ng isang diyosa at isang mortal na mandirigma. Binigyan siya ng kapangyarihang kontrolin ang hangin at apoy. Nang dumating ang mga masamang nilalang mula sa kailaliman ng lupa upang wasakin ang mga nayon ng Bagobo, si Lawanen ang tanging makakatalo sa kanila.",
-      "text_eng": "In the beliefs of the Bagobo in Davao, Lawanen was born from the union of a goddess and a mortal warrior. He was granted the power to control wind and fire. When evil creatures came from the depths of the earth to destroy the Bagobo villages, Lawanen was the only one who could defeat them."
-    }
-  ]
+"id": "lawanen_bayani_ng_bagobo",
+"region": "Davao, Mindanao",
+"category": "bayani",
+"emoji": "🗡️",
+"image": "lawanen_bayani_ng_bagobo.png",
+"title_fil": "Ang Lawanen, Bayani ng Bagobo",
+"chapters": [
+{
+"chapter": 1,
+"title_fil": "Ang Anak ng Langit at Lupa",
+"text_fil": "Noong unang panahon, sa dakong binabantayan ng Bundok Apo at hinahaplos ng hangin mula sa Davao Gulf, may mga pamayanang Bagobo na namumuhay sa pagitan ng gubat, ilog, bukid, at bundok. Para sa kanila, ang mundo ay hindi lamang nakikita ng mata. May mga espiritu sa puno, bato, apoy, ulap, lupa, at tubig. May mga mabuting nilalang na gumagabay, at may mga mapanganib na nilalang na kailangang iwasan at igalang. Sa gitna ng ganitong daigdig isinilang si Lawanen, anak ng isang mortal na mandirigmang magani at ng isang diwata ng hangin na sinasabing bumaba mula sa ulap sa panahon ng pulang bukang-liwayway. Nang siya ay ipanganak, hindi umiyak ang sanggol tulad ng karaniwang bata. Sa halip, umihip ang malamig na hangin sa paligid ng kubo, sumayaw ang apoy sa pugon kahit walang humawak dito, at ang mga dahon sa gubat ay sabay-sabay na kumaluskos na tila bumubulong ng pangalan niya. Sinabi ng matatandang mabalian na ang batang ito ay hindi dapat palakihin sa yabang, sapagkat ang kapangyarihang galing sa langit at lupa ay maaaring maging biyaya kung may kababaang-loob, ngunit kapahamakan kung hahawakan ng pusong sakim."
+},
+{
+"chapter": 2,
+"title_fil": "Si Datu Lumad at ang Diwatang si Salimbaya",
+"text_fil": "Ang ama ni Lawanen ay si Datu Lumad, isang maganing kilala sa tapang ngunit higit na iginagalang dahil sa kanyang pagpipigil. Marunong siyang humawak ng sandata, ngunit hindi siya unang naghahanap ng dugo. Alam niyang ang mandirigmang walang dangal ay hindi tagapagtanggol kundi salot sa sariling bayan. Ang ina naman ni Lawanen ay si Salimbaya, isang diwata ng ulap at hangin na minsang nagpakita sa Bundok Apo sa anyo ng babaeng may buhok na tila usok at mga matang kasingliwanag ng kidlat. Ayon sa kuwento, nasugatan si Datu Lumad habang pinoprotektahan ang isang sagradong pook laban sa mga buso na gumagapang mula sa madilim na bangin. Si Salimbaya ang nagpagaling sa kanya gamit ang hininga ng hangin at init ng munting apoy. Mula sa kanilang pagkikita isinilang ang pag-ibig na hindi pangkaraniwan: pag-ibig ng lupa at langit, ng mandirigma at diwata, ng tapang at paghilom. Ngunit bago bumalik si Salimbaya sa ulap, binalaan niya ang datu: ang kanilang anak ay haharap sa pagsubok na hindi kayang talunin ng talim lamang. Kailangang matutuhan ni Lawanen na ang pinakamakapangyarihang sandata ay pusong marunong kumilala sa hangganan."
+},
+{
+"chapter": 3,
+"title_fil": "Ang Batang May Hininga ng Hangin",
+"text_fil": "Lumaki si Lawanen sa paanan ng bundok, sa piling ng mga batang natutong tumakbo sa ilalim ng ulan, lumangoy sa malamig na sapa, at makinig sa mga kuwento ng matatanda. Ngunit kahit bata pa, iba na ang kanyang kilos. Kapag siya ay tumatakbo, sumusunod ang dahon sa kanyang likod na parang maliit na ipo-ipo. Kapag siya ay natatakot, humihina ang apoy sa pugon. Kapag siya ay nagagalit, biglang lumalakas ang hangin sa paligid ng bahay. Dahil dito, pinag-ingatan siya ng pamayanan. Hindi siya pinalaking parang diyos, kundi parang batang may mabigat na pananagutan. Tuwing umaga, tinuturuan siya ng kanyang ama ng tamang pagtayo, tamang paghawak ng sibat, at tamang pag-iwas sa labang walang saysay. Tuwing gabi, dinadala siya ng mga mabalian sa tabi ng apoy upang matutuhan ang awit, ritwal, at paghingi ng pahintulot sa mga espiritu. Sinabi ng matandang mabalian na si Apu Inalum: 'Lawanen, ang hangin ay malaya ngunit may direksiyon. Ang apoy ay mainit ngunit may hangganan. Kapag hinayaan mong kontrolin ka ng galit, susunugin mo ang sariling tahanan bago mo masaktan ang kaaway.'"
+},
+{
+"chapter": 4,
+"title_fil": "Ang Aral ng Mabalian",
+"text_fil": "Si Apu Inalum ang naging unang dakilang guro ni Lawanen. Siya ay isang mabalian na kilala hindi dahil sa takot na ibinibigay niya sa tao, kundi dahil sa kakayahan niyang makipag-usap sa mundo sa paraang tahimik. Alam niya kung kailan kailangang mag-alay, kailan dapat umiwas sa isang pook, anong halamang gamot ang papawi sa lagnat, at anong awit ang nagpapakalma sa pusong sinalanta ng takot. Dinala niya si Lawanen sa isang gubat na hindi pinapasok nang basta-basta. Doon itinuro niyang ang bawat puno ay may alaala at ang bawat bato ay may tahimik na bigat. Pinapikit niya si Lawanen at sinabing pakinggan ang hangin. Noong una, hangin lamang ang narinig ng bata. Ngunit habang tumatagal, narinig niya ang iba-ibang tinig: huni ng ibon na nagbababala, sapa na naghahanap ng daan, puno na kumikirot dahil sa palakol, at lupa na nag-iingat ng yabag ng ninuno. 'Iyan ang unang aral ng bayani,' wika ni Apu Inalum. 'Hindi ka tagapagtanggol kung hindi mo naririnig ang hinihingi ng iyong ipinagtatanggol.' Mula noon, naunawaan ni Lawanen na ang kapangyarihan ay hindi nagsisimula sa pag-utos, kundi sa pakikinig."
+},
+{
+"chapter": 5,
+"title_fil": "Ang Apoy na Hindi Nanununog",
+"text_fil": "Sa ikalabing-apat na taon ni Lawanen, ipinakita ng kanyang kapangyarihan ang tunay nitong anyo. Isang araw, habang ang mga kabataan ay nagtitipon ng kahoy sa gilid ng gubat, may dumating na mabangis na baboy-ramo na sugatan at takot. Nagtakbuhan ang mga bata, ngunit may isang batang nadapa sa putikan. Sumugod ang hayop, hindi dahil masama ito, kundi dahil may pana sa tagiliran at ang sakit ay ginawa itong marahas. Tumakbo si Lawanen upang iligtas ang bata. Sa kanyang takot at pagmamadali, nagliyab ang kanyang mga kamay. Inakala ng lahat na susunugin niya ang hayop, ngunit naalala niya ang aral ng mabalian: hindi lahat ng panganib ay kaaway. Hinawakan niya ang apoy sa kanyang palad at pinatahimik ito hanggang maging mainit na liwanag lamang. Itinapat niya ito sa mata ng hayop, hindi upang saktan, kundi upang pigilan ang pagsugod. Nang humupa ang takot ng baboy-ramo, nilapitan ni Apu Inalum at inalis ang pana sa katawan nito. Sa araw na iyon, nakita ng pamayanan na ang apoy ni Lawanen ay maaaring manira, ngunit maaari rin itong maging ilaw ng paghilom. Doon nagsimula ang paggalang nila sa kanya, hindi bilang batang makapangyarihan, kundi bilang batang natutong pumili ng awa sa gitna ng takot."
+},
+{
+"chapter": 6,
+"title_fil": "Ang Pagdating ng mga Buso",
+"text_fil": "Ngunit hindi nagtagal, dumating ang panahong kinatatakutan ng matatanda. Mula sa madidilim na bitak ng lupa at mga bangin na hindi inaabot ng araw, nagsimulang gumapang ang mga buso—mga nilalang na gutom sa gulo, amoy ng pagkabulok, at takot ng tao. Hindi sila tulad ng hayop na kumakain upang mabuhay. Ang buso ay lumalakas sa inggit, kasinungalingan, pagpatay nang walang dahilan, at pagkalimot sa ritwal ng paggalang. Una nilang sinalanta ang mga pananim sa gilid ng gubat. Pagkatapos, nilason nila ang isang batis hanggang hindi na mainom ng mga bata. Sa gabi, naririnig ang kanilang halakhak sa likod ng mga puno, at sa umaga, may mga bakas ng kuko sa lupa. Nagpulong ang mga datu, magani, at mabalian. May mga gustong salakayin agad ang bangin. May mga gustong lumikas. Ngunit tumayo si Apu Inalum at sinabi, 'Ang buso ay hindi lamang nilalang sa labas. Lumalakas sila kapag ang loob ng tao ay nabubulok. Kung pupunta tayo sa laban na puno ng galit at kasakiman, pinapakain lamang natin sila.' Sa katahimikan ng pulong, alam ng lahat kung sino ang kailangang humarap sa panganib: si Lawanen, anak ng hangin at apoy."
+},
+{
+"chapter": 7,
+"title_fil": "Ang Pagsubok ng Magani",
+"text_fil": "Bago payagang lumaban si Lawanen, sinubok siya ng matatandang magani. Hindi sapat na may kapangyarihan siya; kailangang patunayan niyang may pagpipigil siya. Sa unang pagsubok, inilagay siya sa gitna ng liwasan habang sinisigawan siya ng mga mandirigma ng pang-iinsulto. Kung papayag siyang sumiklab ang apoy sa galit, bagsak siya. Nanginginig ang kanyang kamay, ngunit huminga siya nang malalim at hinayaan ang hangin na palamigin ang dibdib. Sa ikalawang pagsubok, inilagay sa harap niya ang sandatang kumikislap, gawa sa metal na sinasabing kayang pumutol ng anino. Kung kukunin niya ito dahil sa pagnanasa sa kapangyarihan, hindi siya karapat-dapat. Tiningnan niya ang sandata at yumuko, sinabing hindi talim ang kailangan niya kung bulag naman ang puso. Sa ikatlong pagsubok, dinala sa kanya ang isang batang nagkasakit dahil sa tubig na nilason ng buso. Hiniling ng ina ng bata na maghiganti siya agad. Umiyak si Lawanen, ngunit hindi siya sumugod. Sa halip, tinulungan muna niya ang mabalian na gamutin ang bata. Doon sinabi ng mga magani na siya ay handa na. Ang tunay na mandirigma ay hindi laging unang umaatake; siya ang unang nagpoprotekta."
+},
+{
+"chapter": 8,
+"title_fil": "Ang Sandatang Hinulma sa Kidlat",
+"text_fil": "Kinagabihan, dinala ni Apu Inalum si Lawanen sa isang mataas na bato kung saan madalas tumama ang kidlat sa panahon ng bagyo. Doon, ayon sa alamat, minsang bumaba si Salimbaya upang iwan ang huling handog para sa kanyang anak. Sa pagitan ng mga ugat at bato, natagpuan nila ang isang piraso ng itim na metal na parang nahulog mula sa langit. Hindi ito malamig tulad ng karaniwang bakal; may tibok ito na parang pusong natutulog. Tinawag ni Apu Inalum ang pinakamatandang panday ng pamayanan. Sa loob ng tatlong gabi, hinulma nila ang metal habang umaawit ang mabalian, tumutunog ang tambol, at umihip ang hangin sa paligid ng pugon. Nang matapos, lumitaw ang sandatang hindi purong tabak at hindi rin purong sibat. Tinawag itong Sidlak-Bagyo, sandatang may talim ng kidlat at hininga ng hangin. Ngunit bago ito ibinigay kay Lawanen, inilagay ni Apu Inalum ang kanyang kamay sa dibdib ng binata at sinabi, 'Ang sandatang ito ay susunod sa laman ng puso mo. Kung galit ang maghahawak, magiging apoy na lalamon sa lahat. Kung dangal ang maghahawak, magiging ilaw na magbubukas ng daan.' Tinanggap ni Lawanen ang sandata nang nakaluhod."
+},
+{
+"chapter": 9,
+"title_fil": "Ang Paglusong sa Madilim na Bangin",
+"text_fil": "Dumating ang araw ng paglalakbay. Hindi nagpaalam si Lawanen na parang bayaning naghahanap ng papuri. Yumakap siya sa kanyang ama, yumuko kay Apu Inalum, at humarap sa Bundok Apo upang humingi ng pahintulot. Pagkatapos, kasama ang tatlong maganing pinili ng konseho at dalawang mabalian na may dalang awit ng proteksiyon, lumusong siya sa madilim na bangin kung saan sinasabing nagtatago ang pinuno ng mga buso. Habang pababa sila, lumalamig ang hangin at bumibigat ang lupa. May mga punong walang dahon, batong may marka ng kuko, at tubig na maitim kahit tinamaan ng araw. Sa bawat hakbang, naririnig ni Lawanen ang bulong ng mga buso: tinatawag nila siyang anak ng diwata, sinasabing higit siya sa tao, sinasabing maaari niyang pamunuan ang lahat kung iiwan niya ang mahihinang mortal. Ngunit sa bawat tukso, inaalala niya ang batang iniligtas niya, ang baboy-ramong hindi niya sinunog, ang ina ng batang maysakit, at ang mga taong naghihintay sa kanya hindi upang sambahin siya, kundi upang makauwi silang ligtas sa sariling tahanan. Sa kailaliman ng bangin, nakita niya ang malaking pintong bato na humihinga ng usok. Naroon ang pugad ng buso."
+},
+{
+"chapter": 10,
+"title_fil": "Ang Hari ng Buso",
+"text_fil": "Sa loob ng pugad, nakita ni Lawanen ang hari ng buso, si Mangalub, isang nilalang na mataas kaysa tao, may mga matang parang uling na may baga sa loob, at tinig na parang nabubulok na kahoy. Hindi agad ito lumaban. Sa halip, tumawa ito at sinabi, 'Bakit mo ako papatayin, anak ng hangin? Ako ay bunga lamang ng tao. Kapag nagsisinungaling sila, lumalakas ako. Kapag pumapatay sila nang walang dahilan, lumalakas ako. Kapag kinakalimutan nila ang mga espiritu ng gubat, lumalakas ako. Kapag ang mga pinuno ay nagiging sakim, ako ang kanilang anino. Patayin mo ako ngayon, at babalik ako bukas kung hindi magbabago ang puso ng iyong bayan.' Natigilan si Lawanen, sapagkat may katotohanan sa sinabi ng kaaway. Ngunit sumagot siya, 'Kung ikaw ay anino ng aming pagkakamali, hindi ibig sabihin hahayaan ka naming lamunin kami. Ang tao ay nagkakamali, ngunit maaari ring matuto.' Sumugod si Mangalub. Naglaban sila sa gitna ng apoy, hangin, at dilim. Bawat hampas ng buso ay nagdadala ng amoy ng takot. Bawat galaw ni Lawanen ay tinutulungan ng hangin, ngunit pinipigilan niya ang apoy upang hindi masunog ang buong bangin. Sa huli, itinusok niya ang Sidlak-Bagyo sa lupa, hindi sa dibdib ng buso, at pinakawalan ang liwanag na nagtulak sa dilim palabas."
+},
+{
+"chapter": 11,
+"title_fil": "Ang Laban na Hindi Natapos sa Dugo",
+"text_fil": "Nang tumama ang liwanag ng Sidlak-Bagyo sa ilalim ng bangin, hindi agad namatay si Mangalub. Sa halip, lumiit siya, nanghina, at naging aninong nanginginig sa gilid ng bato. Nagtaka ang mga kasamang magani ni Lawanen kung bakit hindi niya ito tinapos sa isang hampas. Sumagot si Lawanen, 'Kung papatayin ko siya ngunit hindi natin babaguhin ang sanhi ng kanyang lakas, babalik siya sa ibang anyo. Ang laban natin ay hindi lamang laban sa buso, kundi laban sa kasakiman, pagkalimot, at galit sa loob ng tao.' Dinala nila pabalik sa pamayanan ang balitang natalo ang hari ng buso, ngunit hindi nagdiwang si Lawanen nang may yabang. Sa halip, ipinatawag niya ang lahat: datu, magani, mabalian, magsasaka, mangangaso, bata, at matanda. Sinabi niya na kailangang linisin ang batis, ayusin ang nasirang taniman, mag-alay ng pasasalamat sa mga espiritu, at higit sa lahat, ayusin ang mga alitang matagal nang nagpapalakas sa dilim. May mga pamilyang nagbati, may mga pinunong humingi ng tawad, at may mga kabataang nangakong hindi na pagtatawanan ang ritwal ng matatanda. Sa gabing iyon, humina ang amoy ng buso sa hangin."
+},
+{
+"chapter": 12,
+"title_fil": "Ang Pamana ni Lawanen",
+"text_fil": "Lumipas ang maraming taon, at si Lawanen ay naging isa sa mga pinakadakilang bayani sa mga kuwentong ipinapasa sa paligid ng apoy. Ngunit sa bawat pagsasalaysay, pinapaalalahanan ng matatanda ang mga bata na hindi siya dakila dahil lamang kaya niyang utusan ang hangin at apoy. Dakila siya dahil natutuhan niyang kontrolin ang sarili. Dakila siya dahil hindi niya sinunog ang hayop na sugatan, hindi niya kinuha ang sandata dahil sa yabang, hindi niya iniwan ang maysakit upang maghanap ng papuri sa labanan, at hindi niya ginawang libangan ang pagpatay kahit sa harap ng nilalang na kinatatakutan ng lahat. Sinasabi ng mga mabalian na kapag may hangin na biglang iihip sa paligid ng apoy habang may nagkukuwento, iyon daw ay paalala ni Salimbaya na buhay pa ang aral ng kanyang anak. Kapag may batang magtatanong kung babalik pa ang mga buso, sinasagot ng matatanda: 'Babalik sila kung pababayaan natin ang dilim sa loob natin. Ngunit zolang may pusong marunong makinig, may kamay na marunong mag-alaga, at may tapang na hindi naghahanap ng karahasan, naroon pa rin si Lawanen sa ating alaala.' Kaya ang kuwento ni Lawanen, Bayani ng Bagobo, ay hindi lamang alamat ng mandirigmang may apoy at hangin. Ito ay aral na ang tunay na bayani ay tagapagtanggol ng buhay, tagapaglinis ng sariling puso, at tagapagpaalala na ang pinakamalakas na apoy ay yaong nagbibigay-liwanag nang hindi sinusunog ang mundo."
+}
+]
 }

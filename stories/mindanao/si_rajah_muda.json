@@ -1,17 +1,70 @@
 {
-  "id": "si_rajah_muda",
-  "region": "Lanao, Mindanao",
-  "category": "bayani",
-  "emoji": "👑",
-  "title_fil": "Si Rajah Muda at ang Lawa ng Lanao",
-  "title_eng": "Rajah Muda and Lake Lanao",
-  "chapters": [
-    {
-      "chapter": 1,
-      "title_fil": "Ang Paglikha ng Lawa",
-      "title_eng": "The Creation of the Lake",
-      "text_fil": "Isang taon nagkaroon ng matinding tagtuyot at nagutom ang mga tao sa lupain ng Maranao. Nanalangin si Rajah Muda sa kanyang mga ninuno at sinabihan siyang kailangan niyang ialay ang kanyang sariling lupain. Nang sumang-ayon siya biglang lumitaw ang malaking lawa ng Lanao na nagbigay-buhay at pag-asa sa kanyang bayan.",
-      "text_eng": "One year a severe drought struck and the people of the Maranao land starved. Rajah Muda prayed to his ancestors and was told he needed to sacrifice his own land. When he agreed the great Lake Lanao suddenly appeared bringing life and hope to his kingdom."
-    }
-  ]
+"id": "si_rajah_muda",
+"region": "Lanao, Mindanao",
+"category": "bayani",
+"emoji": "👑",
+"image": "si_rajah_muda.png",
+"title_fil": "Si Rajah Muda at ang Lawa ng Lanao",
+"chapters": [
+{
+"chapter": 1,
+"title_fil": "Ang Lupain Bago Naging Lawa",
+"text_fil": "Noong unang panahon, bago pa maging bughaw at malawak ang Lawa ng Lanao, may isang lupain sa mataas na bahagi ng Mindanao na may palayan, pastulan, torogan, pamilihan, at mga pamayanang pinamumunuan ng matatapang ngunit marurunong na datu. Sa gitna ng lupaing iyon nakatayo ang kaharian ni Rajah Muda, isang batang pinuno na minahal ng kanyang bayan hindi dahil sa bigat ng korona, kundi dahil sa gaan ng kanyang loob sa mahihirap. Bata pa siya nang maupo sa luklukan ng pamumuno, kaya marami ang nagduda kung kaya niyang pasanin ang tungkulin ng isang rajah. Ngunit sa bawat sigalot, nakikinig siya muna sa matatanda. Sa bawat paghatol, iniisip niya ang kapakanan ng mga bata, magsasaka, mangingisda, tagaukit, tagahabi, at tagapag-awit. Ang kanyang kaharian ay napaliligiran ng bundok at bukal, ngunit sa loob ng maraming taon ay hindi pa nila alam na sa ilalim ng kanilang lupa ay natutulog ang isang dakilang tubig na naghihintay lamang ng tamang panahon upang lumitaw at maging puso ng buong lupain."
+},
+{
+"chapter": 2,
+"title_fil": "Ang Tagtuyot na Kumain sa Ani",
+"text_fil": "Dumating ang isang taon na hindi bumagsak ang ulan. Sa simula, inakala ng mga tao na karaniwang pagbabago lamang iyon ng panahon. Nagpatuloy sila sa pagtatanim, pag-aayos ng kanal, at paghihintay sa makapal na ulap. Ngunit lumipas ang mga linggo at buwan, ang lupa ay nagbitak, ang palay ay nanilaw, ang mga bukal ay humina, at ang mga kalabaw ay nangayayat sa init. Ang mga bata ay hindi na tumatakbo sa liwasan sapagkat kulang ang pagkain sa kanilang tiyan. Ang mga ina ay naghahati ng kaunting kanin sa maraming kamay. Ang mga matatanda ay tumitingin sa langit at bumubulong ng dasal. Sa torogan ni Rajah Muda, dumarating araw-araw ang mga taong humihingi ng tulong. Ibinukas niya ang kamalig ng kaharian at ipinamahagi ang natitirang bigas, ngunit alam niyang hindi iyon sapat. Kapag ang lupa mismo ang nauuhaw, kahit ang pinakamabait na pinuno ay hindi makalilikha ng ani mula sa tuyong alabok. Doon unang naramdaman ni Rajah Muda na ang pamumuno ay hindi palaging pag-upo sa mataas na luklukan. Minsan, ito ay pagharap sa gutom ng bayan habang wala ka pang kasagutan."
+},
+{
+"chapter": 3,
+"title_fil": "Ang Panalangin sa mga Ninuno",
+"text_fil": "Isang gabing walang buwan, umalis si Rajah Muda sa kanyang torogan nang walang kasamang bantay. Suot niya ang payak na kasuotan ng isang anak ng bayan, hindi ang damit ng pinuno. Dala niya ang isang mangkok ng tuyong lupa, isang tangkay ng palay na walang bunga, at isang maliit na lamparang halos maubos na ang langis. Pumunta siya sa pinakamataas na gulod kung saan sinasabing pinakikinggan ng mga ninuno ang panalangin ng mga buhay. Doon siya lumuhod at nagsalita hindi bilang rajah, kundi bilang taong natatakot para sa kanyang mga anak at kababayan. 'Mga ninunong nagbantay sa lupaing ito,' wika niya, 'kung may pagkukulang ako, turuan ninyo ako. Kung may kailangang ibigay, ipakita ninyo. Huwag ninyong hayaang mamatay ang aking bayan sa gutom.' Matagal siyang nanatili roon hanggang sa lumamig ang hangin. Sa pagitan ng dilim at katahimikan, may tinig na bumangon mula sa ilalim ng lupa. Hindi ito boses ng isang tao lamang, kundi tila maraming tinig na nagsasalita bilang isa. Sinabi nito, 'Rajah Muda, ang tubig na magliligtas sa iyong bayan ay nasa ilalim ng lupaing iyong minamahal. Ngunit upang ito ay lumitaw, kailangan mong ialay ang pinakamahalaga sa iyo.'"
+},
+{
+"chapter": 4,
+"title_fil": "Ang Sakit ng Isang Pasya",
+"text_fil": "Bumalik si Rajah Muda sa torogan na tila mas tumanda sa loob lamang ng isang gabi. Tinawag niya ang mga datu, pandita, tagapag-awit, tagaukit, ina ng pamayanan, at matatandang nakaaalam ng lumang batas. Ikinuwento niya ang narinig sa gulod. Nagkaroon ng mahabang katahimikan. May isang datu ang nagsabing baka panaginip lamang iyon. May isang matanda ang nagsabing ang lupa ay may sariling tinig kapag malapit nang mamatay ang mga tao. May isang ina ang nagtanong kung ano ang ibig sabihin ng pag-aalay ng pinakamahalaga. Hindi agad sumagot si Rajah Muda. Alam niya ang sagot, ngunit ayaw tanggapin ng puso niya. Ang pinakamahalaga sa kanya ay hindi ginto, hindi sandata, hindi korona, at hindi kabayo. Ang pinakamahalaga sa kanya ay ang lupang minana niya sa ama, ang lupang kinatatayuan ng kanyang tahanan, ang lupang pinaglalaruan ng mga bata, ang lupang nakabaon ang alaala ng kanyang angkan. Kung ialay niya ito, mawawala ang kaharian sa anyong nakilala nila. Ngunit kung hindi niya ito gagawin, maaaring mawala ang mismong mga taong dahilan kung bakit may kaharian. Sa araw na iyon, natutuhan niya na ang tunay na pinuno ay minsang kailangang pumili sa pagitan ng bagay na minamahal at buhay na dapat iligtas."
+},
+{
+"chapter": 5,
+"title_fil": "Ang Huling Paglilibot sa Kaharian",
+"text_fil": "Bago gumawa ng pasya, naglakad si Rajah Muda sa buong lupain. Hindi siya sumakay sa karwahe, hindi siya nagdala ng payong na sagisag ng kapangyarihan, at hindi siya nagpauna ng tagapagbalita. Gusto niyang makita ang kaharian sa mata ng karaniwang tao. Dumaan siya sa palayang bitak-bitak ang lupa. Hinawakan niya ang kamay ng batang nanginginig sa gutom. Kinausap niya ang matandang magsasakang umiiyak habang hinahaplos ang tuyong pilapil. Pumasok siya sa bahay ng inang pinakukuluan ang huling dakot ng bigas. Sa pampang ng tuyong sapa, nakita niya ang mga batang gumuguhit ng alon sa buhangin dahil hindi na nila maalala ang tunog ng malakas na agos. Sa bawat lugar na dinaanan niya, may bahagi ng kanyang puso ang nababasag. Sa huli, umakyat siya sa bubong ng kanyang torogan at tumingin sa buong lupain. Nandoon ang alaala ng kanyang ama, ang saya ng kanyang kabataan, ang dangal ng kanyang angkan. Ngunit mas malakas sa lahat ang tinig ng mga taong nagugutom. Ipinikit niya ang mga mata at bumulong, 'Kung ang lupa kong ito ang kailangang maging tubig upang mabuhay sila, ibibigay ko.'"
+},
+{
+"chapter": 6,
+"title_fil": "Ang Seremonya sa Gitna ng Tuyong Lupa",
+"text_fil": "Sa ikapitong araw matapos ang panalangin, tinipon ni Rajah Muda ang buong bayan sa gitna ng pinakamalawak na kapatagan. Dinala ng mga tao ang natitirang butil ng palay, mga tuyong dahon, lumang ukit mula sa torogan, isang pirasong tela na may okir, at tubig na inipon mula sa huling patak ng bukal. Hindi ito handaan ng kasiyahan, kundi seremonya ng paghahabilin. Tumayo si Rajah Muda sa gitna at sinabi, 'Ang lupang ito ay minana ko, ngunit hindi ito akin lamang. Ang pinuno ay tagapag-ingat, hindi may-ari ng buhay ng bayan. Kung ang aking lupa ay kailangang bumukas upang lumitaw ang tubig, hayaan itong bumukas. Kung ang aking tahanan ay kailangang lumubog upang magkaroon kayo ng kinabukasan, hayaan itong lumubog.' Pagkatapos, ibinaon niya sa lupa ang kanyang singsing, hindi bilang tanda ng pagkawala, kundi bilang tanda ng pagtitiwala. Umawit ang mga tagapag-awit ng lumang himig na parang hinango sa Darangen, at ang mga tao ay umiyak nang tahimik. Nang tumama ang unang patak ng luha ni Rajah Muda sa tuyong lupa, may malalim na ugong na bumangon mula sa ilalim."
+},
+{
+"chapter": 7,
+"title_fil": "Ang Pagbukas ng Kailaliman",
+"text_fil": "Una, nagbitak ang lupa sa ilalim ng mga paa ng mga tao. Ngunit hindi ito bitak ng pagkawasak lamang; ito ay parang bunganga ng lupang matagal nang nagtitimpi. Umatras ang mga tao habang ang lupa ay unti-unting bumababa. Mula sa ilalim, umakyat ang malamig na singaw. Pagkatapos ay sumabog ang tubig—hindi apoy, hindi bato, kundi tubig na malinaw, malakas, at tila sabik makakita ng araw. Sumigaw ang mga bata sa gulat, napaluhod ang matatanda, at ang mga babae ay umiyak sa pagitan ng takot at pasasalamat. Ang dating tuyong kapatagan ay unti-unting napuno. Ang tubig ay pumatakbo sa mabababang bahagi, nilamon ang mga bitak, pinalamig ang lupa, at nagpakita ng bughaw na kulay na hindi pa nila nakita roon. Ngunit habang lumalaki ang tubig, napansin nilang patuloy itong tumataas. Ang handog ni Rajah Muda ay tinanggap, ngunit ang biyaya ay may sariling lakas. Kapag hindi nabigyan ng daan, maaari nitong lunurin ang lahat. Muling narinig ni Rajah Muda ang tinig ng mga ninuno: 'Ang tubig ay buhay, ngunit kailangan ng daan. Tawagin mo ang hangin.'"
+},
+{
+"chapter": 8,
+"title_fil": "Ang Apat na Hangin",
+"text_fil": "Tumayo si Rajah Muda sa gilid ng bagong tubig at itinaas ang dalawang kamay. Tinawag niya ang apat na hangin: ang hanging mula sa silangan na may dala ng liwanag ng simula, ang hanging mula sa kanluran na may bigat ng alaala, ang hanging mula sa lupa na amoy palay at putik, at ang hanging mula sa bagyo na malakas ngunit kailangang mapasunod sa kabutihan. Sa una, walang nangyari. Patuloy na tumaas ang tubig at nagsimulang abutin ang ilang kubo. Ngunit hindi tumigil si Rajah Muda. Inulit niya ang panawagan, hindi bilang utos ng hari, kundi bilang pakiusap ng taong nag-alay ng sarili niyang lupain. Biglang umikot ang langit. Dumating ang apat na hangin, nagtagpo sa ibabaw ng bagong lawa, at bumuga sa isang bahagi ng lupain hanggang bumuka ang daang pababa sa kanluran. Sa daang iyon dumaloy ang sobrang tubig, lumakas, bumilis, at naging ilog na kalaunan ay kikilalaning Agus. Ang tubig na maaaring lumunod sa bayan ay nagkaroon ng landas patungo sa malayo. Doon naunawaan ng mga tao na kahit ang biyaya ay kailangang may kaayusan. Ang pag-ibig na walang daan ay maaaring maging baha; ang pag-ibig na may karunungan ay nagiging ilog."
+},
+{
+"chapter": 9,
+"title_fil": "Ang Lawa ng Lanao",
+"text_fil": "Nang humupa ang pagyanig at tumigil ang pagtaas ng tubig, nakita ng mga tao ang himalang nasa harap nila. Ang dating kapatagan ay naging napakalawak na lawa, bughaw, malalim, at payapang tila may sariling hininga. Ang mga bundok ay makikita sa ibabaw nito na parang nakaluhod sa salamin. Ang mga ulap ay lumulutang sa tubig na tila doon na rin nakatira. Tinawag ito ng mga tao na Lanao, Ranaw, ang dakilang tubig na magbibigay-buhay sa mga anak nito. Sa mga pampang nito nagsimula muli ang pamayanan. Nagkaroon ng isda, nagbalik ang halumigmig sa hangin, lumakas ang mga bukal, at ang mga palayang malapit sa tubig ay unti-unting nabuhay. Ngunit hindi na bumalik ang dating tahanan ni Rajah Muda. Ang lupa ng kanyang angkan ay nasa ilalim na ng lawa. Kapag tinatanong siya ng mga bata kung nalulungkot ba siya, sumasagot siya, 'Oo, sapagkat ang pag-aalay ay laging may sakit. Ngunit kapag nakikita kong umiinom kayo ng tubig at kumakain mula sa biyayang ito, alam kong hindi nawala ang aking tahanan. Nagbago lamang ito ng anyo.' Mula noon, itinuring ng mga tao ang lawa bilang buhay na alaala ng pinunong nagbigay bago kumuha."
+},
+{
+"chapter": 10,
+"title_fil": "Ang Sarimanok sa Ibabaw ng Tubig",
+"text_fil": "Isang umaga, habang nakaupo si Rajah Muda sa pampang ng bagong lawa, may makulay na ibong dumapo sa isang bato. Ang balahibo nito ay tila pinagtagpi-tagping liwanag: pula ng tapang, dilaw ng araw, bughaw ng tubig, at luntian ng bagong buhay. Sa tuka nito ay may hawak na munting isdang kumikislap. Ito ang Sarimanok, ibong tagapagbalita ng pag-asa at sagisag ng kasaganaan sa maraming salaysay ng Maranao. Ibinaba nito ang isda sa harap ni Rajah Muda at nagsalita sa tinig na parang kulintang. 'Ang lawa ay hindi gantimpala sa iyo lamang,' sabi nito. 'Ito ay pagsubok sa lahat. Kung aalagaan ninyo ito, mabubuhay ang inyong mga anak. Kung aabusuhin ninyo ito, ang biyayang ibinigay sa pamamagitan ng sakripisyo ay magiging sugat muli.' Pagkatapos, lumipad ang Sarimanok sa ibabaw ng tubig, at sa bawat kumpas ng pakpak nito ay kumikislap ang alon. Mula noon, inukit ng mga tagagawa ng okir ang anyo ng ibon sa mga tahanan, bangka, at alaala. Paalala ito na ang kasaganaan ay dapat laging may kasamang paggalang."
+},
+{
+"chapter": 11,
+"title_fil": "Ang Batas ng Pampang",
+"text_fil": "Nang magsimulang dumami ang mga pamayanan sa paligid ng Lawa ng Lanao, gumawa si Rajah Muda ng mga batas na tatawaging Batas ng Pampang. Una, walang sinuman ang maaaring magtapon ng dumi sa lawa, sapagkat ang maruming tubig ay babalik sa katawan ng tao bilang sakit. Ikalawa, hindi huhulihin ang maliliit na isda sa panahon ng kanilang pagdami, sapagkat ang gutom ng bukas ay nagsisimula sa kasakiman ngayon. Ikatlo, ang bawat pamilyang kukuha sa lawa ay kailangang magbigay rin pabalik sa pamayanan, maging sa anyo ng pagkain, tulong, awit, kaalaman, o pag-aalaga sa pampang. Ikaapat, hindi dapat kalimutan ang lupang lumubog, sapagkat sa ilalim ng tubig natutulog ang alaala ng sakripisyo. Tuwing may bagong bata na unang dadalhin sa pampang, pinapahawak sa kanya ang tubig at sinasabing, 'Hindi ito ordinaryong tubig. Ito ay buhay na ipinagkaloob sa halaga ng pagmamahal.' Sa ganitong paraan, ang lawa ay hindi naging simpleng kabuhayan. Ito ay naging paaralan ng pananagutan."
+},
+{
+"chapter": 12,
+"title_fil": "Ang Pamana ni Rajah Muda",
+"text_fil": "Tumanda si Rajah Muda na hindi na tinatawag na batang pinuno, kundi Ama ng Lawa ng Lanao. Hindi siya nagpatayo ng napakalaking rebulto para sa sarili. Hindi niya ipinilit na sambahin siya ng mga tao. Ang nais lamang niya ay maalala ng bawat salinlahi na ang kapangyarihan ay walang saysay kung hindi handang magsakripisyo para sa bayan. Sa kanyang huling araw, dinala siya sa pampang ng lawa. Pinakinggan niya ang alon, tulad ng pakikinig niya noon sa tinig ng mga ninuno. Sinabi niya sa kanyang mga anak, datu, tagapag-awit, at tagapangalaga ng torogan: 'Huwag ninyong hayaang maging dahilan ng pag-aaway ang tubig na ibinigay upang kayo ay mabuhay. Huwag ninyong hayaang marumihan ang lawa ng kasakiman. Huwag ninyong hayaang malimutan ng mga bata na ang bawat biyaya ay may pinagmulan.' Nang pumikit siya, umihip ang apat na hangin sa ibabaw ng lawa, at may Sarimanok na umikot sa langit. Hanggang ngayon, sinasabi ng matatanda na kapag ang Lawa ng Lanao ay payapa at bughaw sa umaga, natutulog si Rajah Muda sa ilalim ng tubig na kanyang inialay. Kapag umaalon ito nang walang bagyo, ipinaaalala niya sa mga anak ng Lanao na ang tunay na pamumuno ay hindi paghawak sa lupa, kundi pag-aalay nito kung iyon ang magliligtas sa bayan."
+}
+]
 }

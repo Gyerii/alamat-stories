@@ -1,17 +1,100 @@
 {
-  "id": "ulahingan_livunganen_epic",
-  "region": "Cotabato, Mindanao",
-  "category": "epiko",
-  "emoji": "🌿",
-  "title_fil": "Ang Ulahingan (Livunganen Epic)",
-  "title_eng": "Ulahingan (Livunganen-Arumanen Manobo Epic)",
-  "chapters": [
-    {
-      "chapter": 1,
-      "title_fil": "Ang Epiko ng Manobo",
-      "title_eng": "The Manobo Epic",
-      "text_fil": "Ang Ulahingan ay ang dakilang epiko ng mga Livunganen-Arumanen Manobo sa Cotabato. Ang pangunahing bayani nito ay si Lumabet na isang datu na nagtataglay ng di-pangkaraniwang kapangyarihan. Ang kwento ay nagtatala ng kanyang mga pakikipagsapalaran habang pinoprotektahan niya ang kanyang komunidad mula sa mga kaaway at masamang espiritu.",
-      "text_eng": "The Ulahingan is the great epic of the Livunganen-Arumanen Manobo in Cotabato. Its main hero is Lumabet, a chieftain who possesses extraordinary powers. The story chronicles his adventures as he protects his community from enemies and evil spirits."
-    }
-  ]
+"id": "ulahingan_livunganen_epic",
+"region": "Cotabato, Mindanao",
+"category": "epiko",
+"emoji": "🌿",
+"title_fil": "Ang Ulahingan ng mga Livunganen-Arumanen Manobo",
+"image": "ulahingan_livunganen_epic.png",
+"chapters": [
+{
+"chapter": 1,
+"title_fil": "Ang Awit sa Lupain ng Cotabato",
+"text_fil": "Sa malawak na lupain ng Cotabato, kung saan ang kapatagan ay dinadaluyan ng mga ilog at ang kabundukan ay nababalot ng ulap, isinilang ang isang matandang awit na matagal nang ipinapasa ng mga Livunganen-Arumanen Manobo. Tinatawag itong Ulahingan, isang epikong hindi basta kuwento ng isang bayani, kundi sisidlan ng alaala, batas ng pamayanan, paggalang sa ninuno, at karunungan tungkol sa tao, lupa, espiritu, at kapalaran. Noong unang panahon, kapag dumarating ang gabi at ang apoy sa gitna ng bahay ay nagliliwanag, nagtitipon ang mga bata, matatanda, mandirigma, magsasaka, mangangaso, at baylan upang makinig sa tagapag-awit. Hindi minamadali ang Ulahingan. Ito ay inaawit nang mahaba, may indayog, may lalim, at may bigat ng mga pangalang dapat tandaan. Sa bawat bahagi nito, nabubuhay ang gubat, ilog, bundok, espiritu, at bayaning si Lumabet. Para sa mga nakikinig, ang epiko ay parang mahabang paglalakbay sa dilim na may dalang tanglaw. Habang tumatagal ang awit, hindi lamang naririnig ng tao ang pakikipagsapalaran. Nararamdaman niya ang tibok ng isang lahing ayaw maputol ang sariling alaala."
+},
+{
+"chapter": 2,
+"title_fil": "Si Lumabet, Anak ng Dangal",
+"text_fil": "Sa puso ng Ulahingan ay si Lumabet, isang datung hindi lamang kilala sa lakas ng katawan, kundi sa talas ng isip at bigat ng pananagutan. Bata pa lamang siya ay napapansin na ng matatanda. Kapag ang ibang bata ay naglalaro nang walang ingat sa gilid ng gubat, si Lumabet ay nakikinig sa huni ng ibon at nagtatanong kung bakit biglang tumatahimik ang paligid. Kapag may alitan ang mga bata, hindi siya agad kumakampi sa kaibigan. Pinakikinggan muna niya ang magkabilang panig, saka nagsasalita nang mahinahon. Ang kanyang ama ay isang pinunong marunong magpatawad ngunit hindi nagpapatalo sa kasamaan. Ang kanyang ina naman ay may pusong gaya ng malalim na bukal, tahimik ngunit nagbibigay-buhay. Mula sa kanila natutuhan ni Lumabet na ang tunay na datu ay hindi ang unang kumakain, kundi ang huling natutulog dahil sinisiguro niyang ligtas ang lahat. Hindi siya lumaki sa luho. Lumaki siya sa aral ng lupa: kung magtanim ka, maghintay; kung kukuha ka, magpasalamat; kung lalaban ka, alamin muna kung bakit. Kaya nang siya ay tawagin ng tadhana, hindi siya tumayo bilang taong naghahanap ng kapangyarihan. Tumayo siya bilang anak ng bayang kailangang ipagtanggol."
+},
+{
+"chapter": 3,
+"title_fil": "Ang Bayan sa Gilid ng Ilog",
+"text_fil": "Ang pamayanan ni Lumabet ay nakatayo malapit sa isang ilog na bumababa mula sa kabundukan at dumadaan sa malawak na kapatagan. Sa ilog na iyon kumukuha ng tubig ang mga ina, nangingisda ang mga ama, naliligo ang mga bata, at nagtitipon ang matatanda upang pag-usapan ang mahahalagang pasya. Sa paligid nito ay may taniman ng palay, mais, kamote, saging, at halamang gamot. Sa likod ng pamayanan ay ang gubat, malawak at mahiwaga, tahanan ng baboy-damo, usa, ibon, ahas, punong matanda, at mga espiritung hindi dapat bastusin. Ang mga Livunganen-Arumanen Manobo sa salaysay ay marunong makisama sa paligid. Bago pumutol ng puno, humihingi sila ng paalam. Bago mangaso, nagdarasal sila upang hindi sila kumuha nang sobra. Kapag may batang unang natutong magtanim, tinuturuan siyang humawak sa lupa nang may paggalang. Sa bayang ito lumaki si Lumabet, at dito niya unang naunawaan na ang pamayanan ay hindi binubuo ng mga bahay lamang. Binubuo ito ng ugnayan: tao sa tao, tao sa ilog, tao sa gubat, tao sa ninuno, at tao sa mga batang hindi pa ipinapanganak."
+},
+{
+"chapter": 4,
+"title_fil": "Ang Panaginip ng Baylan",
+"text_fil": "Isang gabi, nanaginip ang pinakamatandang baylan ng pamayanan. Sa panaginip, nakita niya ang isang malaking punong nakatayo sa gitna ng kapatagan. Malalim ang ugat nito, malapad ang lilim, at sa bawat sanga ay may nakaukit na pangalan ng mga ninuno. Ngunit mula sa malayo, may itim na usok na gumagapang patungo sa puno. Kapag dinaanan ng usok ang damo, nalalanta ito. Kapag hinawakan nito ang tubig, lumalabo ang agos. Kapag umabot ito sa hayop, nagtatago ang mga ito sa takot. Sa gitna ng panaginip, narinig ng baylan ang tinig ng mga espiritu ng lupa. Sinabi nilang darating ang pagsubok sa pamayanan. May mga kaaway na hindi lamang tao, kundi mga nilalang ng dilim, inggit, gutom, at paglimot. Kung hindi magigising ang bayan, mawawala ang kanilang gubat, kanilang awit, at kanilang dangal. Pagkagising ng baylan, tinipon niya ang matatanda at hinanap si Lumabet. Nang dumating ang binata, matagal siyang tinitigan ng baylan. Pagkatapos ay sinabi nitong ang panaginip ay may hinahanap na tagapagdala. Hindi raw sapat ang lakas ng bisig. Kailangan ang pusong marunong umintindi ng bigat ng bayan. At nakita niya ang tanda kay Lumabet."
+},
+{
+"chapter": 5,
+"title_fil": "Ang Pagtanggap sa Tungkulin",
+"text_fil": "Hindi agad tinanggap ni Lumabet ang sinabi ng baylan. Hindi dahil siya ay duwag, kundi dahil alam niyang mabigat ang tungkulin ng isang bayani. Ang taong madaling tumanggap ng kapangyarihan ay maaaring hindi pa nauunawaan ang bigat nito. Nang gabing iyon, umupo siya sa tabi ng ilog at pinakinggan ang agos. Tinanong niya ang sarili kung kaya ba niyang ipagtanggol ang pamayanan kung dumating ang panganib. Kaya ba niyang humarap sa kaaway nang hindi nagiging malupit? Kaya ba niyang magpasya kung may masasaktan sa alinmang piliin? Habang nag-iisip siya, may lumutang na dahon sa ilog. Umikot ito sa harap niya at hindi tinangay ng agos. Mula sa tubig ay tila may tinig na nagsabi: Ang ilog ay hindi nagtatanong kung kaya niyang makarating sa dagat. Dumadaloy siya, humaharap sa bato, lumilihis kung kailangan, lumalakas kung dapat, at nagpapatuloy. Naunawaan ni Lumabet ang aral. Ang tungkulin ay hindi tinatanggap dahil alam mong madali. Tinatanggap ito dahil may kailangang alagaan. Kinabukasan, humarap siya sa matatanda, yumuko, at sinabing hindi niya ipinangangakong hindi siya magkakamali. Ipinangako lamang niyang makikinig siya sa bayan, sa ninuno, sa kalikasan, at sa katotohanan."
+},
+{
+"chapter": 6,
+"title_fil": "Ang Sandata ng Ninuno",
+"text_fil": "Matapos tanggapin ni Lumabet ang tungkulin, dinala siya ng baylan sa isang lumang bahay na bihirang pasukin ng kabataan. Sa loob nito ay nakatago ang mga gamit ng mga ninuno: lumang kalasag, pulseras na tanso, palamuting may butil, damit na may burda, at isang sandatang nakabalot sa hinabing tela. Hindi ito basta armas na ginagamit sa galit. Ito ay sandatang ipinapasa lamang sa taong may dangal na sapat upang hindi abusuhin ang lakas nito. Nang buksan ng baylan ang tela, lumitaw ang isang kampilan na ang talim ay tila may kinang ng buwan at ang hawakan ay may ukit na dahon, ilog, at pakpak ng ibon. Sinabi ng baylan na ang sandatang ito ay hindi susunod sa kamay na sakim. Hindi ito titibay para sa taong lumalaban upang magmayabang. Lalakas lamang ito sa kamay ng taong nagtatanggol, nagliligtas, at marunong tumigil kapag tapos na ang laban. Hinawakan ni Lumabet ang kampilan, at sa sandaling iyon ay naramdaman niya ang bigat ng maraming salinlahi. Hindi ito bigat ng bakal lamang. Bigat ito ng tiwala. Kaya sa halip na itaas ang sandata upang ipakita ang lakas, inilapat niya ito sa lupa at nangakong ang unang gagamitin niya ay hindi talim, kundi pag-iisip."
+},
+{
+"chapter": 7,
+"title_fil": "Ang Unang Pagsubok sa Gubat",
+"text_fil": "Hindi nagtagal, dumating ang unang pagsubok. May mga mangangaso mula sa malayong pook na pumasok sa sagradong bahagi ng gubat. Hindi sila humingi ng paalam, hindi nila sinunod ang panahon ng pangangaso, at hinuli nila pati mga hayop na may inaalagaang anak. Dahil dito, nagulo ang gubat. Tumigil ang mga ibon sa pag-awit, lumayo ang mga usa, at nagkasakit ang ilang halaman na ginagamit na gamot ng pamayanan. Pinakiusapan ng matatanda si Lumabet na kumilos. Sumama siya sa ilang kasama, ngunit nagbilin siyang huwag agad manakit. Sinundan nila ang bakas ng mga mangangaso hanggang sa makita silang naglalagay ng bitag malapit sa isang bukal. Humarap si Lumabet at sinabing ang gubat ay hindi palengke na maaaring kunin ang lahat. Ito ay tahanan. Tinawanan siya ng mga dayo at tinawag na batang datu na takot gumamit ng sandata. Ngunit nang subukin nilang saktan ang isang sugatang usa, tumayo si Lumabet sa pagitan. Mabilis ang kanyang galaw, ngunit hindi siya pumatay. Sinira niya ang mga bitag, pinawalan ang hayop, at pinauwi ang mga mangangaso dala ang babalang huwag nang babalik nang walang paggalang. Sa gabing iyon, muling humuni ang mga ibon. Nalaman ng bayan na si Lumabet ay marunong lumaban, ngunit mas marunong pumigil."
+},
+{
+"chapter": 8,
+"title_fil": "Ang Itim na Usok sa Kapatagan",
+"text_fil": "Pagkaraan ng ilang buwan, unti-unting nagkatotoo ang panaginip ng baylan. Sa malayong bahagi ng kapatagan, may lumitaw na itim na usok tuwing dapithapon. Noong una, inakala ng mga tao na usok lamang ito mula sa sinusunog na damo. Ngunit habang tumatagal, napansin nilang saanman ito dumaan ay naninilaw ang dahon, nanghihina ang hayop, at nagiging magagalitin ang mga tao. Ang magkakapitbahay na dating nagtutulungan ay biglang nag-aaway sa maliit na bagay. Ang mga magkakapatid ay nagkakaroon ng inggitan. Ang mga bata ay nagkakasakit ng lagnat na walang dahilan. Tinawag ng baylan ang usok na Anino ng Paglimot, isang espiritung nabubuhay kapag ang tao ay nakakalimot sa sariling ugat, sa pangako sa lupa, at sa paggalang sa kapwa. Hindi ito madaling talunin ng sandata, sapagkat wala itong katawan na basta masasaksak. Pumapasok ito sa isip, sa salita, at sa pagnanasa. Sinabi ng baylan kay Lumabet na ang labanang ito ay mas mahirap kaysa pakikipagharap sa mandirigma. Kailangang ipaalala sa bayan kung sino sila bago tuluyang lamunin ng usok ang kanilang pagkakaisa."
+},
+{
+"chapter": 9,
+"title_fil": "Ang Pagtitipon ng mga Awit",
+"text_fil": "Upang labanan ang Anino ng Paglimot, hindi sandata ang unang ginamit ni Lumabet. Tinipon niya ang mga tagapag-awit, matatanda, manghahabi, manunugtog, magsasaka, mangangaso, at mga bata. Sa gitna ng pamayanan, nagsindi sila ng apoy at nagsimulang umawit ng mga lumang awit ng ninuno. Inawit nila ang pinagmulan ng ilog, ang pangalan ng mga unang nagbukas ng taniman, ang mga batas sa pangangaso, ang mga dasal bago mag-ani, at ang kuwento ng mga bayani bago pa man isinilang si Lumabet. Sa simula, mahina ang mga tinig. Marami ang nahihiya o nakalimot na ng ilang bahagi. Ngunit habang tumatagal, lumakas ang awit. Ang mga bata ay nagtanong, ang matatanda ay sumagot, at ang mga mandirigma ay yumuko habang naaalala ang mga tungkuling muntik na nilang makalimutan. Ang itim na usok sa gilid ng baryo ay umurong nang kaunti. Doon naunawaan ng lahat na ang alaala ay sandata rin. Kapag alam ng bayan ang sarili nitong kuwento, mas mahirap itong hatiin ng takot at kasinungalingan. Sinabi ni Lumabet na ang Ulahingan ay hindi lamang awit tungkol sa nakaraan. Ito ay tanglaw laban sa paglimot."
+},
+{
+"chapter": 10,
+"title_fil": "Ang Datu ng Madilim na Lambak",
+"text_fil": "Ngunit ang Anino ng Paglimot ay may pinagmumulan. Sa likod ng itim na usok ay ang Datu ng Madilim na Lambak, isang pinunong dating tao ngunit unti-unting nilamon ng kasakiman. Noong una, siya raw ay marunong mamuno. Ngunit nang matikman niya ang kapangyarihan, nais niyang ang lahat ay sumunod sa kanya. Ipinagbawal niya sa kanyang bayan ang lumang awit, sapagkat ayaw niyang maalala ng mga tao ang panahong malaya silang magpayo at tumutol. Pinutol niya ang mga punong sagrado, kinuha ang ani ng mahihina, at pinalayas ang mga baylan na nagsasabing mali ang kanyang ginagawa. Sa kanyang lupain, lumago ang usok ng paglimot hanggang kumalat ito sa ibang pamayanan. Nang malaman ni Lumabet ang katotohanan, naghanda siya sa paglalakbay. Ngunit bago siya umalis, sinabi ng kanyang ina na huwag niyang kalimutang ang taong nilamon ng dilim ay minsang may liwanag din. Kung kaya pang ibalik, subukang ibalik. Kung hindi na, pigilan nang hindi nagiging kasingdilim niya. Dinala ni Lumabet ang aral na iyon sa kanyang puso habang tinatahak ang daan patungo sa Madilim na Lambak."
+},
+{
+"chapter": 11,
+"title_fil": "Ang Paglalakbay sa Madilim na Lambak",
+"text_fil": "Mahaba at mabigat ang paglalakbay ni Lumabet patungo sa Madilim na Lambak. Dumaan siya sa gubat na walang huni ng ibon, ilog na halos hindi umaagos, at lupaing tila nakalimot tumubo. Sa bawat hakbang, naririnig niya ang mga bulong ng usok: Bakit mo pasanin ang bayan? Bakit hindi mo kunin ang kapangyarihan para sa sarili? Bakit mo iligtas ang mga taong maaaring kalimutan ka rin? Ngunit hindi siya nagpadaig. Sa tuwing humihina ang kanyang loob, hinahawakan niya ang lupa at inaalala ang mga batang nakaupo sa tabi ng apoy habang inaawit ang Ulahingan. Sa ikalawang gabi, nakasalubong niya ang isang matandang lalaki na nawalan ng pangalan dahil ipinagbawal ng datu ang pagbanggit sa kanilang angkan. Tinulungan ni Lumabet ang matanda at tinanong ang dati nitong pangalan. Sa unang pagkakataon matapos ang maraming taon, binigkas ito ng lalaki at napaluha. Biglang lumiwanag ang maliit na bahagi ng daan. Doon naunawaan ni Lumabet na sa Madilim na Lambak, ang pagbabalik ng pangalan ay pagbabalik ng kaluluwa. Bawat taong maalala ang sariling pinagmulan ay nagiging munting apoy laban sa usok."
+},
+{
+"chapter": 12,
+"title_fil": "Ang Harapan ng Dalawang Datu",
+"text_fil": "Sa gitna ng Madilim na Lambak, nakatayo ang bahay ng datung nilamon ng usok. Hindi ito maliwanag na torogan o tahanang bukas sa panauhin. Ito ay madilim, mabigat, at napapalibutan ng katahimikang dulot ng takot. Humarap si Lumabet sa Datu ng Madilim na Lambak. Malakas ang datu, at sa paligid niya ay umiikot ang itim na usok na tila balabal. Sinabi niyang hangal si Lumabet dahil ipinagtatanggol nito ang bayan sa halip na sakupin ito. Ayon sa kanya, ang tao raw ay sumusunod lamang sa lakas, hindi sa awit, hindi sa alaala, at hindi sa paggalang. Sumagot si Lumabet na ang lakas na walang alaala ay madaling maging salot. Ang pinunong pinapatahimik ang awit ng bayan ay pinapatay ang ugat ng sariling tahanan. Nagalit ang madilim na datu at sumugod. Nagsagupaan ang kanilang sandata, ngunit higit pa sa talim ang naglalaban. Sa bawat hampas ng datu, lumalabas ang utos, takot, at kasakiman. Sa bawat depensa ni Lumabet, naroon ang pangalan ng ninuno, awit ng bayan, at malinaw na agos ng ilog. Mahaba ang kanilang laban, at tila yumayanig ang buong lambak sa bigat ng dalawang pananaw: kapangyarihang nang-aangkin laban sa pamumunong naglilingkod."
+},
+{
+"chapter": 13,
+"title_fil": "Ang Awit na Pumunit sa Usok",
+"text_fil": "Habang lumalakas ang labanan, napansin ni Lumabet na kahit matalo niya sa sandata ang madilim na datu, mananatili ang usok kung patuloy na tahimik ang mga tao sa lambak. Kaya gumawa siya ng kakaibang pasya. Ibinaba niya ang kampilan at nagsimulang umawit ng Ulahingan. Sa una, natawa ang madilim na datu. Ngunit habang umaalingawngaw ang tinig ni Lumabet, gumalaw ang lupa. Ang awit ay hindi lamang himig; dala nito ang pangalan ng mga ninuno, ang kuwento ng unang ilog, ang batas ng gubat, ang dangal ng pamayanan, at ang alaala ng mga taong pinatahimik. Isa-isang lumabas ang mga tao mula sa kanilang mga bahay. May matandang sumabay sa isang linya. May babaeng umalala ng dating awit ng kanyang ina. May batang nagtanong kung ano ang pangalan ng kanilang angkan. Habang dumadami ang tinig, napunit ang itim na usok. Ang Datu ng Madilim na Lambak ay nanghina, sapagkat ang kapangyarihan niya ay nakasalalay sa paglimot ng mga tao. Nang maalala nila ang kanilang sarili, nawala ang takot na nagpapalakas sa kanya. Lumuhod ang datu, hindi dahil pinatay siya ni Lumabet, kundi dahil natalo siya ng awit ng bayang muling nagising."
+},
+{
+"chapter": 14,
+"title_fil": "Ang Pagbabalik ng Liwanag sa Lambak",
+"text_fil": "Matapos mapunit ang usok, unti-unting bumalik ang liwanag sa Madilim na Lambak. Hindi biglaan ang paggaling. Ang mga punong pinutol ay hindi agad tumubo. Ang ilog na napabayaan ay hindi agad luminaw. Ang mga taong matagal na natakot ay hindi agad natutong magtiwala. Ngunit nagsimula ang pagbabago. Tinipon ni Lumabet ang mga tao at sinabi na hindi sapat na matalo ang masamang datu. Kailangang ayusin ang nasira. Kailangang ibalik ang mga pangalan, awit, batas ng gubat, at paggalang sa isa’t isa. Ang dating datu ay hindi pinatay. Inalis siya sa kapangyarihan at pinaharap sa mga taong kanyang sinaktan. Pinagawa siya sa pagtatanim ng puno, paglilinis ng ilog, at pakikinig sa mga kuwentong minsan niyang ipinagbawal. May ilang hindi agad nagpatawad, at hindi sila pinilit ni Lumabet. Sinabi niyang ang pagpapatawad ay hindi utos na ibinababa mula sa mataas. Ito ay binhing tumutubo lamang kapag may panahon, katotohanan, at pagbabago. Nang umalis si Lumabet sa lambak, may mga batang umaawit na sa paligid ng apoy. Hindi pa buo ang kanilang tinig, ngunit sapat na iyon upang malaman niyang nagsimula nang bumalik ang buhay."
+},
+{
+"chapter": 15,
+"title_fil": "Ang Pag-uwi ni Lumabet",
+"text_fil": "Pagbalik ni Lumabet sa sariling pamayanan, sinalubong siya ng mga tao hindi lamang bilang mandirigmang nagwagi, kundi bilang tagapagbalik ng awit. Ngunit napansin ng kanyang ina na pagod ang kanyang mga mata. Ang paglalakbay sa Madilim na Lambak ay nag-iwan ng bigat sa kanyang puso. Nakita niya kung gaano kadaling mawala ang alaala kapag pinatahimik ang mga tagapagkuwento. Nakita niya kung paano nagiging mahina ang tao kapag kinalimutan ang pangalan ng sariling ninuno. Kaya tinipon niya ang pamayanan at sinabi na ang kanilang tagumpay ay hindi dapat maging dahilan ng pagpapahinga. Kailangang ipagpatuloy ang pag-awit ng Ulahingan. Kailangang turuan ang mga bata hindi lamang ng paggamit ng sandata o paggawa sa bukid, kundi ng mga kuwento, pangalan, batas, at aral. Sa araw na iyon, itinatag nila ang gabi ng pag-awit, kung saan bawat pamilya ay magdadala ng bata upang makinig sa matatanda. Ang mga bata ay maaaring magtanong, ang matatanda ay maaaring magtama, at ang mga tagapag-awit ay maaaring magpasa ng himig. Sinabi ni Lumabet na ang bayan ay hindi lamang naliligtas sa araw ng labanan. Naliligtas ito gabi-gabi, tuwing may batang natututong makinig."
+},
+{
+"chapter": 16,
+"title_fil": "Ang Pag-akyat ni Lumabet",
+"text_fil": "Sa huling bahagi ng salaysay, sinasabing dumating ang panahon na tinawag si Lumabet ng mga espiritu ng itaas na daigdig. Hindi dahil tapos na ang pangangailangan ng tao sa kanya, kundi dahil may bagong tungkulin siyang gagampanan bilang tagapagbantay ng alaala. Isang umaga, umakyat siya sa mataas na bundok dala ang kampilan ng ninuno, isang dahon mula sa sagradong puno, tubig mula sa ilog, at abo mula sa apoy ng gabi ng pag-awit. Sinamahan siya ng baylan, ng kanyang pamilya, at ng ilang kabataang minsan niyang tinuruan. Sa tuktok ng bundok, tumayo siya at tumingin sa buong lupain: ilog, gubat, taniman, bahay, at daang nilakaran ng kanyang bayan. Sinabi niya na ang tao ay hindi nabubuhay magpakailanman, ngunit ang aral ay maaaring magpatuloy kung may magdadala. Pagkatapos, umihip ang malakas na hangin. May nagsasabing ang katawan ni Lumabet ay naging liwanag at umakyat sa langit. May nagsasabing siya ay naging espiritung nagbabantay sa mga tagapag-awit. May nagsasabing siya ay nanatili sa bundok, nakikinig kung buhay pa ang Ulahingan sa mga tahanan. Anuman ang anyo ng kanyang paglisan, iisa ang paniniwala ng matatanda: hindi nawala si Lumabet. Naging bahagi siya ng awit."
+},
+{
+"chapter": 17,
+"title_fil": "Ang Panata ng mga Tagapag-awit",
+"text_fil": "Matapos ang pag-akyat ni Lumabet, lalong naging mahalaga sa pamayanan ang tungkulin ng mga tagapag-awit. Hindi sila itinuring na simpleng tagapaglibang. Sila ay tagapag-ingat ng alaala, tagapagdala ng batas, at tagapagturo ng dangal sa pamamagitan ng himig. Bago umawit ang isang tagapag-awit, naghuhugas siya ng kamay, humihinga nang malalim, at inaalala ang mga ninuno. Alam niyang ang bawat maling pangalan ay maaaring makasugat sa alaala. Ang bawat nakalimutang aral ay maaaring maging puwang ng paglimot. Kaya mahaba ang pagsasanay. Ang bata ay unang nakikinig, pagkatapos ay inuulit ang maiikling bahagi, pagkatapos ay natututong humawak ng himig, at kalaunan ay natututong magdala ng buong salaysay. Hindi lahat ay nagiging tagapag-awit, ngunit lahat ay kailangang maging tagapakinig. Sapagkat ang awit na walang nakikinig ay parang ilog na hinarangan. Sa bawat gabi ng Ulahingan, pinapaalalahanan ang pamayanan na ang kanilang pagkakakilanlan ay hindi lamang nasa damit, pangalan, o lupang tinatapakan. Nasa kuwentong kanilang inaalagaan. Hangga’t may umaawit at may nakikinig, hindi tuluyang makababalik ang Anino ng Paglimot."
+},
+{
+"chapter": 18,
+"title_fil": "Ang Pamanang Hindi Dapat Malimot",
+"text_fil": "Hanggang ngayon, ang Ulahingan ay dapat alalahanin hindi lamang bilang lumang epiko ng mga Livunganen-Arumanen Manobo, kundi bilang buhay na pamana ng isang pamayanang marunong tumingin sa nakaraan upang gabayan ang kasalukuyan. Sa kuwento ni Lumabet, makikita ang mukha ng pinunong hindi naghahanap ng kapangyarihan para sa sarili, kundi gumagamit ng lakas upang protektahan ang tao, gubat, ilog, at alaala. Sa Anino ng Paglimot, makikita ang panganib na dumarating kapag pinabayaan ang wika, awit, batas ng ninuno, at ugnayan sa kalikasan. Sa Gabi ng Pag-awit, makikita ang lunas: sama-samang pakikinig, pagtatanong, pag-alala, at pagpasa ng karunungan sa bata. Ang Ulahingan ay nagtuturo na ang bayani ay hindi lamang lumalaban sa kaaway na may sandata. Lumalaban din siya sa paglimot, kasakiman, pagkakawatak, at katahimikang pumapatay sa kultura. Kaya habang may ilog na aagos sa Cotabato, may gubat na babantayan, may batang uupo sa tabi ng apoy, may matandang handang umawit, at may pamayanang pipiliing alalahanin ang sariling pinagmulan, mananatiling buhay ang Ulahingan — awit ng Manobo, liwanag laban sa dilim, at pamanang hindi dapat mapatid."
+}
+]
 }

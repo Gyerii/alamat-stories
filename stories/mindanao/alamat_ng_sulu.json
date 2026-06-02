@@ -1,17 +1,70 @@
 {
-  "id": "alamat_ng_sulu",
-  "region": "Sulu, BARMM, Mindanao",
-  "category": "lalawigan",
-  "emoji": "⚓",
-  "title_fil": "Alamat ng Sulu",
-  "title_eng": "Legend of Sulu",
-  "chapters": [
-    {
-      "chapter": 1,
-      "title_fil": "Ang Kaharian sa Dagat",
-      "title_eng": "The Kingdom on the Sea",
-      "text_fil": "Ang Sulu ay isa sa pinakamakapangyarihang kaharian sa kasaysayan ng Pilipinas. Ang Sultanate of Sulu ay naging sentro ng kalakalan at kultura sa buong Timog Silangang Asya. Ayon sa alamat ng mga Tausug, ang kanilang kaharian ay itinayo ng isang dakilang sultan na pinili ng mga bituin. Sa gabi na ipinanganak siya, ang lahat ng bituin sa langit ay nagliwanag nang dobleng liwanag bilang tanda ng kanyang kadakilaan.",
-      "text_eng": "Sulu is one of the most powerful kingdoms in the history of the Philippines. The Sultanate of Sulu became a center of trade and culture throughout Southeast Asia. According to the legend of the Tausug, their kingdom was built by a great sultan chosen by the stars. On the night he was born, all the stars in the sky shone with double brightness as a sign of his greatness."
-    }
-  ]
+"id": "alamat_ng_sulu",
+"region": "Sulu, BARMM, Mindanao",
+"category": "lalawigan",
+"emoji": "⚓",
+"image": "alamat_ng_sulu.png",
+"title_fil": "Alamat ng Sulu",
+"chapters": [
+{
+"chapter": 1,
+"title_fil": "Ang Kaharian sa Dagat",
+"text_fil": "Sa timog-kanlurang bahagi ng kapuluan, kung saan ang dagat ay hindi hangganan kundi daan, naroon ang Sulu—lupain ng alon, pulo, perlas, bangka, masjid, bituin, at matatapang na pusong sanay mabuhay sa pagitan ng tubig at langit. Sa mga lumang salaysay ng mga Tausug, ang kanilang lupain ay tinatawag na Lupah Sug, ang lupain ng agos, sapagkat ang buhay dito ay laging gumagalaw tulad ng tubig: may dumarating, may umaalis, may nakikipagkalakalan, may nagdarasal, may naglalayag, at may bumabalik na dala ang balita mula sa malalayong pampang. Bago pa dumating ang maraming dayuhang naghahangad sa yaman ng dagat, may mga pamayanang nakatayo na sa mga pulo ng Sulu, may mga pinunong nakikipag-usap sa kapwa pinuno, may mga mangangalakal na marunong sa halaga ng perlas at trepang, at may mga tagapagkuwento na nagbabantay sa alaala ng lahi. Sinasabi ng matatanda na ang Sulu ay hindi itinayo sa lupa lamang. Itinayo ito sa tiwala sa dagat, sa gabay ng bituin, at sa dangal ng salitang binitawan."
+},
+{
+"chapter": 2,
+"title_fil": "Ang Batang Pinili ng mga Bituin",
+"text_fil": "Noong unang panahon, sa isang gabing napakalinaw ng langit, isinilang ang batang lalaki na tatawaging Sulayman sa isang pook malapit sa baybayin ng Jolo. Sa sandaling una siyang umiyak, biglang lumiwanag ang mga bituin na tila doble ang ningning kaysa karaniwan. Ang mga mangingisdang nasa laot ay tumigil sa pagsagwan. Ang mga ina sa mga kubo ay lumabas upang tumingala. Ang mga matatandang pandita at tagapagbantay ng kasaysayan ay nagsabing may batang ipinanganak na may tungkuling higit sa sariling pamilya. Hindi siya isinilang upang maghari lamang, kundi upang matutong makinig sa agos ng tao at dagat. Lumaki si Sulayman na hindi pinalaki sa yabang. Tinuruan siya ng kanyang ina na ang tunay na maharlika ay marunong yumuko sa matatanda, tumulong sa mahina, at magpasalamat sa biyaya. Tinuruan siya ng kanyang ama na ang pinunong hindi marunong maglayag sa bagyo ay hindi karapat-dapat humawak ng timon ng bayan. Kaya bata pa lamang siya, alam na niyang ang bituin ay hindi korona; ito ay mata ng langit na nagbabantay kung karapat-dapat ba ang pinili nito."
+},
+{
+"chapter": 3,
+"title_fil": "Ang Panglima ng Alon",
+"text_fil": "Nang si Sulayman ay tumuntong sa kabataan, ipinadala siya upang matuto sa isang matandang panglima na nagngangalang Apu Indanan. Si Apu Indanan ay hindi lamang mandirigma. Siya ay mandaragat, tagapamagitan, hukom ng alitan sa pampang, at tagapagturo ng mga kabataang nais maging tagapagtanggol ng Lupah Sug. Dinala niya si Sulayman sa bangkang vinta na may makulay na layag, at doon itinuro ang unang aral: ang dagat ay hindi sumusunod sa utos ng tao, kaya ang taong naglalayag ay dapat matutong makibagay. Kapag sumalungat ka sa agos nang walang isip, mapapagod ka bago makarating. Kapag sinundan mo naman ang agos nang walang layunin, dadalhin ka nito saanman nito gusto. Ang tunay na mandaragat ay marunong pumili kung kailan susunod, kailan sasalungat, at kailan maghihintay. Sa mga gabing nasa laot sila, itinuro rin ni Apu Indanan ang pagbabasa ng bituin. Ang bawat tala ay parang titik sa aklat ng langit. Ngunit binalaan niya si Sulayman: ang bituin ay gabay lamang, hindi kapalit ng konsensiya. Kahit malinaw ang langit, maliligaw pa rin ang taong madilim ang hangarin."
+},
+{
+"chapter": 4,
+"title_fil": "Ang Perlas ng Kailaliman",
+"text_fil": "Isang araw, habang naglalayag sila sa malinaw na tubig, nakita ni Sulayman ang mga maninisid na bumababa sa kailaliman upang humanap ng perlas. Matagal silang lumulubog, hawak ang hininga, umaasa sa lakas ng dibdib at tiwala sa kasama. Kapag umaahon sila, minsan wala silang dala; minsan may kabibe; at bihirang-bihira, may perlas na kumikislap na parang bilog na buwan. Tinanong ni Sulayman kung bakit napakahalaga ng perlas. Sumagot ang isang matandang maninisid, 'Mahalaga ito hindi lamang dahil maganda. Mahalaga ito dahil ipinanganak sa loob ng sugat ng kabibe. Ang kinang nito ay bunga ng pagtitiis.' Tumimo sa puso ng binata ang aral. Naunawaan niya na ganoon din ang Sulu. Ang ganda nito ay hindi hiwalay sa pagsubok: alon, pananalakay, kalakalan, pananampalataya, pag-uusap, at digmaang minsang dumarating sa pampang. Ang tunay na pinuno ay hindi dapat masilaw sa perlas hanggang makalimutan ang kabibing nagtiis upang ito ay mabuo. Mula noon, kapag nakakakita si Sulayman ng perlas, naaalala niyang ang yaman ng bayan ay dapat protektahan, hindi pag-awayan."
+},
+{
+"chapter": 5,
+"title_fil": "Ang Pagdating ng mga Guro ng Pananampalataya",
+"text_fil": "Sa paglipas ng panahon, dumating sa Sulu ang mga mangangalakal, manlalakbay, iskolar, at guro ng pananampalataya mula sa malalayong lupain. May dalang tela, pabango, aklat, kuwento, at aral ng Islam na unti-unting nag-ugat sa buhay ng mga tao. Sa mga lumang salaysay, mahalaga ang pagdating ng mga marurunong na nagdala ng kaalaman, batas, at pananampalatayang nagbigay ng bagong anyo sa pamamahala at pamumuhay. Hindi ito dumating na parang unos na pumunit sa lahat ng luma, kundi parang agos na nakipagtagpo sa dati nang daloy ng kultura. May mga pamayanang natuto ng bagong dasal, bagong pagtingin sa katarungan, at bagong pag-uugnay ng tao sa Maykapal. Si Sulayman ay nakinig sa mga guro. Tinanong niya kung paano nagiging makatarungan ang pinuno. Sumagot ang isa: 'Ang pinunong malapit sa Diyos ay hindi yaong malakas lamang magpahayag ng pananampalataya, kundi yaong hindi nananakop ng mahina, hindi nagnanakaw sa taumbayan, at hindi ginagawang palamuti ang batas.' Mula noon, naging malinaw kay Sulayman na ang kaharian sa dagat ay kailangang may haliging espirituwal, hindi lamang sandata at barko."
+},
+{
+"chapter": 6,
+"title_fil": "Ang Buansa at ang Unang Pagtitipon",
+"text_fil": "Sa isang mahalagang araw, nagtipon ang mga datu, panglima, pandita, mangangalakal, maninisid, panday, kababaihan, at kinatawan ng mga pulo sa isang pook na tinatawag sa mga lumang salaysay na Buansa. Doon pinag-usapan kung paano pamumunuan ang lumalaking kapangyarihan sa dagat. Hindi sapat na malakas ang bawat pulo kung hiwa-hiwalay ang loob. Hindi sapat na may yaman ang Sulu kung walang katarungang magbabantay sa yaman. Hindi sapat na may bangka kung walang patutunguhan ang paglalayag. Sa gitna ng pagtitipon, tumayo si Sulayman. Hindi niya sinabi na siya ang pinili dahil lumiwanag ang mga bituin noong siya ay isinilang. Sa halip, sinabi niya: 'Kung ang bituin ay nagbigay sa akin ng tungkulin, kayo ang susukat kung tinutupad ko ito. Ang pinuno ay hindi dagat na nilulunok ang lahat. Siya ay timon na tumutulong sa bangkang makarating nang ligtas.' Dahil sa kanyang kababaang-loob, karunungan, at tapang, kinilala siya ng marami bilang pinunong karapat-dapat humawak ng mas mabigat na tungkulin. Sa alamat, mula roon nagsimulang tumibay ang kahariang magiging sagisag ng dangal ng Sulu."
+},
+{
+"chapter": 7,
+"title_fil": "Ang Ruma Bichara ng mga Matatanda",
+"text_fil": "Alam ni Sulayman na ang pinunong mag-isa ay madaling maligaw. Kaya itinayo niya ang isang lupon ng pag-uusap na tinawag ng matatanda sa alamat bilang bahay ng bichara, ang tahanan ng talakayan. Dito hindi lamang tinig ng makapangyarihan ang pinakikinggan. Naroon ang datu na may alagang bayan, ang pandita na may aral ng pananampalataya, ang mangangalakal na may balita ng daungan, ang maninisid na may alam sa dagat, ang panday na gumagawa ng sandata at kasangkapan, at ang matatandang babae na nakaaalam ng kabuhayan ng tahanan. Tuwing may usapin tungkol sa kalakalan, digmaan, kasal, alitan, buwis, o parusa, pinipilit nilang makinig muna bago magpasiya. Sinasabi ni Sulayman na ang batas na hindi nakikinig ay parang bangkang may isang sagwan lamang: umiikot ngunit hindi umaabante. Mula noon, naging aral sa Sulu na ang dangal ng sultan ay hindi nasusukat sa dami ng sumusunod sa kanya, kundi sa dami ng napoprotektahan niya mula sa maling pasya. Ang karunungan ay hindi mahina; ito ang pinakamatalim na sandata kapag hawak ng pusong may takot sa Maykapal."
+},
+{
+"chapter": 8,
+"title_fil": "Ang Daungan ng Kalakalan",
+"text_fil": "Sa ilalim ng maayos na pamumuno, lumakas ang Sulu bilang daungan ng kalakalan. Dumating ang mga bangka mula sa Borneo, Malay, China, Makassar, Zamboanga, Palawan, at iba pang pampang. May nagdala ng sutla, porselana, bakal, pabango, palamuti, at aklat. Ang mga taga-Sulu naman ay nagdala ng perlas, trepang, kabibe, isda, halamang dagat, at iba pang yaman ng kapuluan. Sa pamilihan, maraming wika ang maririnig, ngunit iisa ang hinihingi ng mabuting kalakalan: tiwala. Binalaan ni Sulayman ang mga mangangalakal na ang pandaraya sa timbang ay hindi maliit na kasalanan, sapagkat sinisira nito ang dangal ng daungan. Ang sinungaling na nagbebenta ay maaaring kumita sa isang araw ngunit mawawalan ng pangalan sa mahabang panahon. Sa bawat barkong umaalis, dala nito hindi lamang produkto kundi balita tungkol sa ugali ng Sulu. Kaya ipinag-utos niyang tratuhin nang may respeto ang panauhin, ngunit ipagtanggol din ang sariling bayan laban sa mapanlinlang. Sa alamat, ang Sulu ay naging parang perlas sa gitna ng dagat: maliit kung titingnan sa mapa, ngunit malaki ang kinang sa daan ng kalakalan."
+},
+{
+"chapter": 9,
+"title_fil": "Ang Ukkil sa Kahoy at Puso",
+"text_fil": "Hindi lamang kalakalan at pamumuno ang nagbigay ng ningning sa Sulu. May sining din itong marunong magsalita kahit walang salita. Sa mga bangka, tahanan, sandata, kahon, at palamuti, makikita ang ukkil—mga ukit na paikot, dahon, alon, bulaklak, at hugis na tila gumagalaw sa kahoy at metal. Isang araw, dinala si Sulayman sa pagawaan ng isang matandang manlililok na nagngangalang Hadji Ukkab. Ipinakita nito ang isang piraso ng kahoy na payak pa lamang. Sa kamay ng bihasang tagaukit, unti-unti itong nagkaroon ng buhay. Tinanong ni Sulayman kung bakit paikot-ikot ang disenyo. Sumagot ang matanda, 'Sapagkat ang buhay sa Sulu ay hindi tuwid na guhit. Ito ay agos, pagbalik, pag-ikot, paglalayag, at pag-uwi. Ang ukkil ay alaala ng dagat na ginawang anyo.' Naunawaan ni Sulayman na ang sining ay hindi palamuti lamang. Ito ay paraan ng bayan upang ipahayag ang kanyang kaluluwa. Kaya sinabi niya na ang kaharian ay dapat ukitan hindi lamang sa kahoy, kundi sa puso: ng dangal, pananampalataya, tapang, at awa."
+},
+{
+"chapter": 10,
+"title_fil": "Ang Pagsubok ng Digmaan at Alon",
+"text_fil": "Ngunit walang kahariang nasa dagat ang hindi sinusubok ng unos. Dumating ang mga panahon ng pag-aagawan sa kapangyarihan, pananalakay, paghihiganti, at pagdating ng mga dayuhang may sariling layunin. May mga pulo na nangamba, may mga pamilya na lumikas, may mga bangkang hindi na nakabalik, at may mga pinunong natuksong gamitin ang dahas bago ang pag-uusap. Sa ganitong panahon nasubok si Sulayman. Madaling mag-utos ng digmaan kapag galit ang tao; mas mahirap maghanap ng kapayapaang hindi nagbebenta ng dangal. Tinipon niya ang mga panglima at sinabi, 'Ipagtanggol natin ang Lupah Sug kung kailangan, ngunit huwag nating hayaang maging pagkain ng apoy ang ating puso. Ang mandirigmang walang awa ay nagiging anino ng kaaway na kinamumuhian niya.' May mga labang hindi naiwasan, at may mga sugat na hindi agad naghilom. Ngunit sa alamat, palaging inuulit na ang pinakamalaking tagumpay ay hindi lamang ang pagtataboy sa kalaban, kundi ang pagpigil na kainin ng galit ang alaala ng bayan. Ang tunay na tapang ng Sulu ay hindi lamang nasa barong at kris, kundi sa kakayahang manatiling marangal sa gitna ng alon ng kasaysayan."
+},
+{
+"chapter": 11,
+"title_fil": "Ang Bituing Nahulog sa Jolo",
+"text_fil": "Nang tumanda si Sulayman, napansin ng mga tao na tuwing gabi ay may isang bituing mas maliwanag kaysa iba sa ibabaw ng Jolo. Sinasabi ng ilan na iyon ang bituing unang lumiwanag noong siya ay ipinanganak. Isang gabi, tinawag niya ang mga kabataan, pandita, datu, maninisid, mangangalakal, at ina ng pamayanan. Sinabi niyang ang kaharian ay hindi mananatili dahil lamang sa pangalan ng sultan. Mananatili ito kung iingatan ng bawat salinlahi ang apat na bagay: pananampalataya, katarungan, karunungan, at pagkakaisa. Pagkatapos niyang magsalita, may bituing tila nalaglag sa dagat ngunit hindi nagliyab. Sa lugar na tinamaan nito, may mangingisdang nakakita ng isang perlas na kakaiba ang kislap. Hindi ito kinuha ng sultan para sa sarili. Ipinatago niya ito sa masjid bilang paalala na ang yaman ng Sulu ay dapat nakayuko sa kabanalan at kapakanan ng bayan. Mula noon, sinasabi ng matatanda na kapag may pinunong nagiging sakim, lumalabo ang kislap ng perlas; kapag may pinunong makatarungan, muli itong nagniningning kahit nakatago."
+},
+{
+"chapter": 12,
+"title_fil": "Ang Pamana ng Lupah Sug",
+"text_fil": "Hanggang ngayon, kapag binabanggit ang Sulu, hindi lamang dapat maalala ang sigalot, balita, o takot na madalas idikit ng mga hindi nakakakilala sa lalawigan. Dapat ding maalala ang mas matandang kuwento nito: ang Lupah Sug na lupain ng agos, ang Tausug na anak ng dagat at pananampalataya, ang Sultanate of Sulu na minsang naging mahalagang kapangyarihang pandagat, ang mga mangangalakal na tumawid sa malalayong pampang, ang ukkil na nag-ukit ng alon sa kahoy, ang masjid na tumawag sa dasal, ang vinta na nagdala ng kulay sa tubig, ang perlas na ipinanganak sa tiyaga, at ang mga pamilyang patuloy na naghahangad ng kapayapaan at dangal. Sa alamat, ang bituin ni Sulayman ay hindi na nakikita ng lahat, ngunit naroon pa rin sa gabi ng Sulu. Gumagabay ito sa batang marunong makinig sa matatanda, sa pinunong inuuna ang katarungan, sa mandaragat na gumagalang sa alon, at sa mamamayang pinipiling bumuo sa halip na manira. Kaya ang Alamat ng Sulu ay kuwento ng kahariang isinilang sa dagat, pinatibay ng pananampalataya, pinayaman ng kalakalan, sinusubok ng kasaysayan, at patuloy na naghahanap ng kapayapaang kasinglinaw ng bituin sa ibabaw ng alon."
+}
+]
 }

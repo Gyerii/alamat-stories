@@ -1,17 +1,70 @@
 {
-  "id": "alamat_ng_misamis_oriental",
-  "region": "Misamis Oriental, Mindanao",
-  "category": "lalawigan",
-  "emoji": "🏔️",
-  "title_fil": "Alamat ng Misamis Oriental",
-  "title_eng": "Legend of Misamis Oriental",
-  "chapters": [
-    {
-      "chapter": 1,
-      "title_fil": "Ang Bundok at ang Dagat",
-      "title_eng": "The Mountain and the Sea",
-      "text_fil": "Ang Misamis Oriental ay isang lalawigan na kung saan nagtatagpo ang bundok at dagat. Ang mga Higaonon na naninirahan sa bundok at ang mga mangingisda sa baybayin ay may magkaparehong alamat tungkol sa isang higanteng nilalang na nagpuputol sa lupain. Ang kaliwa niyang kamay ay naging bundok at ang kanan ay naging dagat upang bigyan ng kinabuhayan ang lahat.",
-      "text_eng": "Misamis Oriental is a province where mountain and sea meet. The Higaonon living in the mountains and the fisherfolk on the coast share a common legend about a giant being who split the land. His left hand became the mountains and his right became the sea to provide livelihoods for all people."
-    }
-  ]
+"id": "alamat_ng_misamis_oriental",
+"region": "Misamis Oriental, Mindanao",
+"category": "lalawigan",
+"emoji": "🏔️",
+"image": "alamat_ng_misamis_oriental.png",
+"title_fil": "Alamat ng Misamis Oriental",
+"chapters": [
+{
+"chapter": 1,
+"title_fil": "Ang Tagpuan ng Bundok at Dagat",
+"text_fil": "Sa hilagang bahagi ng Mindanao, kung saan ang kabundukan ay unti-unting bumababa patungo sa dagat at ang mga ilog ay nagdadala ng malamig na tubig mula sa kagubatan hanggang sa maalat na baybayin, naroon ang Misamis Oriental. Hindi ito lupain ng bundok lamang, at hindi rin ito lupain ng dagat lamang. Ito ay tagpuan ng dalawa: ang taas na pinagmumulan ng ulan, punongkahoy, at sapa; at ang lawak na nagbibigay ng isda, daungan, hangin, at kabuhayan. Sa umaga, ang mga mangingisda ay lumulutang sa Macajalar Bay at Gingoog Bay, samantalang sa itaas ng kabundukan, ang mga Higaonon ay nakikinig sa huni ng ibon at lagaslas ng bukal. Sinasabi ng matatanda na ang lalawigang ito ay nilikha upang ipaalala na walang pamayanan ang nabubuhay sa iisang biyaya lamang. Ang isda sa dagat ay nangangailangan ng ilog na malinis. Ang bukid sa kapatagan ay nangangailangan ng bundok na may puno. Ang tao sa pampang ay nangangailangan ng taong nagbabantay sa kagubatan. Kaya ang alamat ng Misamis Oriental ay nagsisimula sa isang pangako: ang bundok at dagat ay hindi dapat paghiwalayin sa puso ng tao."
+},
+{
+"chapter": 2,
+"title_fil": "Si Misam, Anak ng Dalawang Hangin",
+"text_fil": "Noong unang panahon, sa isang pamayanang nasa pagitan ng gubat at baybayin, may batang lalaki na nagngangalang Misam. Anak siya ni Datu Malandag, isang Higaonon na marunong sa daan ng bundok, at ni Ina Salog, anak ng pamilyang mangingisda mula sa pampang. Dahil dito, lumaki si Misam na may dalawang mundo sa dibdib. Sa umaga, tinuturuan siya ng kanyang ama kung paano makilala ang punong nagbibigay ng gamot, kung paano basahin ang bakas ng usa, at kung bakit kailangang magpaalam bago kumuha sa gubat. Sa hapon, tinuturuan naman siya ng kanyang ina kung paano magtahi ng lambat, magbasa ng kulay ng tubig, at makinig sa hangin bago lumayag. May mga batang nagsasabing hindi niya alam kung taga-bundok ba siya o taga-dagat. Ngunit ngumingiti lamang si Misam, sapagkat para sa kanya, ang dalawang iyon ay iisang tahanan. Hindi pa niya alam na balang-araw, siya ang magiging tulay sa pagitan ng mga taong minsang nakalimot na magkakapatid ang bundok at dagat."
+},
+{
+"chapter": 3,
+"title_fil": "Ang Higanteng si Misangga",
+"text_fil": "Sa pinakamatandang kuwento ng kanilang angkan, may isang higanteng nagngangalang Misangga na unang naglakad sa lupain bago pa magkaroon ng mga bayan. Napakalaki raw niya na ang kanyang hakbang ay nagiging lambak, ang kanyang hininga ay nagiging hangin, at ang kanyang pag-upo ay nagiging burol. Nang makita niyang ang mga tao ay walang sapat na tirahan at kabuhayan, inilapag niya ang kanyang kaliwang kamay sa lupa at mula roon tumubo ang kabundukan. Sa mga daliri niya sumibol ang mga sapa, puno, halamang-gamot, at mga hayop ng gubat. Pagkatapos, inilapag niya ang kanyang kanang kamay sa dakong hilaga, at mula roon bumukas ang dagat. Sa palad niya lumitaw ang isda, kabibe, alon, at daungan ng mga bangka. Ngunit bago siya naglaho sa ulap, nag-iwan siya ng bilin: ang kaliwang kamay at kanang kamay ay bahagi ng iisang katawan. Kapag sinaktan ng tao ang bundok, mararamdaman iyon ng dagat. Kapag dinungisan ng tao ang dagat, babalik ang sakit sa lupa. Sa bilinging ito nakatali ang puso ng Misamis Oriental."
+},
+{
+"chapter": 4,
+"title_fil": "Ang Baylan sa Ilalim ng Balatukan",
+"text_fil": "Sa paanan ng mataas at makapangyarihang Bundok Balatukan, may isang matandang baylan na nagngangalang Apu Dawili. Siya ang tagapag-ingat ng mga awit ng Higaonon, mga ritwal ng paghingi ng pahintulot sa kalikasan, at mga kuwento tungkol sa espiritung naninirahan sa gubat. Ang kanyang kubo ay payak, ngunit sa paligid nito ay may mga halamang-gamot, batong hindi ginagalaw, at maliit na altar ng pasasalamat sa lupa. Dinala ni Datu Malandag si Misam kay Apu Dawili upang matuto. Tinanong ng matanda ang bata, 'Ano ang nakikita mo kapag tumitingin ka sa bundok?' Sumagot si Misam, 'Puno, bato, ulap, at tubig.' Umiling ang baylan at sinabi, 'Tama, ngunit kulang. Ang bundok ay alaala rin. Nasa kanya ang tubig na iinumin ng pampang, ang ugat na pipigil sa baha, ang lilim na magpapalamig sa lupa, at ang hininga ng mga ninunong nagbantay bago tayo dumating.' Mula noon, natutuhan ni Misam na hindi maaaring tawaging likas na yaman ang bundok kung yaman lamang ang nakikita at hindi ang buhay na binubuhay nito."
+},
+{
+"chapter": 5,
+"title_fil": "Ang Macajalar na May Pusong Bughaw",
+"text_fil": "Pagkatapos ng maraming araw sa bundok, bumaba si Misam sa baybayin kasama ang kanyang ina. Doon niya nakita ang Macajalar Bay na kumikislap sa umaga, puno ng bangka, ibon, at alon na tila kumakaway sa sinumang marunong makinig. Sa pampang, tinuruan siya ng kanyang lolo kung paano pumili ng tamang oras ng paglayag. Hindi raw sapat ang lakas ng bisig; kailangan ding kilalanin ang buwan, hangin, alon, at lalim. May mga araw na sagana ang huli at may mga araw na dapat hayaang magpahinga ang dagat. May mga bahaging hindi dapat gambalain dahil doon nangingitlog ang isda. May mga bakawang hindi dapat putulin dahil doon nagtatago ang maliliit na buhay bago lumabas sa laot. Isang gabi, habang nakatingin si Misam sa tubig, narinig niya ang tinig ng dagat na parang bulong ng kanyang ina: 'Sabihin mo sa mga tao sa bundok na kailangan namin ang kanilang puno. Sabihin mo sa mga tao sa pampang na ang basurang iniiwan nila ay sugat sa aking dibdib. Kung nais ninyong manatiling bughaw ang bay, panatilihing malinis ang puso ng ilog.'"
+},
+{
+"chapter": 6,
+"title_fil": "Ang Alitan ng Upland at Baybayin",
+"text_fil": "Lumipas ang panahon, at dumami ang tao sa lalawigan. May mga pamayanang lumaki sa bundok, may mga bayang yumabong sa pampang, at may mga daang nagdugtong sa gubat, bukid, ilog, palengke, at pantalan. Ngunit habang lumalaki ang kabuhayan, lumalaki rin ang hindi pagkakaunawaan. May mga nasa baybayin na nagsabing ang bundok ay malayo sa kanila at walang kinalaman sa kanilang lambat. May mga nasa kabundukan namang nagsabing ang dagat ay mundo ng iba at hindi nila tungkulin. May nagtapon ng dumi sa ilog, may pumutol ng puno sa dalisdis, may nangisda nang sobra, at may nagtayo sa gilid ng sapa na para bang hindi na babalik ang baha. Isang taon, bumuhos ang ulan nang sunod-sunod. Ang ilog ay umitim sa putik, bumaha ang kapatagan, at ang tubig sa baybayin ay lumabo hanggang lumayo ang mga isda. Doon natanto ng lahat na ang alitan nila ay maling akala. Hindi puwedeng magdusa ang bundok nang hindi umiiyak ang dagat. Hindi puwedeng masugatan ang dagat nang hindi bumabalik ang sakit sa tao."
+},
+{
+"chapter": 7,
+"title_fil": "Ang Gingoog na Nakarinig sa Alon",
+"text_fil": "Sa silangang bahagi ng lalawigan, sa dakong nakaharap sa Gingoog Bay, may isang pamayanang kilala sa mga taong masisipag at marunong makisama sa lupa at dagat. Dinala roon si Misam upang kausapin ang mga mangingisda, magsasaka, at tagapag-alaga ng gubat. Sa gabi, nagtipon sila sa pampang habang ang buwan ay nakalutang sa tubig. Naroon ang mga Higaonon mula sa kabundukan, ang mga pamilyang Visayan mula sa baybayin, ang matatandang may kuwento ng paglalakbay, at ang mga batang hindi pa alam kung bakit nag-aaway ang matatanda tungkol sa lupa at tubig. Tumayo si Misam at ikinuwento ang higanteng si Misangga: kaliwang kamay ang bundok, kanang kamay ang dagat. Pagkatapos, kumuha siya ng tubig mula sa ilog at tubig mula sa dagat, inilagay sa dalawang mangkok, at tinanong, 'Alin dito ang mas mahalaga?' Walang nakasagot. Ngumiti siya at pinagsama ang dalawang tubig sa isang malaking sisidlan. 'Ganyan ang lalawigan,' sabi niya. 'Hindi laging pareho ang lasa ng pinagmulan, ngunit iisa ang daan ng buhay.'"
+},
+{
+"chapter": 8,
+"title_fil": "Ang Pagsubok ng Balatukan",
+"text_fil": "Isang panahon, kumalat ang balita na may mga taong gustong pumasok nang mas malalim sa gubat ng Balatukan upang kumuha ng kahoy, bato, at iba pang yaman. May ilan na naghahanap lamang ng kabuhayan, ngunit may ilan ding nais kumuha nang mabilis at marami. Nag-alala si Apu Dawili, sapagkat alam niyang kapag nasira ang bundok, hindi lamang mga puno ang mawawala. Mawawala ang tubig sa sapa, lilim sa hayop, gamot sa maysakit, at panangga laban sa pagbaha. Umakyat si Misam sa bundok kasama ang mga pinuno. Sa gitna ng gubat, biglang bumaba ang makapal na ulap. Nawala ang daan, tumahimik ang ibon, at tila huminto ang hangin. Mula sa dilim ng mga puno, narinig nila ang tinig ni Misangga: 'Hindi ko ipinahiram ang aking kaliwang kamay upang putulin ninyo ito. Ang bundok ay hindi hadlang sa pag-unlad. Ito ang dahilan kung bakit may buhay na uunlad.' Nang bumukas ang ulap, nakita nila ang isang bukal na malinaw na malinaw. Doon sila nanumpang ang Balatukan at mga kagubatan ng Misamis Oriental ay hindi basta pag-aari ng kasalukuyan, kundi pamana ng mga batang hindi pa ipinapanganak."
+},
+{
+"chapter": 9,
+"title_fil": "Ang Kuyamis at ang Tamang Tamis",
+"text_fil": "Sa kapatagan at baybayin ng Misamis Oriental, may niyog na yumuyuko sa hangin at nagbibigay ng bunga sa maraming pamilya. Sinasabi ng matatanda na may isang uri ng niyog na matamis at mahalaga sa alaala ng lalawigan, kaya naging sagisag ito ng pasasalamat, ani, at pagkakakilanlan. Sa alamat, tinawag itong kuyamis, ang tamis na hindi dapat abusuhin. May isang magsasakang nagngangalang Tano na minsang gustong putulin ang lahat ng matandang puno upang palitan ng mas mabilis pagkakitaan. Binalaan siya ng kanyang ina na ang punong matagal nang nagbibigay ay dapat pasalamatan bago putulin, at ang lupa ay dapat paghandaan bago taniman muli. Hindi siya nakinig. Nang sumunod na tag-init, natuyo ang kanyang tanim at naging matigas ang lupa. Lumapit siya kay Misam upang humingi ng payo. Sinabi ni Misam, 'Ang tamis ng kuyamis ay hindi galing sa bunga lamang. Galing ito sa lupa, ulan, araw, at pasensiya. Kapag minadali mo ang lahat, mapait ang balik.' Mula noon, naging aral sa mga magsasaka na ang kabuhayan ay kailangang may pag-aalaga, hindi lamang pagkuha."
+},
+{
+"chapter": 10,
+"title_fil": "Ang Daungan ng mga Kaibigan",
+"text_fil": "Habang lumalago ang mga bayan, dumami rin ang mga daungan, pamilihan, at daang nag-uugnay sa Misamis Oriental sa iba pang pulo. May mga bangkang dumating mula sa Camiguin, Bohol, Cebu, Siquijor, at iba pang lugar, dala ang asin, tela, kwento, paninda, at bagong pangarap. May mga pamilyang nanirahan, nag-asawa, nagtrabaho, at unti-unting naging bahagi ng lalawigan. Sa una, may kaba sa pagitan ng luma at bago, katutubo at dayo, taga-bundok at taga-baybayin. Ngunit itinuro ni Misam na ang daungan ay hindi lamang lugar ng pagdating ng produkto; lugar din ito ng pagdating ng tao. Ang panauhin ay dapat igalang, ngunit ang panauhin ay dapat ding matutong gumalang sa tahanang kanyang pinapasok. Sa pamilihan, itinuro nilang maging tapat sa timbang, malinis sa pampang, at makatarungan sa palitan. Sa ganitong paraan, naging daungan ng mga kaibigan ang baybayin ng Misamis Oriental: bukas sa paglalakbay, ngunit may ugat sa dangal."
+},
+{
+"chapter": 11,
+"title_fil": "Ang Panata sa Ilalim ng Dalawang Kamay",
+"text_fil": "Nang tumanda si Misam, tinipon niya ang mga tao mula sa bundok, ilog, bukid, baybayin, at bayan. Naroon ang baylan, datu, mangingisda, magsasaka, mangangalakal, guro, kabataan, at matatandang may dalang alaala. Sa gitna ng pagtitipon, iginuhit niya sa lupa ang dalawang malaking kamay: ang kaliwa ay may hugis ng bundok, punongkahoy, at bukal; ang kanan ay may hugis ng dagat, bangka, isda, at alon. Sa pagitan ng dalawang kamay, iginuhit niya ang ilog. 'Ito ang katawan ng ating lalawigan,' sabi niya. 'Kung puputulin natin ang kaliwa, manghihina ang kanan. Kung dudungisan natin ang kanan, babalik ang sakit sa kaliwa. Kung haharangin natin ang ilog, mawawala ang usapan ng dalawa.' Doon sila gumawa ng panata: aalagaan ang kagubatan, lilinisin ang ilog, poprotektahan ang bakawan, kukuha lamang ng sapat sa dagat, igagalang ang Higaonon at iba pang unang tagapag-alaga ng lupa, at bubuo ng pag-unlad na hindi sumisira sa pinagmumulan ng buhay. Nang matapos ang panata, umihip ang hangin mula sa bundok at dagat nang sabay, tila pumayag si Misangga."
+},
+{
+"chapter": 12,
+"title_fil": "Ang Pamana ng Misamis Oriental",
+"text_fil": "Hanggang ngayon, kapag binabanggit ang Misamis Oriental, hindi lamang dapat maisip ang mga bayan, daungan, kalsada, palengke, resort, bundok, at baybayin. Dapat ding maalala ang mas malalim na kuwento nito: ang Higaonon na nag-ingat ng gubat at ritwal, ang mangingisdang nagbasa ng alon, ang magsasakang naghintay sa tamang panahon ng ani, ang mga pamilyang dumating mula sa ibang pulo at naging bahagi ng pamayanan, at ang mga ilog na tahimik na nagdurugtong sa bundok at dagat. Sa alamat, sinasabing si Misangga ay hindi tunay na nawala. Ang kanyang kaliwang kamay ay nasa Balatukan at sa mga kabundukang patuloy na nagbibigay ng tubig. Ang kanyang kanang kamay ay nasa Macajalar at Gingoog, sa mga baybaying nagbibigay ng isda at daan. At si Misam, ang batang may dalawang mundo sa dibdib, ay buhay sa bawat taong marunong makipagkaibigan sa iba ngunit hindi nakakalimot sa kalikasan. Kaya ang Alamat ng Misamis Oriental ay kuwento ng pagkakaugnay. Ang bundok ay hindi malayo sa dagat. Ang ilog ay hindi simpleng tubig. Ang tao ay hindi hiwalay sa lupa. At ang tunay na pag-unlad ay hindi ang pagputol sa kamay na nagpapakain, kundi ang paghawak dito nang may paggalang upang may maipasa pang buhay sa susunod na salinlahi."
+}
+]
 }
