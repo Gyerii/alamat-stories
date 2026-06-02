@@ -1,25 +1,70 @@
 {
-  "id": "alamat_ng_eastern_samar",
-  "region": "Visayas",
-  "category": "likas",
-  "emoji": "🏔️",
-  "image": "alamat_ng_eastern_samar.png",
-  "title_fil": "Alamat ng Eastern Samar",
-  "chapters": [
-    {
-      "chapter": 1,
-      "title_fil": "Ang Pinakamatalim na Dalampasigan",
-      "text_fil": "Ang Eastern Samar ay katapat ng Pasipikong Karagatan — ang pinakamalaking karagatan sa mundo. Dito, ang mga alon ay nagsisimula sa malayo at lumalaki habang lumalapit sa baybayin, at nagtatapos bilang mga malalaking alon na dinadagsa ang mahabang dalampasigan ng Eastern Samar. Ayon sa mga matatanda, ang mga alon ng Eastern Samar ay may memorya — bawat alon ay nagdadala ng mga mensahe mula sa mga kaluluwa ng mga manlalayag na nawala sa karagatan."
-    },
-    {
-      "chapter": 2,
-      "title_fil": "Ang Bugsukan Falls",
-      "text_fil": "Sa bundok ng Eastern Samar, maraming mga falls na nagtatalon mula sa mataas na bato patungo sa malalalim na pool. Ang pinakakilala ay ang Bugsukan Falls — ayon sa alamat, ito ay luha ng isang diwata na nagmahal sa isang mortal. Hindi nila maaaring masama ang kanilang pagmamahal, kaya naman ang diwata ay naging falls — laging dumarating, laging dumadapo sa lupa, ngunit hindi kailanman manatili."
-    },
-    {
-      "chapter": 3,
-      "title_fil": "Ang mga Taga-Eastern Samar",
-      "text_fil": "Ang mga taga-Eastern Samar ay mga taong sanay sa hirap. Madalas silang tinamaan ng bagyo, madalas silang nasalanta ng mga alon, ngunit lagi silang nagbabangon. Sinasabi ng isang matandang babae ng Eastern Samar: 'Ang dagat ay hindi kaaway namin. Siya ay pamilya. Paminsan-minsan ay galit siya, paminsan-minsan ay maamo. Tulad ng pamilya — tinatanggap mo siya sa lahat ng kanyang anyo, at nananatili kang tapat kahit sa panahon ng bagyo.'"
-    }
-  ]
+"id": "alamat_ng_eastern_samar",
+"region": "Visayas",
+"category": "likas",
+"emoji": "🏔️",
+"image": "alamat_ng_eastern_samar.png",
+"title_fil": "Alamat ng Eastern Samar",
+"chapters": [
+{
+"chapter": 1,
+"title_fil": "Ang Lupain sa Harap ng Pasipiko",
+"text_fil": "Sa pinakasilangang bahagi ng Samar, kung saan unang hinahalikan ng araw ang kapuluan ng Visayas, naroon ang Eastern Samar — isang lupain ng mahahabang dalampasigan, matatarik na bato, makakapal na gubat, rumaragasang talon, at dagat na walang katapusang humihinga. Sa harap nito ay ang malawak na Pasipikong Karagatan, dagat na tila walang dulo at may tinig na mas matanda pa sa mga bundok. Araw-araw, ang mga alon ay dumarating mula sa malayong silangan, bitbit ang lamig ng hangin, alat ng tubig, at mga kuwentong hindi kayang isulat sa papel. Ayon sa matatandang Waraynon, ang Eastern Samar ay hindi basta probinsyang nakaharap sa karagatan. Ito raw ay bantay-pinto ng Pilipinas, ang unang nakaririnig ng bulong ng bagyo at unang nakakakita ng liwanag ng umaga. Kaya ang mga tao rito ay lumaking may tapang sa dibdib at panalangin sa labi. Alam nilang ang dagat ay maaaring magbigay ng isda, ngunit maaari rin itong magpadala ng unos. Alam nilang ang hangin ay maaaring magdala ng lamig, ngunit maaari rin itong magdala ng sigaw ng bagyo. Sa ganitong lupain isinilang ang alamat ng Eastern Samar — isang kuwentong hinubog ng alon, luha, bato, pananampalataya, at walang sawang pagbangon."
+},
+{
+"chapter": 2,
+"title_fil": "Si Sirangan, ang Diwata ng Unang Liwanag",
+"text_fil": "Noong unang panahon, nang ang mga pulo ay bata pa at ang mga bituin ay tila mas mababa sa langit, may isang diwata raw na nagngangalang Sirangan. Siya ang tagapagbantay ng unang liwanag, ang espiritung gumigising sa araw bago ito sumilip sa dagat. Tuwing madaling-araw, lumalakad siya sa ibabaw ng alon na hindi nababasa ang paa, dala ang isang gintong lambat na hinabi mula sa sinag ng araw. Sa lambat na iyon niya sinasalo ang dilim at dahan-dahang itinatabi upang makapasok ang liwanag sa mundo. Mahal ni Sirangan ang pulo ng Eastern Samar dahil ito ang unang nakakakita sa kanyang gawain. Bawat umaga, pinapahid niya ang liwanag sa mga dahon ng niyog, sa bubong ng mga kubo, sa mukha ng mga mangingisdang gigising pa lamang, at sa mata ng mga batang natutulog sa duyan. Ngunit may kapalit ang kanyang biyaya. Ibinilin niya sa mga tao na igalang ang dagat, huwag libakin ang hangin, huwag lapastanganin ang gubat, at huwag kalimutang magpasalamat kahit kaunti ang huli. Sapagkat ang unang liwanag ay hindi ipinangako sa taong sakim; ibinibigay lamang ito sa bayang marunong bumangon at marunong magpakumbaba. Mula noon, tinawag ng matatanda ang kanilang lupain na pook ng silangan — lugar na laging may bagong umaga kahit ilang ulit pang dumaan ang unos."
+},
+{
+"chapter": 3,
+"title_fil": "Ang mga Alon na May Alaala",
+"text_fil": "Sinasabi ng mga matatanda na ang mga alon ng Eastern Samar ay may memorya. Hindi raw basta tubig ang humahampas sa dalampasigan; bawat alon ay may dalang mensahe mula sa malalayong lugar, mula sa mga manlalayag na hindi na nakabalik, mula sa mga ina na naghintay sa pampang, at mula sa mga ninunong ang buhay ay inialay sa dagat. Kapag mahinahon ang alon, ito raw ay kuwento ng pasasalamat. Kapag malakas at tila galit, ito raw ay babala. Kapag ang bula ay kumikislap sa ilalim ng buwan, sinasabi ng matatanda na iyon ang mga kaluluwang naglalakbay pauwi upang silipin ang kanilang pamilya. May isang batang nagngangalang Iday na mahilig makinig sa dagat. Tuwing hapon, nauupo siya sa buhangin at inilalapat ang tenga sa malaking kabibe. Naririnig niya roon ang ugong ng karagatan, ngunit minsan may narinig siyang malinaw na bulong: Huwag kalimutan ang pangalan ng tubig. Mula noon, tinanong niya ang bawat mangingisda, bawat lola, at bawat matandang panday-bangka tungkol sa mga naunang nabuhay sa pampang. Natutuhan niyang ang dagat ay parang aklat na walang pahina; ang bumabasa rito ay hindi mata kundi puso. Kaya sa Eastern Samar, kapag may alon na malakas, hindi agad ito tinatawag na kaaway. Pinakikinggan muna ito, sapagkat baka may dala itong paalala mula sa nakaraan."
+},
+{
+"chapter": 4,
+"title_fil": "Si Daramlag, ang Batang Anak ng Mangingisda",
+"text_fil": "Sa isang baryong malapit sa pampang, may batang lalaki na nagngangalang Daramlag. Anak siya ng mangingisdang si Tiyo Kanor at ng manghahabing si Aling Marita. Hindi sila mayaman, ngunit ang kanilang bahay ay laging bukas sa kapitbahay na gutom, basang-basang biyahero, o batang walang masilungan kapag umuulan. Si Daramlag ay lumaki sa pagitan ng dalawang tinig: ang mahinahong awit ng kanyang ina habang naghahabi, at ang mabigat na kuwento ng kanyang ama tungkol sa dagat. Bata pa lamang siya, marunong na siyang magtali ng lubid, mag-ayos ng lambat, at tumingin sa kulay ng ulap upang malaman kung ligtas bang pumalaot. Ngunit higit sa lahat, natutuhan niyang hindi dapat hamunin ang Pasipiko nang may kayabangan. Isang araw, habang namumulot siya ng kahoy na inanod sa dalampasigan, nakakita siya ng isang kakaibang bato. Bilog ito, kulay abo, at may guhit na parang alon. Nang hawakan niya, narinig niya ang malakas na ugong, tila buong dagat ay nasa loob ng kanyang palad. Dinala niya ito kay Tandang Osang, ang pinakamatandang babae sa baryo. Nang makita iyon ng matanda, namutla siya. Sinabi niyang iyon ay Bato ng Babala, isang bagay na lumilitaw lamang kapag may malaking pagbabagong darating sa baybayin. Mula noon, nagbago ang kapalaran ni Daramlag at ng buong pamayanan."
+},
+{
+"chapter": 5,
+"title_fil": "Ang Unang Malaking Unos",
+"text_fil": "Ilang araw matapos makita ni Daramlag ang Bato ng Babala, nag-iba ang kilos ng kalikasan. Tumahimik ang mga ibon. Ang mga alimango ay umakyat palayo sa tubig. Ang hangin ay naging mabigat, mainit, at tila puno ng hindi masabing pangamba. Maraming mangingisda ang gustong pumalaot dahil ilang araw na silang kulang sa huli, ngunit pinigilan sila ni Tandang Osang. Sinabi niyang kapag ang dagat ay masyadong tahimik, hindi ibig sabihin ay payapa ito; minsan, humihinga lamang ito bago sumigaw. Kinagabihan, dumating ang bagyo. Hindi iyon ordinaryong ulan. Ang hangin ay umungol na parang dambuhalang hayop, ang mga puno ng niyog ay yumuko hanggang halos humalik sa lupa, at ang mga alon ay humampas sa pampang na tila gustong bawiin ang buong baryo. Nagtulungan ang mga tao. Ang mga lalaki ay nagtali ng mga bangka, ang mga babae ay nagdala ng bata at matatanda sa mas mataas na lugar, at si Daramlag ay tumakbo sa bawat bahay upang tiyaking walang naiiwan. Sa gitna ng dilim, narinig niya ang tinig ni Sirangan sa ihip ng hangin: Ang tapang ay hindi kawalan ng takot. Ang tapang ay pagtulong kahit nanginginig ang tuhod. Nang sumikat ang araw kinabukasan, wasak ang ilang bahay at nagkalat ang kahoy sa pampang, ngunit buhay ang karamihan. Doon unang naunawaan ng mga tao ang tunay na lakas ng Eastern Samar: hindi ito nasa bato o bangka, kundi nasa pagkakapit-bisig ng pamayanan."
+},
+{
+"chapter": 6,
+"title_fil": "Ang Luhang Naging Bugsukan Falls",
+"text_fil": "Sa kabundukan ng Eastern Samar, malayo sa hampas ng alon ngunit malapit sa hininga ng ulap, may talon na sinasabi ng matatanda na ipinanganak mula sa luha ng diwata. Ang pangalan niya ay Bugsa, tagapag-alaga ng malamig na tubig, lumot, pako, at mga punong umiinom sa hamog. Si Bugsa ay tahimik na diwata. Hindi siya mahilig magpakita sa tao, ngunit tinutulungan niya ang mga naliligaw sa gubat sa pamamagitan ng tunog ng patak ng tubig. Isang araw, may binatang mangangahoy na nagngangalang Samaraw ang napadpad sa kanyang sagradong pook. Hindi tulad ng ibang pumuputol ng puno nang walang paalam, lumuhod muna si Samaraw at humingi ng pahintulot. Natuwa si Bugsa sa kanyang paggalang, at sa pagdaan ng mga araw, nagmahalan ang diwata at mortal. Ngunit hindi maaaring manatili sa lupa ang pag-ibig ng espiritu at tao. Nang dumating ang panahon na kailangang bumalik ni Samaraw sa kanyang pamayanan, nangako siyang babalik. Hindi siya nakabalik, hindi dahil nakalimot siya, kundi dahil tinangay siya ng isang malaking baha. Sa matinding lungkot, umiyak si Bugsa sa gilid ng bato. Ang kanyang luha ay hindi natuyo. Dumaloy ito nang dumaloy, bumagsak mula sa mataas na bangin, at naging Bugsukan Falls. Kaya ang tubig nito ay laging malamig, laging malinaw, at laging may tinig na tila babaeng umaawit sa pagitan ng bato at gubat. Sinasabi ng matatanda na ang sinumang maliligo roon nang may dalisay na puso ay makaaalala ng pangakong dapat tuparin at pag-ibig na dapat igalang."
+},
+{
+"chapter": 7,
+"title_fil": "Ang Gubat na Nagbabantay",
+"text_fil": "Hindi lamang dagat ang kaluluwa ng Eastern Samar. Sa loob ng lupain nito ay may mga gubat na makakapal, tahimik, at puno ng buhay na hindi agad nakikita ng mata. May mga ibong nagtatago sa matataas na sanga, mga kulisap na kumikislap sa dilim, mga halamang gamot na kilala lamang ng matatanda, at mga ugat na humahawak sa lupa upang hindi ito matangay ng baha. Ayon sa alamat, ang gubat ay binabantayan ni Makalum, isang matandang espiritu na may balbas na lumot at balat na parang puno. Hindi siya galit sa tao, ngunit mahigpit siya sa mga kumukuha nang walang paggalang. Kapag may pumuputol ng puno para magtayo ng bahay at nagtatanim kapalit nito, hinahayaan niya. Kapag may kumukuha ng halamang gamot upang magpagaling, ginagabayan niya. Ngunit kapag may pumasok na sakim, nagpuputol nang marami, nagsusunog ng gubat, o pumapatay ng hayop para sa aliw, binabaligtad niya ang landas. Ang taong sakim ay paikot-ikot lamang sa gubat hanggang matutong humingi ng tawad. Itinuro ni Makalum kay Daramlag sa isang panaginip na ang gubat ang unang pader laban sa galit ng bagyo. Kapag nawala ang mga puno, walang hahawak sa lupa, walang pipigil sa tubig, at walang aakay sa hangin. Mula noon, naging panata ng baryo na huwag kalimutang alagaan ang gubat, sapagkat ang punong pinoprotektahan ngayon ay maaaring maging kaligtasan ng apo bukas."
+},
+{
+"chapter": 8,
+"title_fil": "Ang Homonhon at ang mga Layag ng Kasaysayan",
+"text_fil": "Sa bahagi ng Eastern Samar, may mga pulo at baybaying tila bantay sa bukana ng kasaysayan. Isa sa mga pinakakilala sa matatandang salaysay ay ang Homonhon, isang pulong unang sumalubong sa mga layag na galing sa malayong daigdig. Sa alamat ng mga tagaroon, bago pa man dumating ang mga dayuhan, binabantayan na ng mga espiritu ang pulo. Tuwing may barkong naliligaw, nagpapadala raw si Sirangan ng liwanag sa ibabaw ng tubig upang hindi ito bumangga sa bato. Ngunit nang dumating ang mga kakaibang layag na dala ang mga taong hindi kilala ang wika ng mga taga-pulo, tumahimik ang hangin. Hindi dahil takot ang lupain, kundi dahil nakikinig ito. Nakita ng mga ninuno na ang dagat ay hindi lamang naghahatid ng isda at ulan; naghahatid din ito ng pagbabago. May mga pagbabagong nagdadala ng karunungan, may nagdadala ng sakit, may nagdadala ng pakikipagkaibigan, at may nagdadala ng pagsubok. Kaya naging mahalaga sa mga taga-Eastern Samar ang pag-alala. Ang pampang ay hindi lamang buhangin. Ito ay pahina ng kasaysayan. Ang alon ay hindi lamang tubig. Ito ay tinig ng pagdating at paglisan. At ang mga taong nakatira sa gilid ng Pasipiko ay natutong maging mapagbantay, mapagpatuloy, at matatag, sapagkat alam nilang sa bawat layag na dumarating, may kuwentong maaaring magbago sa kapalaran ng bayan."
+},
+{
+"chapter": 9,
+"title_fil": "Ang Kampana ng Balangiga",
+"text_fil": "Sa isa pang bahagi ng Eastern Samar, may bayang kilala sa tapang at alaala — ang Balangiga. Bagama’t ang kuwento ng kampana ay bahagi ng kasaysayan, naging alamat na rin ito sa puso ng mga Waraynon dahil sa bigat ng damdaming dala nito. Sinasabi ng matatanda na ang kampana ay hindi lamang bakal na tumutunog sa simbahan. Ito ay tinig ng bayan. Kapag ito ay pinapatunog, nagtitipon ang mga tao: para sa misa, para sa panganib, para sa pagdadalamhati, o para sa pag-asa. Noong panahon ng kaguluhan at digmaan, ang tunog ng kampana ay naging tanda ng pagkilos, tapang, at matinding pagnanais na ipagtanggol ang dangal. Maraming luha ang pumatak sa lupa ng Balangiga. Maraming pangalan ang hindi na naisulat, ngunit hindi kinalimutan ng hangin. Sa alamat, sinasabing tuwing malakas ang bagyo at humahampas ang ulan sa bubong, naririnig ng ilan ang malayong tunog ng kampana kahit wala namang nagpapalakad nito. Iyon daw ay paalala ng mga ninuno: huwag hayaang manahimik ang katotohanan, huwag hayaang mabaon ang alaala, at huwag hayaang mawalan ng tapang ang bayan. Kaya sa Eastern Samar, ang likas na yaman ay hindi lamang talon, dagat, at bundok. Kasama rin dito ang alaala ng mga taong tumindig, nasaktan, ngunit hindi naglaho sa kasaysayan."
+},
+{
+"chapter": 10,
+"title_fil": "Ang Dalampasigan Pagkatapos ng Bagyo",
+"text_fil": "Maraming beses nang sinubok ng bagyo ang Eastern Samar. May mga gabing ang hangin ay parang libong tambol na sabay-sabay pumapalo sa bubong. May mga umagang paggising ng mga tao ay wala na ang dating bakod, wala na ang dating bangka, at minsan ay wala na ang dating bahay. Ngunit may bagay na hindi natatangay ng alon: ang ugali ng mga taong bumangon. Pagkatapos ng bawat unos, ang unang ginagawa ng mga taga-Eastern Samar ay maghanap, tumawag, at magtulungan. Hindi muna tinatanong kung kanino ang kahoy, kanino ang bigas, o kanino ang bubong. Ang mahalaga ay may masilungan ang bata, may tubig ang matanda, may apoy para sa lutuan, at may kamay na hahawak sa taong nawalan. Sa alamat, kapag natatapos ang bagyo, bumababa raw si Sirangan sa dalampasigan at binibilang ang mga ilaw sa mga tahanan. Kapag may bahay na madilim, pinapadala niya ang sinag ng umaga sa kapitbahay upang maalala nitong tumulong. Kaya kahit paulit-ulit silang sinusubok, hindi nagiging bato ang puso ng mga Waraynon. Sa halip, lalo itong tumitibay at lumalawak. Sinasabi nga ng isang matandang babae: Ang dagat ay hindi namin kaaway. Siya ay pamilya. Minsan galit, minsan maamo, ngunit bahagi pa rin ng aming buhay. Ang mahalaga ay marunong kaming makinig, maghanda, at bumangon."
+},
+{
+"chapter": 11,
+"title_fil": "Ang Panata ni Daramlag",
+"text_fil": "Nang tumanda si Daramlag, naging isa siyang tagapayo ng kanilang pamayanan. Hindi siya naging datu, hindi siya naghangad ng trono, at hindi siya nagsuot ng palamuting magpapakita ng kapangyarihan. Ngunit kapag nagsalita siya tungkol sa dagat, gubat, at bagyo, nakikinig ang lahat. Sa kanyang bahay ay nakatago pa rin ang Bato ng Babala, ang batong natagpuan niya noong bata pa siya. Tuwing may paparating na masamang panahon, inilalabas niya ito at inilalagay sa gitna ng bulwagan. Hindi dahil naniniwala siyang bato lamang ang magliligtas sa kanila, kundi dahil ito ang paalala ng kanilang tungkulin. Kapag nakita ng mga tao ang bato, alam nilang kailangan nang ayusin ang bangka, ihanda ang pagkain, tulungan ang mahina, linisin ang daluyan ng tubig, at makinig sa payo ng matatanda. Isang gabi, nanaginip si Daramlag kina Sirangan, Bugsa, at Makalum. Sinabi ng tatlong espiritu na ang Eastern Samar ay mananatiling maganda hangga’t marunong ang mga tao na huwag kalabanin ang kalikasan, kundi unawain ito. Pagkagising niya, tinipon niya ang mga bata sa pampang at itinuro sa kanila ang panata: Igalang ang dagat, alagaan ang gubat, pakinggan ang hangin, tandaan ang kasaysayan, at huwag iwan ang kapwa sa oras ng unos. Ang panatang iyon ang naging pamana niya sa susunod na salinlahi."
+},
+{
+"chapter": 12,
+"title_fil": "Ang Pamanang Waraynon",
+"text_fil": "Hanggang ngayon, kapag sumisikat ang araw sa silangan at kumikislap ang Pasipiko, sinasabi ng matatanda na dumaraan pa rin si Sirangan sa ibabaw ng alon. Kapag naririnig ang lagaslas ng Bugsukan Falls, naaalala si Bugsa at ang pag-ibig na naging tubig. Kapag humahalimuyak ang lupa pagkatapos ng ulan, naroon ang hininga ni Makalum sa gubat. Kapag tumutunog ang kampana o umaalingawngaw ang kuwento ng Balangiga, bumabalik ang tinig ng mga ninunong nagturo ng tapang. At kapag dumarating ang bagyo, hindi lamang takot ang dala nito, kundi paalala na ang buhay sa Eastern Samar ay laging may kasamang pagsubok at pagbangon. Ang alamat ng Eastern Samar ay hindi lamang kuwento ng isang diwata, isang talon, isang bata, o isang dagat. Ito ay kuwento ng buong lupain at ng mga taong natutong mabuhay sa gilid ng napakalaking karagatan. Itinuturo nito na ang kalikasan ay hindi kaaway na dapat lupigin, kundi kapamilyang dapat kilalanin. Ang alon ay may alaala, ang gubat ay may bantay, ang talon ay may luha, at ang tao ay may pananagutan. Kaya ang tunay na yaman ng Eastern Samar ay hindi lamang nasa ganda ng baybayin, bundok, at tubig. Nasa puso ito ng mga Waraynon — pusong marunong umiyak, tumawa, lumaban, magdasal, tumulong, at bumangon muli sa unang liwanag ng umaga."
+}
+]
 }
