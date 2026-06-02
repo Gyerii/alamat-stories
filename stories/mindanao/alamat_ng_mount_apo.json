@@ -3,15 +3,68 @@
   "region": "Davao, Mindanao",
   "category": "likas",
   "emoji": "🏔️",
+  "image": "alamat_ng_mount_apo.png",
   "title_fil": "Alamat ng Bundok Apo",
-  "title_eng": "Legend of Mount Apo",
   "chapters": [
     {
       "chapter": 1,
       "title_fil": "Ang Hari ng mga Bundok",
-      "title_eng": "The King of Mountains",
-      "text_fil": "Ang Bundok Apo ay ang pinakamataas na bundok sa Pilipinas na may taas na dalawang libo siyam na raan at limampung apat na metro. Para sa mga katutubo ng Mindanao ito ay tahanan ng makapangyarihang diyos na si Apo Sandawa na tagapangalaga ng lahat ng nilalang sa bundok.",
-      "text_eng": "Mount Apo is the highest mountain in the Philippines standing two thousand nine hundred fifty four meters tall. For the indigenous peoples of Mindanao it is the home of the powerful god Apo Sandawa who guards all creatures on the mountain."
+      "text_fil": "Sa puso ng Mindanao, kung saan ang ulap ay dumadampi sa tuktok ng lupa at ang hangin ay malamig na parang hininga ng mga ninuno, nakatayo ang Bundok Apo, ang pinakamataas na bundok sa buong Pilipinas. Mula sa malayo, tila isa lamang itong malaking aninong nakahiga sa langit, ngunit sa mata ng mga taong nakatira sa paanan nito, ang Apo ay hindi basta bundok. Ito ay matandang tagapagbantay, tahanan ng mga espiritu, bukal ng tubig, kanlungan ng mga ibon, ugat ng kagubatan, at sagradong pook na hindi dapat lapitan nang may kayabangan. Sinasabi ng matatanda na ang pangalang Apo ay hindi lamang pangalan kundi paggalang. Ito ay tawag sa nakatatanda, sa marangal, sa pinakikinggan. Kaya kapag sinasabi nilang Bundok Apo, para na rin nilang sinasabi: Dakilang Matanda ng Lupa, Hari ng Kabundukan, at Bantay ng Mindanao."
+    },
+    {
+      "chapter": 2,
+      "title_fil": "Si Apo Sandawa",
+      "text_fil": "Ayon sa matatandang salaysay ng ilang katutubong pangkat sa paligid ng bundok, may makapangyarihang espiritung naninirahan sa Bundok Apo. Tinatawag siyang Apo Sandawa, ang matandang tagapagbantay ng tuktok, bato, gubat, ilog, hayop, halaman, at hangin. Hindi siya diyos na naghahanap ng kayamanan o palasyo. Ang kanyang tahanan ay ang malamig na ulap, ang batong pinapainit ng araw, ang lumang punong tinutubuan ng lumot, at ang tahimik na lawa sa mataas na bahagi ng bundok. Kapag payapa ang puso ng tao, naririnig niya si Apo Sandawa sa ihip ng hangin. Kapag marumi ang hangarin ng tao, ang katahimikan ng bundok ay nagiging mabigat, parang may matang nagmamasid mula sa likod ng mga dahon. Sabi ng matatanda, hindi kinatatakutan si Apo Sandawa ng may respeto. Ngunit ang taong papasok sa kanyang lupain nang may yabang, kasakiman, o panlalait sa kalikasan ay maliligaw hindi lamang sa daan, kundi pati sa sariling budhi."
+    },
+    {
+      "chapter": 3,
+      "title_fil": "Ang Batang si Manggayaw",
+      "text_fil": "Sa isang pamayanang malapit sa paanan ng bundok, may batang lalaki na nagngangalang Manggayaw. Anak siya ni Datu Lumbay, isang pinunong marunong makipag-usap sa matatanda, at ni Ba-i Salima, isang babaeng sanay sa halamang-gamot, paghahabi, at pag-aalay ng pasasalamat sa lupa. Bata pa lamang si Manggayaw, ramdam na niyang may kakaiba sa Bundok Apo. Kapag tumitingin siya sa tuktok nito, pakiramdam niya ay may matandang nakatingin pabalik sa kanya. Kapag humihip ang malamig na hangin mula sa gubat, tila may bulong na nagdadala ng aral. Ang ibang bata ay nangangarap umakyat sa bundok upang magyabang na naabot nila ang pinakamataas na tuktok, ngunit si Manggayaw ay iba. Nais niyang umakyat hindi upang maghari sa bundok, kundi upang makilala ito. Nais niyang malaman kung bakit yumuyuko ang matatanda bago pumasok sa kagubatan, bakit may mga batong hindi ginagalaw, at bakit sinasabing ang Bundok Apo ay buhay."
+    },
+    {
+      "chapter": 4,
+      "title_fil": "Ang Babala ng Walyan",
+      "text_fil": "Bago payagang umakyat si Manggayaw, dinala siya ng kanyang ina sa isang walyan, ang matandang tagapamagitan sa tao, ninuno, at espiritu. Ang pangalan ng walyan ay Apo Dayaw, isang babaeng kulubot na ang kamay ngunit malinaw pa ang mata. Sa kanyang kubo, may nakasabit na mga dahon, buto, hibla, balat ng kahoy, at maliliit na bato mula sa ilog. Tiningnan niya si Manggayaw at tinanong, 'Bakit mo gustong umakyat sa Apo?' Sumagot ang bata, 'Upang makita ang tuktok.' Umiling ang walyan. 'Maling sagot. Maraming umaakyat upang makita ang tuktok, ngunit kakaunti ang bumababa na nakita ang sarili.' Natahimik si Manggayaw. Itinuro ni Apo Dayaw ang bundok at sinabi, 'Ang Apo ay hindi hagdanan ng kayabangan. Ito ay paaralan ng kababaang-loob. Kapag pumasok ka sa gubat, huwag kang sisigaw nang walang dahilan. Kapag nakakita ka ng hayop, huwag mong gawing laruan. Kapag napagod ka, huwag mong murahin ang bundok. Kapag may kinuha ka, magpaalam. Kapag may iniwan ka, siguraduhin mong hindi ito sugat sa lupa.'"
+    },
+    {
+      "chapter": 5,
+      "title_fil": "Ang Gubat na May Sariling Tinig",
+      "text_fil": "Nang magsimula ang pag-akyat ni Manggayaw kasama ang ilang matatanda, agad niyang naramdaman na ang gubat ng Bundok Apo ay hindi katulad ng karaniwang gubat sa kapatagan. Dito, makapal ang lumot sa bato, malamig ang lupa kahit tanghaling tapat, at ang mga ugat ng puno ay parang daliring nakahawak sa bundok upang hindi ito gumuho. May mga ibong hindi niya alam ang pangalan, may mga halamang tila munting banga na nag-iipon ng tubig, may mga pako at orkidyas na nakadikit sa matatandang puno, at may mga bulong na nanggagaling sa dahon kapag humihihip ang hangin. Sa bawat hakbang, pinapaalalahanan siya ng kasama niyang matanda: huwag apakan ang usbong kung maaari, huwag putulin ang sanga kung hindi kailangan, huwag kumuha ng bulaklak para lamang ipakita sa iba. Habang umaakyat, naunawaan ni Manggayaw na ang bundok ay parang malaking tahanan. Ang tao ay bisita lamang, at ang mabuting bisita ay marunong mag-ingat sa tahanang hindi sa kanya."
+    },
+    {
+      "chapter": 6,
+      "title_fil": "Ang Agilang Bantay ng Langit",
+      "text_fil": "Sa ikalawang araw ng kanilang paglalakbay, narinig ni Manggayaw ang malakas na pagaspas sa itaas ng mga puno. Nang tumingala siya, nakita niya ang isang malaking agila na paikot-ikot sa hangin, marangal ang kilos at matalim ang tingin. Hindi iyon karaniwang ibon sa paningin ng bata. Para itong mensahero ng langit, bantay ng tuktok, at mata ni Apo Sandawa. Sinabi ng matandang kasama niya na ang mga dakilang ibon ng bundok ay hindi dapat habulin o saktan, sapagkat sila ang nagpapaalala na may buhay sa itaas na hindi abot ng kamay ng tao. Habang sinusundan ng tingin ni Manggayaw ang agila, bigla siyang nakaramdam ng hiya. Naalala niya ang mga taong pumapasok sa gubat upang manghuli, magputol, at kumuha ng sobra-sobra. Paano kung ang bawat hayop ay may sariling pamilya? Paano kung ang bawat punong pinutol ay dating tahanan ng ibon? Paano kung ang pag-iyak ng gubat ay hindi lamang naririnig dahil ayaw makinig ng tao? Nang mawala ang agila sa ulap, tila may naiwan itong aral sa dibdib ng bata: ang taas ay hindi para sakupin, kundi para igalang."
+    },
+    {
+      "chapter": 7,
+      "title_fil": "Ang Lawa ng Salamin",
+      "text_fil": "Sa mataas na bahagi ng bundok, narating nila ang isang lawa na tahimik na nakahiga sa gitna ng malamig na hangin. Ang tubig nito ay malinaw na parang salamin, at sa ibabaw nito makikita ang ulap na dumaraan, ang damong yumuyuko, at ang mukha ng sinumang lalapit. Sinabi ng matatanda na ang lawa ay pook ng pagninilay. Hindi raw dapat sumigaw doon, hindi dapat magtapon ng kahit ano, at hindi dapat pagtawanan ang katahimikan. Lumuhod si Manggayaw sa gilid ng tubig at nakita ang sariling mukha. Ngunit habang tumatagal ang kanyang pagtingin, nagbago ang anyo sa salamin ng lawa. Nakita niya ang mga batang naglalaro sa ilog sa ibaba, ang mga magsasakang umaasa sa tubig mula sa bundok, ang mga ibong lumilipad sa ulap, at ang mga punong humahawak sa lupa upang hindi gumuho. Doon niya naunawaan na ang tubig sa paanan ng bundok ay nagsisimula sa katahimikan ng mataas na lugar. Kapag dinumihan ng tao ang tuktok, mararamdaman ng buong pamayanan ang sugat. Ang lawa ay hindi lamang ganda. Ito ay mata ng bundok, at sa mata nito nakikita ng tao ang bunga ng kanyang asal."
+    },
+    {
+      "chapter": 8,
+      "title_fil": "Ang Apoy sa Ilalim ng Bato",
+      "text_fil": "Habang papalapit sila sa mas mataas na bahagi ng Apo, naamoy ni Manggayaw ang kakaibang singaw mula sa lupa. May mga batong mainit kapag hinawakan, may bahaging tila humihinga ang bundok, at may amoy na matapang na nagpapaalala na sa ilalim ng tahimik na lupa ay may init na matagal nang nabubuhay. Natakot siya at tinanong kung galit ba si Apo Sandawa. Sumagot ang matandang kasama niya, 'Hindi lahat ng init ay galit. Minsan, ang init ay paalala na buhay ang lupa.' Ipinaliwanag ng matanda na ang bundok ay may apoy sa ilalim, hindi apoy na nakikita araw-araw, kundi lakas ng lupa na dapat igalang. Hindi dapat kutyain ang bundok dahil tahimik ito, sapagkat ang tahimik ay maaari pa ring makapangyarihan. Sa gabing iyon, habang nakabalot sila sa lamig, naramdaman ni Manggayaw ang kakaibang paggalang sa batong kanyang inuupuan. Ang Apo ay hindi patay na bunton ng lupa. Ito ay buhay na katawang may puso, hininga, init, at alaala."
+    },
+    {
+      "chapter": 9,
+      "title_fil": "Ang Pagsubok ng Ulap",
+      "text_fil": "Bago nila marating ang tuktok, biglang bumaba ang makapal na ulap. Nawala ang daan, lumamig ang hangin, at ang mga puno ay naging aninong mahirap kilalanin. Ang ilang kasama ni Manggayaw ay nag-alala. May isa sa kanila na nagmamadaling umakyat at nagsabing malapit na ang tuktok kaya hindi na dapat huminto. Ngunit naalala ni Manggayaw ang sinabi ng walyan: ang bundok ay paaralan ng kababaang-loob. Pinakiusapan niya ang lahat na tumigil, magsama-sama, at makinig sa matatanda. Habang naghihintay sila, may narinig siyang mahinang tinig sa ulap. Hindi ito malinaw na salita, ngunit naunawaan ng puso niya: 'Ang taong nagmamadali upang patunayan ang sarili ay madaling maligaw. Ang taong marunong huminto ay nakababalik nang buhay.' Ilang sandali pa, unti-unting gumalaw ang ulap at bumukas ang tamang daan. Napahiya ang kasamang nagmamadali, ngunit hindi siya pinagalitan ni Manggayaw. Sa halip, inalalayan niya ito. Doon nila natutuhan na sa bundok, walang saysay ang maunang makarating kung may kapwang naiwan."
+    },
+    {
+      "chapter": 10,
+      "title_fil": "Ang Harap ni Apo Sandawa",
+      "text_fil": "Sa wakas, narating ni Manggayaw ang tuktok ng Bundok Apo. Sa taas na iyon, tila abot-kamay ang ulap at tila maliit ang mga ilog, gubat, bayan, at bukid sa ibaba. Ngunit imbes na magyabang, napaluhod siya. Hindi niya naramdaman na siya ay mas mataas kaysa mundo. Sa halip, naramdaman niyang siya ay napakaliit. Sa gitna ng katahimikan, may anyong nabuo sa ulap: matandang may mukha ng bato, buhok na damo, mata ng lawa, at tinig ng hangin. Si Apo Sandawa iyon. Hindi siya nagsalita nang mahaba. Tinanong lamang niya si Manggayaw, 'Ano ang nakita mo?' Sumagot ang bata, 'Nakita ko po na ang bundok ay hindi hagdanan para sa yabang. Ito ay tahanan ng maraming buhay. Nakita ko po na ang tubig, gubat, ibon, bato, ulap, at tao ay magkakaugnay. Kapag sinaktan ang isa, masasaktan ang lahat.' Ngumiti ang espiritu ng bundok. 'Kung iyan ang nakita mo, maaari kang bumaba. Ang tunay na nakarating sa tuktok ay hindi ang paa, kundi ang pusong natutong gumalang.'"
+    },
+    {
+      "chapter": 11,
+      "title_fil": "Ang Pagbaba na May Dalang Panata",
+      "text_fil": "Pagbalik ni Manggayaw sa kanilang pamayanan, sinalubong siya ng mga bata, matatanda, at kanyang mga magulang. Inakala ng ilan na magpapagyabang siya tungkol sa taas ng bundok, lamig ng hangin, ganda ng lawa, at hirap ng daan. Ngunit ang unang sinabi niya ay hindi tungkol sa tagumpay. Sinabi niya, 'Hindi natin pag-aari ang Apo. Tayo ang inaalagaan nito.' Ikinuwento niya ang agila, ang lawa, ang init sa ilalim ng bato, ang ulap na nagturo sa kanila na huminto, at ang anyo ni Apo Sandawa sa tuktok. Mula noon, nagtakda ang kanilang pamayanan ng panata. Hindi sila papasok sa gubat nang walang paalam at paghahanda. Hindi sila kukuha ng higit sa kailangan. Hindi nila hahayaang masira ang mga bukal at sapa. Ituturo nila sa mga bata na ang bundok ay hindi laruan, hindi basurahan, at hindi tropeo. Tuwing may aakyat, pinaaalalahanan silang magdala ng kababaang-loob, sapagkat mas mabigat pa iyon kaysa anumang dala sa likod."
+    },
+    {
+      "chapter": 12,
+      "title_fil": "Ang Pamana ng Bundok Apo",
+      "text_fil": "Hanggang ngayon, ang Bundok Apo ay nananatiling dakila sa mata ng mga taga-Mindanao at ng buong Pilipinas. Marami ang humahangang makita ito, marami ang nangangarap umakyat, at marami ang kumikilala rito bilang pinakamataas na bundok ng bansa. Ngunit para sa mga marunong makinig sa alamat, higit pa sa taas ang kahulugan ng Apo. Ito ay paalala na ang pinakadakila ay hindi laging maingay. Ang tunay na hari ng kabundukan ay hindi naghahanap ng palakpak; nagbibigay ito ng tubig, hangin, lilim, tahanan ng hayop, gubat, at aral sa mga taong handang yumuko. Sinasabi ng matatanda na kapag nababalot ng ulap ang tuktok, nagpapahinga si Apo Sandawa. Kapag malamig ang hangin sa paanan, bumubulong siya ng paalala. Kapag may taong umaakyat na may malinis na puso, binubuksan niya ang daan. Ngunit kapag ang tao ay pumapasok na may kasakiman, ang bundok ay tumatahimik, at sa katahimikang iyon naroon ang babala. Kaya ang Alamat ng Bundok Apo ay hindi lamang kuwento ng isang mataas na bundok. Ito ay kuwento ng paggalang sa sagrado, pag-aalaga sa kalikasan, at pagkatutong ang tao ay nagiging tunay na mataas hindi kapag nasakop niya ang tuktok, kundi kapag natuto siyang bumaba na may mas mapagpakumbabang puso."
     }
   ]
 }
