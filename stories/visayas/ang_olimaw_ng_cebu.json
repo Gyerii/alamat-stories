@@ -1,25 +1,70 @@
 {
-  "id": "ang_olimaw_ng_cebu",
-  "region": "Visayas",
-  "category": "nilalang",
-  "emoji": "👁️",
-  "image": "ang_olimaw_ng_cebu.png",
-  "title_fil": "Ang Olimaw ng Cebu",
-  "chapters": [
-    {
-      "chapter": 1,
-      "title_fil": "Ang Higante sa Kagubatan",
-      "text_fil": "Sa malalim na kagubatan ng Cebu, may isang nilalang na tinatakot ng lahat — ang Olimaw. Ito ay isang higanteng espiritu na may katawang parang puno, mga mata na kumikinang sa gabi, at mga kamay na makakarating sa tuktok ng pinakamataas na puno. Hindi siya mabuti o masama sa simula — siya ay isang tagapanggalaga. Binabantayan niya ang mga puno at mga hayop ng kagubatan, at tinatakot ang sinumang gustong makapinsala sa kalikasan."
-    },
-    {
-      "chapter": 2,
-      "title_fil": "Ang Bata at ang Olimaw",
-      "text_fil": "Isang araw, may isang batang naglibot nang malalim sa kagubatan. Naligaw siya at nagsimulang umiyak. Sa dilim, nakita niya ang mga kumikinang na mata ng Olimaw. Ngunit sa halip na tumakbo, ang bata ay tumayo nang tuwid at nagsabi: 'Kagubatan, nagpapasalamat ako sa inyong mga puno at hayop. Tulungan ninyong makauwi.' Nagtaka ang Olimaw. Hindi siya nasanay na may taong hindi tumatakbo sa kanya. Dahan-dahan, lumakad siya patungo sa bata at itinuro ang daan palabas ng kagubatan."
-    },
-    {
-      "chapter": 3,
-      "title_fil": "Ang Aral ng Olimaw",
-      "text_fil": "Nang makauwi ang bata at isalaysay ang nangyari, nagturo ang kanyang lolo ng isang mahalagang aral: 'Ang Olimaw ay hindi kaaway ng tao. Siya ay kaaway ng mga taong gumaganis sa kalikasan. Kung igagalang mo ang kagubatan, ang kagubatan ay mag-iingat sa iyo.' Mula noon, nang pumunta ang mga tao ng Cebu sa kagubatan, lagi silang nagdadala ng pasasalamat at hindi umaalis nang hindi nag-iiwan ng kahit kaunting pagmamahal — isang awit, isang panalangin, o isang pangako na pangalagaan ang kagubatan para sa susunod na henerasyon."
-    }
-  ]
+"id": "ang_olimaw_ng_cebu",
+"region": "Visayas",
+"category": "nilalang",
+"emoji": "👁️",
+"image": "ang_olimaw_ng_cebu.png",
+"title_fil": "Ang Olimaw ng Cebu",
+"chapters": [
+{
+"chapter": 1,
+"title_fil": "Ang Kagubatang May Mata",
+"text_fil": "Noong unang panahon, bago pa lumawak ang mga daan at dumami ang mga bahay sa kabundukan ng Cebu, may mga kagubatang napakakapal na kahit ang sikat ng araw ay kailangang humingi ng pahintulot bago makapasok. Sa ilalim ng mga punong tugas, balete, lawaan, molave, at kawayan, naninirahan ang mga ibon, usa, baboy-damo, bayawak, ahas, kuliglig, at mga nilalang na hindi kayang makita ng karaniwang mata. Sinasabi ng matatanda na ang kagubatan ay may sariling paghinga. Kapag mahinahon ang mga tao, banayad ang huni ng mga ibon. Kapag may masamang balak ang pumapasok, biglang tumatahimik ang paligid. Sa pinakapuso ng kagubatang iyon, may nilalang na kinatatakutan at iginagalang ng lahat: ang Olimaw. Hindi siya hayop, hindi rin karaniwang engkanto. Isa siyang dambuhalang espiritu ng gubat, may katawang tila katawan ng punong nabuhay, mga bisig na kasinghaba ng sanga, balat na magaspang na parang lumang kahoy, at isang malaking matang kumikinang sa dilim na tila buwan na nakasabit sa noo ng gabi. Kapag siya ay gumalaw, yumuyuko ang damo. Kapag siya ay huminga, kumakaluskos ang dahon. Kapag siya ay tumingin, nalalaman niya kung ang puso ng tao ay may paggalang o kasakiman."
+},
+{
+"chapter": 2,
+"title_fil": "Ang Batas ng Matandang Puno",
+"text_fil": "Ang Olimaw ay hindi isinilang upang manakit. Ayon sa alamat, nilikha siya ng mga espiritu ng lupa upang bantayan ang kagubatan nang dumami ang mga taong nakakalimot humingi ng paalam sa kalikasan. Noong una, ang mga taga-Cebu na pumapasok sa gubat ay marunong makisama. Bago sila pumutol ng kahoy para sa bangka o bahay, kumakatok muna sila sa puno at nagsasabing kukuha lamang sila ng kailangan. Bago sila mamitas ng bunga, nag-iiwan sila ng buto sa lupa upang muling tumubo. Bago sila manghuli, tinitiyak nilang hindi buntis ang hayop at hindi iniiwanang sugatan ang kagubatan. Ngunit lumipas ang panahon, may mga taong pumasok na dala ang yabang. Pumuputol sila ng puno nang sobra, nanghuhuli ng hayop para lamang magyabang, sinusunog ang damuhan, at iniiwan ang basurang hindi nabubulok. Narinig ng matandang balete ang daing ng lupa at tinawag ang hangin, ang hangin ay tumawag sa ulan, ang ulan ay tumawag sa bato, at mula sa ugat, kidlat, dilim, at galit ng kagubatan, tumindig ang Olimaw. Ipinangako niyang hindi niya gagalawin ang taong marunong gumalang, ngunit haharangin niya ang sinumang magnanakaw ng buhay mula sa gubat."
+},
+{
+"chapter": 3,
+"title_fil": "Si Kaloy, ang Batang May Malinis na Puso",
+"text_fil": "Sa paanan ng bundok ay may batang nagngangalang Kaloy. Anak siya ng isang mangangahoy na si Mang Andoy at ng isang manggamot na si Aling Talia. Mahirap lamang ang kanilang pamilya, ngunit kilala sila sa pagiging maingat sa kalikasan. Si Mang Andoy ay kumukuha lamang ng tuyong kahoy o punong pinahintulutan ng matatanda. Si Aling Talia naman ay kumukuha ng dahon, ugat, at bulaklak upang gamutin ang maysakit, ngunit lagi niyang binubulungan ang halaman bago ito putulin. Bata pa lamang si Kaloy ay tinuruan na siyang huwag tumawa sa pamahiin ng matatanda, sapagkat madalas ang tinatawag na pamahiin ay lumang paraan lamang ng pag-aalaga sa mundo. Kapag dadaan siya sa ilalim ng malaking puno, nagsasabi siya ng tabi-tabi po. Kapag iinom siya sa bukal, naghuhugas muna siya ng kamay at hindi nilulublob ang maruming paa. Kapag may sisiw na naligaw, ibinabalik niya sa pugad. Dahil dito, minamahal siya ng mga hayop sa gubat. Ang mga ibon ay hindi lumilipad palayo kapag lumalapit siya. Ang mga butiki ay nananatili sa bato. At minsan, kapag siya ay naglalakad mag-isa, may nararamdaman siyang malaking matang nagmamasid mula sa dilim, ngunit hindi siya natatakot."
+},
+{
+"chapter": 4,
+"title_fil": "Ang mga Manggugubat na Sakim",
+"text_fil": "Isang tag-araw, dumating sa baryo ang isang pangkat ng mga lalaking galing sa malayong lugar. Pinamumunuan sila ni Don Isko, isang mangangalakal na ang tingin sa gubat ay salapi lamang. Nakita niya ang matatandang punong mataas at matibay, at agad niyang naisip ang bahay, bangka, muwebles, at perang maaaring kitain. Sinabihan siya ng mga taga-baryo na may batas ang kagubatan at may bantay itong hindi dapat hamakin. Ngunit tumawa lamang si Don Isko. Sinabi niyang ang puno ay kahoy lamang, ang hayop ay laman lamang, at ang kuwento ng Olimaw ay panakot lamang sa bata. Nang marinig iyon ni Kaloy, nakaramdam siya ng lamig sa dibdib. Kinagabihan, narinig ng baryo ang kakaibang ugong mula sa bundok. Hindi iyon kulog, hindi rin hangin. Iyon ay mabagal na paghinga ng isang nilalang na nagising mula sa mahabang pagbabantay. Kinaumagahan, umakyat sa gubat sina Don Isko dala ang palakol, lagari, lubid, at mga taong bayad upang pumutol. Bawat hampas ng palakol ay tila sugat sa katawan ng lupa. Bawat punong bumagsak ay sinundan ng tahimik na paglipad ng mga ibon. Ngunit hindi pa rin sila tumigil. Hindi nila alam na sa likod ng makapal na dahon, ang isang malaking matang kumikinang ay nakamasid na sa kanila."
+},
+{
+"chapter": 5,
+"title_fil": "Ang Unang Galit ng Olimaw",
+"text_fil": "Nang hapon ding iyon, biglang nag-iba ang anyo ng kagubatan. Ang hanging mainit ay naging malamig. Ang mga kuliglig ay tumigil sa pag-awit. Ang mga aninong dati ay nasa ilalim lamang ng puno ay gumapang sa daan na parang mga kamay. Natawa pa si Don Isko at sinabing malapit nang umulan. Ngunit nang ihahampas na niya ang palakol sa pinakamatandang balete, may dumagundong na tinig mula sa lupa. Hindi ito sumigaw, ngunit narinig ng lahat hanggang sa buto. Sinabi ng tinig na ang punong iyon ay tahanan ng ibon, ugat ng tubig, lilim ng hayop, at alaala ng mga ninuno. Sinabi nitong hindi maaaring putulin ang pusong bumubuhay sa gubat. Sa takot, napaatras ang ibang lalaki. Ngunit si Don Isko ay nagmatigas. Itinaas niya ang palakol at muling tumawa. Sa sandaling iyon, bumukas ang mga dahon at lumitaw ang Olimaw. Napakataas niya, higit pa sa punong niyog. Ang isang mata niya ay nagliliyab na parang baga, at ang mga daliri niya ay parang ugat na kayang yumakap sa buong katawan ng tao. Hindi niya agad sinaktan ang mga lalaki. Inangat lamang niya ang kamay at itinuro ang mga punong pinutol. Biglang narinig ng mga tao ang iyak ng mga ibon, ungol ng hayop, at lagaslas ng bukal na unti-unting humihina. Noon lamang nila naramdaman na ang gubat ay hindi tahimik dahil walang buhay, kundi tahimik dahil nasasaktan."
+},
+{
+"chapter": 6,
+"title_fil": "Ang Pagkaligaw ni Kaloy",
+"text_fil": "Nang mabalitaan ni Kaloy na pumasok sina Don Isko sa pinakasagradong bahagi ng kagubatan, nagmadali siyang sumunod. Dala niya ang munting supot ng halamang gamot ng kanyang ina, kaunting kanin, at isang maliit na kampanilyang yari sa tansong minana pa ng kanyang lola. Gusto niyang pigilan ang mga lalaki bago pa tuluyang magalit ang Olimaw. Ngunit habang palalim siya nang palalim sa gubat, biglang nagbago ang daan. Ang dating landas na kabisado niya ay nawala. Ang mga puno ay tila lumipat ng puwesto. Ang mga ugat ay gumapang sa lupa na parang ahas. Sumapit ang gabi, at ang tanging liwanag ay ang mga alitaptap na tila mga mata ng maliliit na espiritu. Napagod si Kaloy at naupo sa tabi ng isang bato. Sa halip na magreklamo, hinawakan niya ang lupa at nagsalita nang mahinahon. Sinabi niya sa kagubatan na hindi siya dumating upang manakit. Dumating siya upang humingi ng tulong. Pinasalamatan niya ang mga puno, ang tubig, ang hayop, at maging ang dilim na nagtatago sa mga nilalang mula sa kamay ng sakim. Nang matapos siyang magsalita, lumamig ang hangin. Mula sa likod ng mga puno, lumitaw ang isang malaking matang kumikinang. Naroon ang Olimaw, nakayuko upang titigan ang batang hindi tumakbo."
+},
+{
+"chapter": 7,
+"title_fil": "Ang Bata at ang Higante",
+"text_fil": "Napakalapit ng mukha ng Olimaw kay Kaloy, kaya naramdaman ng bata ang hiningang amoy lumot, ulan, at lumang kahoy. Kung ibang tao iyon, baka nahimatay na sa takot. Ngunit naalala ni Kaloy ang turo ng kanyang ina: ang kinatatakutan ay hindi laging kaaway; minsan, ito ay sugat na naghihintay maunawaan. Tumayo siya nang tuwid, yumuko, at nagsabing nagpapasalamat siya sa kagubatan. Sinabi niyang hindi niya nais magnakaw ng kahoy o manakit ng hayop. Hinahanap lamang niya ang mga taong naligaw sa kasakiman. Matagal na tumahimik ang Olimaw. Sa kanyang malaking mata, nakita ni Kaloy ang mga larawan ng nakaraan: mga batang naglalaro sa ilalim ng puno, mga ibong nawalan ng pugad, mga ilog na luminaw at lumabo, mga taong nangako at nakalimot. Pagkatapos, nagsalita ang Olimaw. Sinabi niyang bihira na ang taong marunong humingi ng pahintulot. Bihira na ang batang tumitingin sa puno at nakikita itong buhay, hindi kahoy lamang. Tinanong niya si Kaloy kung bakit niya ipagtatanggol ang mga taong nagkasala sa gubat. Sumagot si Kaloy na hindi lahat ng nagkakamali ay dapat iwan. May mga taong kailangang matakot muna bago matutong gumalang. At kung walang magtuturo sa kanila, patuloy silang maninira. Sa sagot na iyon, unang beses na pumikit ang malaking mata ng Olimaw, na para bang may naalala siyang lumang awa."
+},
+{
+"chapter": 8,
+"title_fil": "Ang Hatol ng Kagubatan",
+"text_fil": "Dinala ng Olimaw si Kaloy sa pinakasagradong bahagi ng gubat kung saan nakulong sa takot sina Don Isko at ang kanyang mga kasama. Hindi sila nakatali, ngunit hindi sila makaalis. Bawat landas na kanilang tahakin ay bumabalik sa pinutol na mga puno. Bawat sigaw nila ay sinasagot ng alingawngaw ng mga ibong nawalan ng tahanan. Nang makita nila ang Olimaw, nagsiluhod ang ilan. Si Don Isko lamang ang nanatiling nakatayo, ngunit nanginginig ang kanyang kamay. Itinaas ng Olimaw ang isa niyang daliri, at mula sa lupa ay umangat ang mga ugat. Ipinakita nito ang mga pugad na bumagsak, ang bukal na natabunan ng putik, at ang maliit na usa na sugatan dahil sa bumagsak na sanga. Hindi kailangan ng maraming salita; sapat na ang makita ng tao ang pinsalang ginawa niya. Sinabi ni Kaloy na ang gubat ay may karapatang magalit, ngunit hiniling niyang bigyan ng pagkakataon ang mga nagkasala upang bumawi. Sumang-ayon ang Olimaw, ngunit may kapalit. Bawat punong pinutol ay kailangang tumbasan ng maraming punla. Bawat hayop na nasaktan ay kailangang gamutin. Bawat bahagi ng gubat na sinira ay kailangang bantayan hanggang muling tumubo. At higit sa lahat, kailangang ikuwento ni Don Isko sa bawat baryong pupuntahan niya na ang kagubatan ay hindi minahan ng tubo, kahoy, at kita lamang. Ito ay tahanan. Kapag sinira mo ang tahanan, balang araw wala ka ring uuwian."
+},
+{
+"chapter": 9,
+"title_fil": "Ang Panunumpa sa Ilalim ng Balete",
+"text_fil": "Kinabukasan, tinipon ni Kaloy ang mga taga-baryo sa ilalim ng matandang balete. Naroon sina Mang Andoy, Aling Talia, Tandang Merto, ang mga batang dating naglalaro sa sapa, at maging ang mga lalaking sumama kay Don Isko. Wala si Olimaw sa kanilang harapan, ngunit ramdam ang kanyang presensya sa bawat kaluskos ng dahon. Doon ginawa ang panunumpa ng pamayanan. Nangako silang hindi papasok sa gubat nang walang dahilan. Nangako silang magtatanim kapalit ng kukunin. Nangako silang hindi manghuhuli ng hayop sa panahon ng panganganak at hindi sisira ng pugad. Nangako silang lilinisin ang bukal, aalagaan ang daan ng tubig, at tuturuan ang mga bata na magsabi ng tabi-tabi po hindi bilang takot lamang, kundi bilang paggalang. Si Don Isko ay napilitang magsalita. Sa una, mabigat ang kanyang dila, ngunit nang makita niya ang mga batang nakatingin sa kanya, naalala niya ang mga punong pinabagsak niya. Humingi siya ng tawad. Sinabi niyang akala niya noon ang yaman ay nasa dami ng makukuha. Ngayon, natutuhan niyang ang tunay na yaman ay ang bagay na nananatiling buhay kahit pagkatapos mong gamitin. Pagkatapos ng panunumpa, isang dahon mula sa balete ang nahulog sa gitna nila. Kinuha ito ni Kaloy at inilagay sa ibabaw ng lupa. Sabi ng matatanda, iyon ang tanda na tinanggap ng Olimaw ang kanilang pangako."
+},
+{
+"chapter": 10,
+"title_fil": "Ang Pagbabago ng Baryo",
+"text_fil": "Lumipas ang mga buwan, at nagbago ang baryo. Hindi biglaan, hindi parang mahika, kundi sa mabagal at tunay na paraan. Ang dating mga batang naghahagis ng bato sa ibon ay natutong gumawa ng munting pugad sa puno. Ang mga mangingisda at mangangahoy ay nag-usap kung alin ang ligtas kunin at alin ang dapat iwan. Ang mga babae at lalaki ay nagtanim ng punla sa gilid ng burol upang hindi gumuho ang lupa kapag umulan. Si Don Isko, na dating sakim, ay bumalik dala ang mga punlang binili mula sa kinita niya noon. Hindi agad siya pinatawad ng lahat, ngunit pinayagan siyang tumulong. Araw-araw siyang nagtanim, nagdilig, at naglinis ng bahaging sinira niya. Sa gabi, minsan ay naririnig niya ang mabigat na yapak ng Olimaw sa malayo. Hindi na iyon tunog ng banta para sa kanya; iyon ay paalala na may nagbabantay sa kanyang pagbabago. Si Kaloy naman ay naging tagapagturo ng mga bata. Dinala niya sila sa gubat, ngunit hindi upang mangharabas. Itinuro niya ang pangalan ng mga puno, ang gamit ng halamang gamot, ang paraan ng pag-inom sa bukal nang hindi dinudumihan ito, at ang pakikinig sa katahimikan. Sinasabi niya na kapag tahimik ang gubat, hindi ibig sabihin ay walang kuwento. Kailangan mo lamang matutong makinig."
+},
+{
+"chapter": 11,
+"title_fil": "Ang Huling Pagpapakita ng Olimaw",
+"text_fil": "Maraming taon ang lumipas. Si Kaloy ay tumanda, nagkaroon ng sariling mga apo, at naging isa sa pinakaginagalang na matatanda sa kanilang lugar. Ang dating mga punlang itinanim matapos ang hatol ng Olimaw ay lumaki na at naging batang gubat. Bumalik ang mga ibon. Lumakas muli ang bukal. May mga hayop na muling nagpakita sa malayong bahagi ng bundok. Ngunit isang tagtuyot ang dumating. Halos matuyo ang sapa, nanilaw ang mga dahon, at nangamba ang mga tao na baka mamatay ang mga itinanim nila. Umakyat si Kaloy sa gubat kahit mahina na ang tuhod. Sa ilalim ng matandang balete, naupo siya at tinawag ang Olimaw, hindi upang humingi ng himala, kundi upang humingi ng gabay. Matagal ang katahimikan. Pagkatapos, bumukas ang dilim sa pagitan ng mga puno at lumitaw ang malaking matang matagal na niyang kilala. Mas matanda na rin ang anyo ng Olimaw; ang kanyang balat ay puno ng lumot, at may mga ibong nakapugad sa kanyang balikat. Sinabi ng Olimaw na hindi lahat ng pagsubok ay parusa. May mga tagtuyot na dumarating upang ipaalala sa tao ang halaga ng tubig. Itinuro niya kay Kaloy ang isang lumang bukal na natabunan ng bato at ugat. Tinawag ni Kaloy ang mga tao, at sama-sama nilang nilinis ang bukal. Nang muling umagos ang tubig, hindi nagsigawan ang mga tao sa tuwa. Tahimik silang lumuhod at nagpasalamat. Nang lingunin ni Kaloy ang gubat, wala na ang Olimaw. Tanging isang malaking bakas ng paa sa putik ang naiwan, puno ng malinaw na tubig."
+},
+{
+"chapter": 12,
+"title_fil": "Ang Aral ng Olimaw",
+"text_fil": "Hanggang ngayon, sa ilang lumang kuwento ng Cebu, binabanggit pa rin ng matatanda ang Olimaw kapag may batang walang ingat sa puno, bato, bukal, o hayop. Hindi nila ito ikinukuwento upang takutin lamang ang bata, kundi upang ipaalala na ang kalikasan ay may hangganan ang pagtitiis. Sinasabi nilang kapag pumapasok ka sa gubat at biglang tumahimik ang paligid, makinig ka. Kapag may malamig na hanging dumaan kahit mainit ang araw, magpasalamat ka. Kapag nakakita ka ng punong napakatanda na, huwag mo itong tratuhing kahoy lamang, sapagkat maaaring mas marami pa itong alam na kuwento kaysa sa buong baryo. Ang Olimaw ay hindi kaaway ng tao. Kaaway siya ng kasakiman, paglapastangan, at paglimot. Sa taong marunong humingi ng paalam, marunong kumuha ng sapat, marunong magtanim kapalit, at marunong magturo sa bata ng paggalang, ang Olimaw ay bantay at gabay. Ngunit sa taong nag-aakalang ang gubat ay bagay na maaaring ubusin, ang isang matang kumikinang sa dilim ay muling magbubukas. Ang alamat ng Olimaw ng Cebu ay aral na ang tunay na tapang ay hindi ang pagharap sa higante, kundi ang pagbabago ng puso bago pa magalit ang kagubatan. Habang may punong tumutubo, bukal na dumadaloy, ibong umaawit, batang nagsasabi ng tabi-tabi po, at taong handang magtanim matapos kumuha, mananatiling buhay ang Olimaw — higanteng bantay, matang hindi natutulog, at kaluluwa ng kagubatang dapat mahalin ng bawat salinlahi."
+}
+]
 }
