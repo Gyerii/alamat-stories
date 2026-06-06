@@ -7,7 +7,7 @@ const outputDir = './covers_compressed';
 
 if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir);
 
-const files = fs.readdirSync(inputDir).filter(f => f.endsWith('.png'));
+const files = fs.readdirSync(inputDir).filter(f => f.endsWith('.jpg'));
 console.log(`Compressing ${files.length} images...`);
 
 Promise.all(
@@ -15,7 +15,7 @@ Promise.all(
     sharp(path.join(inputDir, file))
       .resize(500, 600, { fit: 'cover' })
       .jpeg({ quality: 82 })
-      .toFile(path.join(outputDir, file.replace('.png', '.jpg')))
+      .toFile(path.join(outputDir, file.replace('.jpg', '.jpg')))
       .then(() => console.log(`[${i+1}/${files.length}] Done: ${file}`))
   )
 ).then(() => console.log('TAPOS NA!'));
